@@ -1,0 +1,35 @@
+[
+  {
+    "text_id": "lind_1",
+    "date": 1658,
+    "author_id": "lind",
+    "metre": "elegiac couplets",
+    "genres": "epinicion",
+    "associated_person": "Charles X Gustav",
+    "associated_person_url": "(https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%3A27368&dswid=5509",
+    "text_source": "Per Hanselli (ed.), Samlade vitterhetsarbeten af svenska författare, vol. 4, pp. 235-236",
+    "text_source_url": "https://runeberg.org/svsf/1/0351.html"
+  },
+  {
+    "text_id": "columb_1",
+    "date": 1676,
+    "author_id": "columb",
+    "metre": "elegiac couplets",
+    "genres": "epithalamium",
+    "associated_person": "Urban Hiärne",
+    "associated_person_url": "https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%3A4773&dswid=-7190",
+    "text_source": "Per Hanselli (ed.), Samlade vitterhetsarbeten af svenska författare, vol. 1, p. 333",
+    "text_source_url": "https://runeberg.org/svsf/1/0351.htm"
+  },
+  {
+    "text_id": "lager_1",
+    "date": 1689,
+    "author_id": "lager",
+    "metre": "elegiac couplets",
+    "genres": "funeral poetry",
+    "associated_person": "Johannes Johannis",
+    "associated_person_url": "(https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person%3A81726&dswid=6988",
+    "text_source": "Petrus Lagerlöf, Bröllop hos Schefferus och andra dikter (ed. P. Sjökvist), pp. ??-??",
+    "text_source_url": "NA"
+  }
+]

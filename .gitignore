@@ -1,0 +1,26 @@
+venv
+.venv
+
+# Ignore all local .env files
+.env
+
+# Ignore Visual Studio Code settings
+.vscode
+
+# Ignore Jupyter Notebook settings
+.ipynb_checkpoints
+
+# Ignore .idea folder
+.idea
+idea
+
+# Ignore .DS_Store files
+.DS_Store
+
+# Ignore .pytest_cache folder
+.pytest_cache
+
+# Ignore .pytest_cache folder
+.cache
+
+

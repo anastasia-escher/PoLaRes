@@ -1,0 +1,842 @@
+token	lemma	pos	morphosyntactic_features	author	text_id	title	line_number
+Marte	Marta	NOUN	{Case: [ablative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	1
+satos	so	VERB	{Case: [accusative], Gender: [masculine], Number: [plural], Tense: [past], VerbForm: [participle], Voice: [passive]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	1
+Sveones	Sveones	NOUN	{Case: [accusative], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	1
+prisci	prisci	ADJ	{Case: [nominative], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	1
+sensere	sensere	VERB	{VerbForm: [infinitive, infinitive], Tense: [present], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	1
+Gothos	Gothos	NOUN	{Case: [accusative], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	1
+que	que	CCONJ	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	1
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	1
+Traditur	Trado	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [passive]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	2
+et	et	CCONJ	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	2
+Boreae	Borea	PROPN	{Case: [genitive], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	2
+Mars	Mars	PROPN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	2
+habitasse	habito	VERB	{VerbForm: [infinitive, infinitive], Tense: [past], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	2
+lares	lar	NOUN	{Case: [accusative], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	2
+.	.	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	2
+Quo	qui	ADV	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	3
+non	non	PART	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	3
+arma	arma	NOUN	{Case: [accusative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	3
+tulit	fero	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	3
+pugnax	pugnax	ADJ	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	3
+septentrio	septentrius	NOUN	{Case: [ablative], Gender: [neuter], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	3
+?	?	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	3
+Quis	quis	PRON	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	3
+non	non	PART	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	3
+Incubuit	incubuit	VERB	{VerbForm: [infinitive, infinitive], Tense: [past], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	4
+mundi	mundus	NOUN	{Case: [genitive], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	4
+gens	gens	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	4
+animosa	animosus	ADJ	{Case: [nominative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	4
+plagis	plaga	NOUN	{Case: [ablative], Gender: [feminine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	4
+?	?	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	4
+Crebrius	Crebrius	PROPN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	5
+inprimis	inprimus	ADJ	{Case: [ablative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	5
+vicino	uicinum	ADJ	{Case: [ablative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	5
+cardine	carden	NOUN	{Case: [ablative], Gender: [neuter], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	5
+moti	moueo	VERB	{Case: [nominative], Gender: [masculine], Number: [plural], Tense: [past], VerbForm: [participle], Voice: [passive]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	5
+Irarum	Irarum	NOUN	{Case: [genitive], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	6
+nimbi	nimbi	NOUN	{Case: [nominative], Gender: [feminine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	6
+detonuere	detonuo	VERB	{Mood: [indicative], Number: [plural], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	6
+graves	grauis	ADJ	{Case: [nominative], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	6
+Praelia	Praelia	ADJ	{Case: [accusative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	7
+quis	quis	PRON	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	7
+nescit	nescio	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	7
+vel	uel	CCONJ	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	7
+bellatricia	bellatricius	ADJ	{Case: [accusative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	7
+rostra	rostrum	NOUN	{Case: [accusative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	7
+In	in	ADP	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	8
+gremio	gremium	NOUN	{Case: [ablative], Gender: [neuter], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	8
+Baltes	Baltes	NOUN	{Case: [accusative], Gender: [feminine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	8
+in	in	ADP	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	8
+Boreae	Borea	PROPN	{Case: [genitive], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	8
+que	que	NOUN	{Case: [genitive], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	8
+sinu	sinus	NOUN	{Case: [ablative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	8
+?	?	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	8
+Sed	sed	CCONJ	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	9
+superat	supero	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	9
+veteres	uetus	ADJ	{Case: [accusative], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	9
+sors	sors	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	9
+nostra	noster	ADJ	{Case: [nominative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	9
+novissima	novissimus	ADJ	{Case: [nominative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	9
+casus	casus	NOUN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	9
+Vidimus	Vidimus	VERB	{Mood: [indicative], Number: [plural], Person: [first], Tense: [present], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	10
+hoc	hic	DET	{Case: [ablative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	10
+aevo	aevum	NOUN	{Case: [ablative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	10
+bella	bellum	NOUN	{Case: [accusative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	10
+stupenda	stupeo	VERB	{Case: [accusative], Gender: [neuter], VerbForm: [gerundive, participle], Number: [plural], Tense: [future], Voice: [passive]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	10
+magis	magis	ADV	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	10
+.	.	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	10
+Post	Post	ADP	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	11
+domitos	domitus	ADJ	{Case: [accusative], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	11
+populos	populus	NOUN	{Case: [accusative], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	11
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	11
+post	post	ADP	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	11
+regna	regnum	NOUN	{Case: [accusative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	11
+impleta	impleo	VERB	{Case: [accusative], Gender: [neuter], Number: [plural], VerbForm: [participle], Voice: [passive]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	11
+tropaeis	tropaeum	NOUN	{Case: [ablative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	11
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	11
+Qua	qui	PRON	{Case: [ablative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	12
+vagus	uagus	ADJ	{Case: [nominative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	12
+effusa	effundo	VERB	{Case: [ablative], Gender: [feminine], Number: [singular], Tense: [past], VerbForm: [participle], Voice: [passive]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	12
+Vistula	Vistula	PROPN	{Case: [accusative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	12
+mole	mole	NOUN	{Case: [ablative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	12
+fluit	fluo	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	12
+.	.	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	12
+Pergebat	Pergebat	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	13
+Cimbras	Cimbra	PROPN	{Case: [accusative], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	13
+Carolus	Carolus	PROPN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	13
+Gustavus	Gustavus	PROPN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	13
+ad	ad	ADP	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	13
+oras	ora	NOUN	{Case: [accusative], Gender: [feminine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	13
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	13
+Ulturus	Ulturus	PROPN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	14
+ruptam	ruptam	VERB	{Case: [accusative], Gender: [feminine], Number: [singular], VerbForm: [participle], Voice: [passive]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	14
+per	per	ADP	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	14
+fera	ferus	ADJ	{Case: [accusative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	14
+bella	bellum	NOUN	{Case: [accusative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	14
+fidem	fides	NOUN	{Case: [accusative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	14
+Jam	Jam	PROPN	{Case: [genitive], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	15
+que	que	CCONJ	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	15
+rates	ratis	NOUN	{Case: [accusative], Gender: [feminine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	15
+Pelago	Pelagus	PROPN	{Case: [dative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	15
+vecturas	vectura	NOUN	{Case: [accusative], Gender: [feminine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	15
+castra	castra	NOUN	{Case: [accusative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	15
+parabat	paro	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	15
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	15
+Allatura	allatura	PROPN	{Case: [ablative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	16
+moram	mora	NOUN	{Case: [accusative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	16
+frigora	frigor	ADJ	{Case: [accusative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	16
+sola	solus	ADJ	{Case: [accusative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	16
+timens	timeo	VERB	{Case: [nominative], Gender: [masculine], Number: [singular], Tense: [present], VerbForm: [participle], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	16
+Fit	fio	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	17
+compos	compos	ADJ	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	17
+voti	uotum	NOUN	{Case: [genitive], Gender: [neuter], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	17
+Rex	Rex	PROPN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	17
+per	per	ADP	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	17
+contraria	contrarius	ADJ	{Case: [accusative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	17
+votis	uotum	NOUN	{Case: [ablative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	17
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	17
+Dum	dum	SCONJ	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	18
+fuit	sum	AUX	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	18
+in	in	ADP	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	18
+nostris	noster	ADJ	{Case: [ablative], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	18
+partibus	pars	NOUN	{Case: [ablative], Gender: [feminine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	18
+acris	acer	ADJ	{Case: [ablative], Gender: [feminine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	18
+hiems	hiems	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	18
+;	;	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	18
+Sidere	Sido	VERB	{VerbForm: [infinitive, infinitive], Tense: [present], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	19
+praegelido	praegelidus	ADJ	{Case: [ablative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	19
+mox	mox	ADV	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	19
+Arctos	Arctos	PROPN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	19
+inhorruit	inhorreo	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	19
+omnis	omnis	ADJ	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	19
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	19
+Atque	atque	CCONJ	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	20
+incrustatas	incrustatas	VERB	{Case: [accusative], Gender: [feminine], Number: [plural], Tense: [past], VerbForm: [participle], Voice: [passive]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	20
+consolidavit	consolido	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	20
+aquas	aqua	NOUN	{Case: [accusative], Gender: [feminine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	20
+.	.	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	20
+Vertitur	Verto	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [passive]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	21
+in	in	ADP	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	21
+Pontem	Pons	PROPN	{Case: [accusative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	21
+Pontus	Pontus	PROPN	{Case: [genitive], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	21
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	21
+laquear	laquear	VERB	{Mood: [subjunctive], Number: [singular], Person: [first], Tense: [present], VerbForm: [finite], Voice: [passive]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	21
+que	que	PRON	{Case: [nominative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	21
+fit	fio	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	21
+aequor	aequor	ADJ	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	21
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	21
+In	in	ADP	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	22
+que	qui	DET	{Case: [accusative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	22
+soli	solum	NOUN	{Case: [genitive], Gender: [neuter], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	22
+speciem	species	NOUN	{Case: [accusative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	22
+cogitur	cogo	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [passive]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	22
+omne	omnis	ADJ	{Case: [nominative], Gender: [neuter], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	22
+salum	salum	NOUN	{Case: [nominative], Gender: [neuter], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	22
+.	.	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	22
+Persultant	Persultant	VERB	{Mood: [indicative], Number: [plural], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	23
+aciem	acies	NOUN	{Case: [accusative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	23
+florentes	floreo	VERB	{Case: [accusative], Gender: [masculine], Number: [plural], VerbForm: [participle], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	23
+aere	aer	NOUN	{Case: [ablative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	23
+catervae	catervae	NOUN	{Case: [accusative], Gender: [feminine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	23
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	23
+Arctoas	Arctoas	PROPN	{Case: [genitive], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	24
+que	que	NOUN	{Case: [genitive], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	24
+acies	acies	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	24
+marmora	marmor	NOUN	{Case: [nominative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	24
+salsa	sallo	VERB	{Case: [accusative], Gender: [neuter], Number: [plural], Tense: [past], VerbForm: [participle], Voice: [passive]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	24
+ferunt	fero	VERB	{Mood: [indicative], Number: [plural], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	24
+Magnanimus	magnanimus	PROPN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	25
+laetas	laeta	VERB	{Mood: [indicative], Number: [singular], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	25
+ductat	ducto	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	25
+Rex	Rex	PROPN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	25
+ipse	ipse	DET	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	25
+cohortes	cohors	NOUN	{Case: [accusative], Gender: [feminine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	25
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	25
+Insolitum	insolitum	PROPN	{Case: [accusative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	26
+que	que	PRON	{Case: [accusative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	26
+suis	suus	ADJ	{Case: [ablative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	26
+per	per	ADP	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	26
+freta	ferno	NOUN	{Case: [accusative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	26
+monstrat	monstro	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	26
+iter	iter	NOUN	{Case: [accusative], Gender: [neuter], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	26
+.	.	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	26
+Aenea	Aeneus	PROPN	{Case: [ablative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	27
+cornipedum	cornipes	NOUN	{Case: [accusative], Gender: [neuter], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	27
+fixos	fixus	VERB	{Mood: [indicative], Number: [singular], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	27
+terit	tero	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [future], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	27
+ungula	ungula	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	27
+fluctus	fluctus	NOUN	{Case: [genitive], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	27
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	27
+Per	Per	ADP	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	28
+vitreos	uitreus	ADJ	{Case: [accusative], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	28
+campos	campos	NOUN	{Case: [accusative], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	28
+agmina	agminum	NOUN	{Case: [accusative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	28
+cana	canus	ADJ	{Case: [accusative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	28
+meant	meo	VERB	{Mood: [subjunctive], Number: [plural], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	28
+.	.	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	28
+Si	si	SCONJ	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	29
+gessit	gero	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	29
+triplici	triplex	ADJ	{Case: [ablative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	29
+praecordia	praecordia	NOUN	{Case: [ablative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	29
+juncta	junco	VERB	{Case: [ablative], Gender: [feminine], Number: [singular], VerbForm: [participle], Voice: [passive]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	29
+metallo	metallum	NOUN	{Case: [ablative], Gender: [neuter], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	29
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	29
+Qui	qui	PRON	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	30
+docuit	doceo	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	30
+primus	primus	ADJ	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	30
+caerula	chaerula	NOUN	{Case: [accusative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	30
+ferre	fero	VERB	{VerbForm: [infinitive, infinitive], Tense: [present], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	30
+ratem	ratis	NOUN	{Case: [accusative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	30
+;	;	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	30
+Pectora	Pectora	PROPN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	31
+quae	qui	PRON	{Case: [nominative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	31
+fuerint	sum	AUX	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	31
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	31
+quamque	quamque	ADV	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	31
+impavidissima	impavidissima	ADJ	{Case: [nominative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	31
+nostris	noster	ADJ	{Case: [dative], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	31
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	31
+Qui	qui	PRON	{Case: [nominative], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	32
+nulla	nullus	ADJ	{Case: [accusative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	32
+calcant	calco	VERB	{Mood: [indicative], Number: [plural], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	32
+aequora	aequor	NOUN	{Case: [accusative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	32
+strata	strata	VERB	{Case: [nominative], Gender: [neuter], Number: [plural], VerbForm: [participle], Voice: [passive]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	32
+trabe	trabe	NOUN	{Case: [ablative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	32
+!	!	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	32
+Non	Non	PART	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	33
+vos	uos	PRON	{Case: [nominative], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	33
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	33
+Isacides	Isacides	PROPN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	33
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	33
+divina	diuinus	ADJ	{Case: [ablative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	33
+potentia	potentia	NOUN	{Case: [ablative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	33
+solos	solus	ADJ	{Case: [accusative], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	33
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	33
+Nos	Nos	PRON	{Case: [nominative], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	34
+quoque	quoque	ADV	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	34
+praesenti	praesens	ADJ	{Case: [dative], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	34
+nobilitavit	nobilito	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	34
+ope	ops	NOUN	{Case: [ablative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	34
+Illinc	illinc	ADV	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	35
+seu	seu	CCONJ	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	35
+gemini	geminus	NOUN	{Case: [nominative], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	35
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	35
+sublimia	sublimis	ADJ	{Case: [accusative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	35
+flumina	flumen	NOUN	{Case: [accusative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	35
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	35
+muri	murus	NOUN	{Case: [genitive], Gender: [neuter], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	35
+Erecta	Erecta	PROPN	{Case: [nominative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	36
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	36
+et	et	CCONJ	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	36
+sicco	siccus	ADJ	{Case: [ablative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	36
+sunt	sum	AUX	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	36
+vada	uadum	NOUN	{Case: [nominative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	36
+tacta	tango	VERB	{Case: [nominative], Gender: [neuter], Number: [plural], Tense: [past], VerbForm: [participle], Voice: [passive]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	36
+pede	pes	NOUN	{Case: [ablative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	36
+.	.	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	36
+Pensilis	Pensilis	PROPN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	37
+hinc	hinc	ADV	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	37
+fornix	fornix	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	37
+et	et	CCONJ	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	37
+pons	pons	NOUN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	37
+christallinus	christallinus	ADJ	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	37
+undas	unda	NOUN	{Case: [accusative], Gender: [feminine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	37
+Induit	induit	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	38
+insuetum	insuetus	ADJ	{Case: [accusative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	38
+his	hic	DET	{Case: [dative], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	38
+imposuit	imposuit	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	38
+que	que	CCONJ	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	38
+jugum	jugum	NOUN	{Case: [accusative], Gender: [neuter], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	38
+;	;	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	38
+Neutris	Neutres	PROPN	{Case: [genitive], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	39
+fluxa	fluo	VERB	{Case: [ablative], Gender: [feminine], Number: [singular], VerbForm: [participle], Voice: [passive]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	39
+fldes	fls	ADJ	{Case: [ablative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	39
+elementis	elementum	NOUN	{Case: [ablative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	39
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	39
+consita	conseo	VERB	{Case: [ablative], Gender: [feminine], Number: [singular], VerbForm: [participle], Voice: [passive]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	39
+neutris	neutrus	ADJ	{Case: [ablative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	39
+Neptuni	Neptunus	PROPN	{Case: [nominative], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	40
+movit	mosco	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	40
+turbine	turbo	NOUN	{Case: [ablative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	40
+bilis	bilis	ADJ	{Case: [nominative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	40
+aquas	aqua	NOUN	{Case: [accusative], Gender: [feminine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	40
+.	.	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	40
+Utraque	Utraque	DET	{Case: [nominative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	41
+gens	gens	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	41
+victis	uinco	VERB	{Case: [dative], Gender: [masculine], Number: [plural], Tense: [past], VerbForm: [participle], Voice: [passive]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	41
+illustrior	illustrus	ADJ	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	41
+hostibus	hostis	NOUN	{Case: [ablative], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	41
+egit	ago	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	41
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	41
+Utraque	Utraque	DET	{Case: [nominative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	42
+gens	gens	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	42
+terris	terra	NOUN	{Case: [ablative], Gender: [feminine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	42
+ditibus	des	NOUN	{Case: [ablative], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	42
+aucta	auco	VERB	{Case: [nominative], Gender: [feminine], Number: [singular], VerbForm: [participle], Voice: [passive]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	42
+fuit	sum	AUX	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	42
+.	.	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	42
+Quaeris	Quaeris	PROPN	{Case: [ablative], Gender: [feminine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	43
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	43
+cur	cur	ADV	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	43
+similes	similis	ADJ	{Case: [nominative], Gender: [masculine], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	43
+referant	refero	VERB	{Mood: [subjunctive], Number: [plural], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	43
+miracula	miraculum	NOUN	{Case: [accusative], Gender: [neuter], Number: [plural]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	43
+casus	casus	NOUN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	43
+?	?	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	43
+Utraque	Utraque	DET	{Case: [nominative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	44
+gens	gens	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	44
+nixa	nitor	VERB	{Case: [nominative], Gender: [feminine], Number: [singular], VerbForm: [participle], Voice: [passive]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	44
+est	sum	AUX	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	44
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	44
+utraque	uterque	DET	{Case: [nominative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	44
+causa	causa	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	44
+,	,	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	44
+Deo	deus	NOUN	{Gender: [masculine], Number: [singular]}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	44
+.	.	PUNCT	{}	lind	lind_1	In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658	44
+Suaviloquens	Suaviloquo	VERB	{Case: [nominative], Gender: [masculine], Number: [singular], VerbForm: [participle], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	1
+Urbane	Urbane	PROPN	{Case: [vocative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	1
+,	,	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	1
+pater	pater	NOUN	{Case: [nominative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	1
+cui	qui	PRON	{Case: [dative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	1
+certus	certus	ADJ	{Case: [nominative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	1
+Apollo	Apollo	PROPN	{Case: [nominative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	1
+Et	et	CCONJ	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	2
+chelyn	chelyn	ADJ	{Case: [nominative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	2
+et	et	CCONJ	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	2
+medicae	medicus	ADJ	{Case: [dative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	2
+munera	munus	NOUN	{Case: [accusative], Gender: [neuter], Number: [plural]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	2
+donat	dono	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	2
+opis	opa	NOUN	{Case: [dative], Gender: [feminine], Number: [plural]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	2
+,	,	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	2
+Qui	Qui	PRON	{Case: [nominative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	3
+tuus	tuus	ADJ	{Case: [nominative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	3
+est	sum	AUX	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	3
+candor	candor	NOUN	{Case: [nominative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	3
+,	,	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	3
+veniam	uenio	VERB	{Mood: [indicative], Number: [singular], Person: [first], Tense: [future], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	3
+concede	concedeo	VERB	{Mood: [imperative], Number: [singular], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	3
+sodali	sodalis	ADJ	{Case: [ablative], Gender: [neuter], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	3
+,	,	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	3
+Carmina	Carmen	NOUN	{Case: [accusative], Gender: [neuter], Number: [plural]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	4
+si	si	SCONJ	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	4
+meritis	meritum	NOUN	{Case: [ablative], Gender: [neuter], Number: [plural]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	4
+fers	fero	VERB	{Mood: [indicative], Number: [singular], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	4
+leviora	levus	ADJ	{Case: [accusative], Gender: [neuter], Number: [plural]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	4
+tuis	tuus	ADJ	{Case: [dative], Gender: [masculine], Number: [plural]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	4
+.	.	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	4
+Acta	Ago	PROPN	{Case: [genitive], Gender: [neuter], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	5
+mihi	ego	PRON	{Case: [dative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	5
+te	tu	PRON	{Case: [ablative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	5
+cum	cum	ADP	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	5
+nitidae	nitidus	NOUN	{Case: [nominative], Gender: [feminine], Number: [plural]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	5
+pars	pars	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	5
+magna	magnus	ADJ	{Case: [nominative], Gender: [feminine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	5
+juventae	juventus	ADJ	{Case: [genitive], Gender: [feminine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	5
+Mille	Mille	NUM	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	6
+recognoscit	recognosco	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	6
+seria	seria	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	6
+,	,	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	6
+mille	mille	NUM	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	6
+jocos	jocus	NOUN	{Case: [accusative], Gender: [masculine], Number: [plural]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	6
+.	.	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	6
+Recta	Rego	ADP	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	7
+fides	fides	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	7
+aequas	aequus	ADJ	{Case: [accusative], Gender: [feminine], Number: [plural]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	7
+tenuit	teneo	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	7
+sine	sine	ADP	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	7
+crimine	crimen	NOUN	{Case: [ablative], Gender: [neuter], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	7
+leges	lex	NOUN	{Case: [nominative], Gender: [feminine], Number: [plural]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	7
+,	,	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	7
+Nec	nec	CCONJ	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	8
+minuit	minuo	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	8
+gratas	gratus	ADJ	{Case: [accusative], Gender: [feminine], Number: [plural]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	8
+ulla	ullus	DET	{Case: [nominative], Gender: [feminine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	8
+querela	querela	NOUN	{Case: [ablative], Gender: [feminine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	8
+vias	uia	NOUN	{Case: [accusative], Gender: [feminine], Number: [plural]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	8
+.	.	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	8
+Nunc	nunc	ADV	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	9
+animo	animus	NOUN	{Case: [ablative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	9
+repetenti	repeto	VERB	{Case: [dative], Gender: [masculine], Number: [singular], Tense: [present], VerbForm: [participle], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	9
+eadem	idem	DET	{Case: [ablative], Gender: [feminine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	9
+se	se	PRON	{Case: [accusative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	9
+magna	magnus	ADJ	{Case: [nominative], Gender: [feminine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	9
+voluptas	uoluptas	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	9
+Ingerit	Ingerit	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	10
+,	,	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	10
+et	et	CCONJ	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	10
+rursum	rursus	ADV	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	10
+gratia	gratia	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	10
+densa	densus	ADJ	{Case: [nominative], Gender: [feminine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	10
+subit	subeo	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	10
+.	.	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	10
+Jure	Jus	NOUN	{Case: [ablative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	11
+tuus	tuus	ADJ	{Case: [nominative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	11
+possit	possum	VERB	{Mood: [subjunctive], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	11
+thalamus	thalo	VERB	{Mood: [indicative], Number: [plural], Person: [first], Tense: [present], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	11
+meliore	bonus	ADJ	{Case: [accusative], Gender: [feminine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	11
+sonari	sono	VERB	{VerbForm: [infinitive, infinitive], Tense: [present], Voice: [passive]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	11
+Carmine	Carmen	PROPN	{Case: [ablative], Gender: [neuter], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	12
+,	,	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	12
+cui	qui	PRON	{Case: [dative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	12
+roseas	roseo	VERB	{Mood: [subjunctive], Number: [singular], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	12
+fert	fero	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	12
+Venus	Uenus	PROPN	{Case: [nominative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	12
+ipsa	ipse	DET	{Case: [accusative], Gender: [feminine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	12
+faces	fax	NOUN	{Case: [accusative], Gender: [feminine], Number: [plural]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	12
+;	;	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	12
+Sed	sed	CCONJ	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	13
+ligat	ligo	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	13
+insolito	insolitus	ADJ	{Case: [dative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	13
+mihi	ego	PRON	{Case: [dative], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	13
+pectora	pectus	NOUN	{Case: [accusative], Gender: [neuter], Number: [plural]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	13
+frigore	frigus	NOUN	{Case: [ablative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	13
+torpor	torpor	NOUN	{Case: [genitive], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	13
+,	,	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	13
+Segnis	Segnis	PROPN	{Case: [ablative], Gender: [feminine], Number: [plural]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	14
+et	et	CCONJ	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	14
+in	in	ADP	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	14
+toto	totus	ADJ	{Case: [ablative], Gender: [neuter], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	14
+corpore	corpus	NOUN	{Case: [ablative], Gender: [neuter], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	14
+sensus	sensus	NOUN	{Case: [nominative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	14
+hebet	hebeo	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	14
+.	.	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	14
+Lassa	Lassa	PROPN	{Case: [nominative], Gender: [feminine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	15
+valetudo	ualetudo	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	15
+tibi	tu	PRON	{Case: [dative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	15
+se	se	PRON	{Case: [accusative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	15
+commendat	commendo	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	15
+amici	amicus	NOUN	{Case: [genitive], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	15
+;	;	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	15
+Tu	tu	PRON	{Case: [nominative], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	16
+mihi	ego	PRON	{Case: [dative], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	16
+me	ego	PRON	{Case: [accusative], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	16
+,	,	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	16
+Musis	Musa	PROPN	{Case: [ablative], Gender: [feminine], Number: [plural]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	16
+tu	tu	PRON	{Case: [nominative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	16
+quoque	quoque	ADV	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	16
+redde	reddo	VERB	{Mood: [imperative], Number: [singular], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	16
+meis	meus	ADJ	{Case: [dative], Gender: [masculine], Number: [plural]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	16
+.	.	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	16
+Cum	cum	SCONJ	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	17
+dederis	do	VERB	{Mood: [indicative], Number: [singular], Person: [second], Tense: [future], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	17
+sponsae	sponsa	NOUN	{Case: [genitive], Gender: [feminine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	17
+sua	suus	ADJ	{Case: [accusative], Gender: [neuter], Number: [plural]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	17
+tempora	tempus	NOUN	{Case: [accusative], Gender: [neuter], Number: [plural]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	17
+,	,	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	17
+scribe	scribo	VERB	{Mood: [imperative], Number: [singular], Person: [second], Tense: [present], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	17
+sodali	sodalis	ADJ	{Case: [dative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	17
+,	,	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	17
+Quid	quis	PRON	{Case: [accusative], Gender: [neuter], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	18
+lapsas	lapsus	VERB	{Case: [accusative], Gender: [feminine], Number: [plural], VerbForm: [participle], Voice: [passive]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	18
+vires	uis	NOUN	{Case: [accusative], Gender: [feminine], Number: [plural]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	18
+restituisse	restitueo	VERB	{VerbForm: [infinitive, infinitive], Tense: [past], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	18
+queat	queo	VERB	{Mood: [subjunctive], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	18
+;	;	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	18
+Sic	sic	ADV	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	19
+neque	neque	CCONJ	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	19
+,	,	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	19
+quod	qui	SCONJ	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	19
+doleat	doleo	VERB	{Mood: [subjunctive], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	19
+,	,	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	19
+conjux	conjux	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	19
+neque	neque	CCONJ	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	19
+amicus	amicus	NOUN	{Case: [nominative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	19
+habebit	habeo	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [future], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	19
+,	,	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	19
+Laudabit	Laudo	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [future], VerbForm: [finite], Voice: [active]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	20
+que	que	CCONJ	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	20
+fidem	fides	NOUN	{Case: [accusative], Gender: [feminine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	20
+laetus	laetus	ADJ	{Case: [nominative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	20
+uterque	uterque	DET	{Case: [nominative], Gender: [masculine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	20
+tuam	tuus	ADJ	{Case: [accusative], Gender: [feminine], Number: [singular]}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	20
+.	.	PUNCT	{}	columb	columb_1	In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)	20
+Ergo	ergo	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	1
+tuum	tuus	ADJ	{Case: [nominative], Gender: [neuter], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	1
+sine	sine	ADP	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	1
+me	ego	PRON	{Case: [ablative], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	1
+ducetur	duco	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [future], VerbForm: [finite], Voice: [passive]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	1
+funus	funus	NOUN	{Case: [nominative], Gender: [neuter], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	1
+ISERI	ISERI	PROPN	{Case: [accusative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	1
+?	?	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	1
+Officium	Officium	NOUN	{Case: [accusative], Gender: [neuter], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	2
+que	que	PRON	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	2
+pium	pius	ADJ	{Case: [nominative], Gender: [neuter], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	2
+sors	sors	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	2
+mihi	ego	PRON	{Case: [dative], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	2
+saeva	saeuus	ADJ	{Case: [accusative], Gender: [neuter], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	2
+negat	nego	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	2
+?	?	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	2
+Me	Me	PRON	{Case: [accusative], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	3
+sine	sine	ADP	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	3
+tam	tam	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	3
+charis	char	ADJ	{Case: [ablative], Gender: [neuter], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	3
+complebitur	compleo	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [future], VerbForm: [finite], Voice: [passive]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	3
+ossibus	os	NOUN	{Case: [ablative], Gender: [neuter], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	3
+urna	urna	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	3
+?	?	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	3
+Ultima	ultimus	ADJ	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	4
+nec	nec	CCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	4
+cineri	cineo	VERB	{VerbForm: [infinitive, infinitive], Tense: [present], Voice: [passive]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	4
+munera	munus	NOUN	{Case: [accusative], Gender: [neuter], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	4
+ferre	fero	VERB	{VerbForm: [infinitive, infinitive], Tense: [present], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	4
+licet	licet	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	4
+?	?	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	4
+Ast	ast	CCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	5
+absens	absens	ADJ	{Case: [nominative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	5
+lacrymas	lacrymas	NOUN	{Case: [accusative], Gender: [feminine], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	5
+et	et	CCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	5
+carmen	carmen	NOUN	{Case: [accusative], Gender: [neuter], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	5
+flebile	flebilis	ADJ	{Case: [nominative], Gender: [neuter], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	5
+fundo	fundus	NOUN	{Case: [ablative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	5
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	5
+Quale	Quale	DET	{Case: [accusative], Gender: [neuter], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	6
+dolor	dolor	NOUN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	6
+dictat	dicto	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	6
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	6
+quale	qualis	DET	{Case: [accusative], Gender: [neuter], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	6
+ministrat	ministro	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	6
+amor	amor	NOUN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	6
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	6
+Eminus	Eminus	PROPN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	7
+haec	hic	DET	{Case: [accusative], Gender: [neuter], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	7
+veteri	uetus	ADJ	{Case: [dative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	7
+persolvere	persoluo	VERB	{VerbForm: [infinitive, infinitive], Tense: [present], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	7
+justa	justus	ADJ	{Case: [accusative], Gender: [neuter], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	7
+Magistro	magistrus	PROPN	{Case: [accusative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	7
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	7
+Et	et	CCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	8
+procul	procul	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	8
+exsequias	exsequias	VERB	{Case: [accusative], Gender: [neuter], Number: [plural], VerbForm: [participle], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	8
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	8
+qua	qui	PRON	{Case: [ablative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	8
+licet	licet	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	8
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	8
+ire	eo	VERB	{VerbForm: [infinitive, infinitive], Tense: [present], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	8
+paro	paro	VERB	{Mood: [indicative], Number: [singular], Person: [first], Tense: [present], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	8
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	8
+Upsalides	Upsalides	PROPN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	9
+me	ego	PRON	{Case: [ablative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	9
+cum	cum	ADP	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	9
+certant	certo	VERB	{Mood: [indicative], Number: [plural], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	9
+moerore	moeror	NOUN	{Case: [ablative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	9
+Camenae	Camena	PROPN	{Case: [genitive], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	9
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	9
+Magna	magnus	ADJ	{Case: [ablative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	10
+quibus	qui	PRON	{Case: [ablative], Gender: [neuter], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	10
+quondam	quondam	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	10
+cura	cura	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	10
+que	que	CCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	10
+spes	spes	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	10
+que	que	PRON	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	10
+fuit	sum	AUX	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	10
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	10
+Alternis	Alternus	ADJ	{Case: [ablative], Gender: [neuter], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	11
+illae	ille	DET	{Case: [accusative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	11
+juvenem	juven	NOUN	{Case: [accusative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	11
+fovere	foveo	VERB	{VerbForm: [infinitive, infinitive], Tense: [present], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	11
+lacertis	lacertis	VERB	{Case: [ablative], Gender: [feminine], Number: [plural], VerbForm: [participle], Voice: [passive]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	11
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	11
+Nectar	Nectar	NOUN	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	12
+et	et	CCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	12
+alterna	alternus	ADJ	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	12
+saepe	saepe	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	12
+dedere	dedo	VERB	{VerbForm: [infinitive, infinitive], Tense: [present], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	12
+manu	manus	NOUN	{Case: [ablative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	12
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	12
+Illae	Illa	DET	{Case: [nominative], Gender: [feminine], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	13
+florentem	florens	VERB	{Case: [accusative], Gender: [feminine], Number: [singular], Tense: [present], VerbForm: [participle], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	13
+fronti	frons	NOUN	{Case: [dative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	13
+posuere	pono	VERB	{Mood: [indicative], Number: [plural], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	13
+corollam	corolla	NOUN	{Case: [accusative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	13
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	13
+Cum	cum	SCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	14
+gregis	grex	NOUN	{Case: [genitive], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	14
+Aonii	Aonius	PROPN	{Case: [genitive], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	14
+gloria	gloria	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	14
+magna	magnus	ADJ	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	14
+foret	sum	AUX	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	14
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	14
+Optabant	Optabant	VERB	{Mood: [indicative], Number: [plural], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	15
+que	que	CCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	15
+sibi	se	PRON	{Case: [dative], Gender: [masculine], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	15
+columen	columen	NOUN	{Case: [accusative], Gender: [neuter], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	15
+sedem	sedes	NOUN	{Case: [accusative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	15
+que	que	PRON	{Case: [accusative], Gender: [neuter], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	15
+parabant	paro	VERB	{Mood: [indicative], Number: [plural], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	15
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	15
+Et	et	CCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	16
+secum	sui cum	PRON	{Case: [ablative]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	16
+longas	longus	ADJ	{Case: [accusative], Gender: [feminine], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	16
+increpuere	increpesco	VERB	{VerbForm: [infinitive, infinitive], Tense: [present], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	16
+moras	mora	NOUN	{Case: [accusative], Gender: [feminine], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	16
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	16
+Dilectum	Dilectus	PROPN	{Case: [accusative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	17
+sed	sed	CCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	17
+terra	terra	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	17
+parens	parens	VERB	{Case: [nominative], Gender: [feminine], Number: [singular], VerbForm: [participle], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	17
+poscebat	posco	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	17
+alumnum	alumnus	NOUN	{Case: [accusative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	17
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	17
+Laeta	Laeta	PROPN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	18
+sibi	se	PRON	{Case: [dative]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	18
+tantum	tantum	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	18
+se	se	PRON	{Case: [accusative], Gender: [masculine], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	18
+genuisse	genuisse	VERB	{VerbForm: [infinitive, infinitive], Tense: [past], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	18
+decus	decus	NOUN	{Case: [accusative], Gender: [neuter], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	18
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	18
+Formandum	Formandum	VERB	{Case: [accusative], Gender: [neuter], VerbForm: [gerundive, participle], Number: [singular], Tense: [future], Voice: [passive]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	19
+que	que	CCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	19
+suae	suus	ADJ	{Case: [genitive], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	19
+florem	flos	NOUN	{Case: [accusative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	19
+dedit	do	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	19
+alma	alma	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	19
+juventae	juventus	NOUN	{Case: [genitive], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	19
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	19
+Auspicium	Auspicius	PROPN	{Case: [accusative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	20
+multis	multus	ADJ	{Case: [ablative], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	20
+plausibus	plausus	NOUN	{Case: [ablative], Gender: [feminine], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	20
+illud	ille	DET	{Case: [nominative], Gender: [neuter], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	20
+erat	sum	AUX	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	20
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	20
+Nullius	Nullus	ADJ	{Case: [ablative], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	21
+ore	os	NOUN	{Case: [ablative], Gender: [neuter], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	21
+magis	magis	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	21
+profecit	proficio	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	21
+patria	patria	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	21
+pubes	pubes	NOUN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	21
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	21
+Et	et	CCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	22
+magis	magis	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	22
+a	ab	ADP	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	22
+nulla	nullus	ADJ	{Case: [ablative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	22
+pendula	pendulus	ADJ	{Case: [ablative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	22
+voce	uox	NOUN	{Case: [ablative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	22
+fuit	sum	AUX	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	22
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	22
+Hoc	hic	DET	{Case: [ablative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	23
+Duce	Dux	NOUN	{Case: [ablative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	23
+Romanae	Romanus	ADJ	{Case: [genitive], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	23
+sentiri	sentior	VERB	{VerbForm: [infinitive, infinitive], Tense: [present], Voice: [passive]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	23
+gratia	gratia	NOUN	{Case: [ablative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	23
+Suadae	Suadae	PROPN	{Case: [genitive], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	23
+Coepit	Coepi	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	24
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	24
+et	et	CCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	24
+a	ab	ADP	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	24
+tenera	tenera	ADJ	{Case: [ablative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	24
+plenius	plene	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	24
+aure	auris	NOUN	{Case: [ablative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	24
+bibi	bibo	VERB	{Mood: [indicative], Number: [singular], Person: [first], Tense: [past], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	24
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	24
+Hoc	hic	DET	{Case: [ablative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	25
+duce	dux	NOUN	{Case: [ablative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	25
+non	non	PART	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	25
+solitum	soleo	VERB	{Case: [accusative], Gender: [masculine], Number: [singular], Tense: [past], VerbForm: [participle], Voice: [passive]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	25
+juvenilia	juvenilis	ADJ	{Case: [accusative], Gender: [neuter], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	25
+pectora	pectus	NOUN	{Case: [accusative], Gender: [neuter], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	25
+cultum	cultus	NOUN	{Case: [accusative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	25
+Hausere	Hausere	PROPN	{Case: [ablative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	26
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	26
+et	et	CCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	26
+studiis	studium	NOUN	{Case: [ablative], Gender: [neuter], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	26
+incaluere	incaluo	VERB	{VerbForm: [infinitive, infinitive], Tense: [present], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	26
+suis	suus	ADJ	{Case: [dative], Gender: [masculine], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	26
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	26
+Patria	patria	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	27
+sis	sum	AUX	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	27
+testis	testis	NOUN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	27
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	27
+meritas	meritas	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	27
+que	qui	PRON	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	27
+nec	neque	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	27
+abnue	abnue	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	27
+laudes	laus	NOUN	{Case: [nominative], Gender: [feminine], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	27
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	27
+Plus	plus	ADJ	{Case: [accusative], Gender: [neuter], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	28
+quam	quam	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	28
+Fama	fama	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	28
+sciat	scio	VERB	{Mood: [subjunctive], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	28
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	28
+praestitit	praesisto	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	28
+ille	ille	DET	{Case: [nominative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	28
+Tibi	Tu	PRON	{Case: [dative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	28
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	28
+Saepius	Saepius	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	29
+oblatos	oblo	VERB	{Case: [accusative], Gender: [masculine], Number: [plural], Tense: [past], VerbForm: [participle], Voice: [passive]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	29
+ultro	ultro	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	29
+neglexit	neglego	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	29
+honores	honor	NOUN	{Case: [accusative], Gender: [masculine], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	29
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	29
+Ut	ut	SCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	30
+tibi	tu	PRON	{Case: [dative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	30
+serviret	seruio	VERB	{Mood: [subjunctive], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	30
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	30
+se	se	PRON	{Case: [accusative]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	30
+minor	paruus	ADJ	{Case: [nominative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	30
+ille	ille	DET	{Case: [nominative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	30
+fuit	sum	AUX	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	30
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	30
+Majoris	Majoris	ADJ	{Case: [genitive], Gender: [neuter], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	31
+que	que	PRON	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	31
+capax	capax	ADJ	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	31
+fortunae	fortuna	NOUN	{Case: [genitive], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	31
+substitit	substito	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	31
+infra	infra	ADP	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	31
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	31
+Fastus	Fastus	PROPN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	32
+et	et	CCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	32
+ambitio	ambitio	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	32
+tam	tam	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	32
+procul	procul	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	32
+omnis	omnis	ADJ	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	32
+erat	sum	AUX	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	32
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	32
+Sustinuit	Sustimno	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	33
+multos	multus	ADJ	{Case: [accusative], Gender: [masculine], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	33
+tot	tot	DET	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	33
+taedia	taedium	NOUN	{Case: [accusative], Gender: [neuter], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	33
+ferre	fero	VERB	{VerbForm: [infinitive, infinitive], Tense: [present], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	33
+per	per	ADP	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	33
+annos	annus	NOUN	{Case: [accusative], Gender: [masculine], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	33
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	33
+Nec	nec	CCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	34
+piguit	pigo	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	34
+sortis	sors	NOUN	{Case: [genitive], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	34
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	34
+quamlibet	quilibet	DET	{Case: [accusative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	34
+arcta	arctus	VERB	{Case: [nominative], Gender: [feminine], Number: [singular], VerbForm: [participle], Voice: [passive]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	34
+foret	sum	AUX	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	34
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	34
+Donec	Donec	VERB	{Mood: [indicative], Number: [plural], Person: [first], Tense: [future], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	35
+jam	jam	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	35
+fessum	fesdeo	VERB	{Case: [accusative], Gender: [masculine], Number: [singular], VerbForm: [participle], Voice: [passive]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	35
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	35
+cum	cum	SCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	35
+serior	serus	ADJ	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	35
+adforet	adforo	VERB	{Mood: [subjunctive], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	35
+aetas	aetas	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	35
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	35
+Gaudenti	Gaudentius	PROPN	{Case: [ablative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	36
+excepit	excipio	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	36
+terra	terra	NOUN	{Case: [accusative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	36
+Frycana	Frycanus	PROPN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	36
+sinu	sinus	NOUN	{Case: [ablative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	36
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	36
+Haec	hic	DET	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	37
+fuit	sum	AUX	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	37
+emeritae	emeritus	VERB	{Case: [dative], Gender: [feminine], Number: [singular], VerbForm: [participle], Voice: [passive]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	37
+statio	statio	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	37
+sperata	spero	VERB	{Case: [nominative], Gender: [feminine], Number: [singular], VerbForm: [participle], Voice: [passive]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	37
+senectae	senecta	NOUN	{Case: [genitive], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	37
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	37
+Sed	sed	CCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	38
+nimium	nimium	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	38
+nobis	nos	PRON	{Case: [dative], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	38
+heu	heu	INTJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	38
+!	!	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	38
+brevis	breuis	ADJ	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	38
+illa	ille	DET	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	38
+fuit	sum	AUX	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	38
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	38
+Invidit	Invidit	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	39
+pravis	prauus	ADJ	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	39
+mors	mors	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	39
+pectus	pectus	NOUN	{Case: [nominative], Gender: [neuter], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	39
+amabile	amabilis	ADJ	{Case: [nominative], Gender: [neuter], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	39
+terris	terra	NOUN	{Case: [ablative], Gender: [feminine], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	39
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	39
+Cui	qui	PRON	{Case: [dative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	40
+dederat	do	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [pluperfect], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	40
+victas	victas	VERB	{Case: [accusative], Gender: [feminine], Number: [plural], Tense: [past], VerbForm: [participle], Voice: [passive]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	40
+Livor	liuor	PROPN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	40
+et	et	CCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	40
+ipse	ipse	DET	{Case: [nominative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	40
+manus	manus	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	40
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	40
+Parca	Parca	PROPN	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	41
+virum	uir	NOUN	{Case: [accusative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	41
+invidit	invidit	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	41
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	41
+sed	sed	CCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	41
+non	non	PART	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	41
+tamen	tamen	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	41
+abstulit	aufero	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	41
+omnem	omnis	ADJ	{Case: [accusative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	41
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	41
+Sculpta	Sculpta	VERB	{Case: [ablative], Gender: [feminine], Number: [singular], Tense: [past], VerbForm: [participle], Voice: [passive]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	42
+piis	pius	ADJ	{Case: [ablative], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	42
+animis	animus	NOUN	{Case: [ablative], Gender: [masculine], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	42
+ejus	js	PRON	{Case: [genitive], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	42
+imago	imago	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	42
+manet	maneo	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	42
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	42
+Ibit	Ibi	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	43
+in	in	ADP	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	43
+exemplum	exemplum	NOUN	{Case: [accusative], Gender: [neuter], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	43
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	43
+sero	sero	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	43
+que	que	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	43
+canetur	cano	VERB	{Mood: [subjunctive], Number: [singular], Person: [third], Tense: [present], VerbForm: [finite], Voice: [passive]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	43
+ab	ab	ADP	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	43
+aevo	aevum	NOUN	{Case: [ablative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	43
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	43
+Aurea	Aurea	ADJ	{Case: [ablative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	44
+quae	qui	PRON	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	44
+potuit	possum	VERB	{Mood: [indicative], Number: [singular], Person: [third], Tense: [past], VerbForm: [finite], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	44
+secla	secla	NOUN	{Case: [ablative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	44
+decere	decet	VERB	{VerbForm: [infinitive, infinitive], Tense: [present], Voice: [active]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	44
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	44
+fides	fides	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	44
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	44
+Et	et	CCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	45
+placidi	placidus	ADJ	{Case: [nominative], Gender: [masculine], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	45
+mores	mos	NOUN	{Case: [nominative], Gender: [masculine], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	45
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	45
+et	et	CCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	45
+dignus	dignus	ADJ	{Case: [nominative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	45
+marmore	marmor	NOUN	{Case: [ablative], Gender: [neuter], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	45
+candor	candor	NOUN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	45
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	45
+Et	et	CCONJ	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	46
+mixtus	mixtus	NOUN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	46
+miti	mitus	ADJ	{Case: [nominative], Gender: [masculine], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	46
+cum	cum	ADP	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	46
+gravitate	grauitas	NOUN	{Case: [ablative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	46
+lepos	lepos	NOUN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	46
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	46
+Tu	tu	PRON	{Case: [nominative], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	47
+vero	uero	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	47
+aethereis	aethereus	ADJ	{Case: [dative], Gender: [masculine], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	47
+dignissima	dignus	VERB	{Case: [ablative], Gender: [feminine], Number: [singular], Tense: [past], VerbForm: [participle], Voice: [passive]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	47
+sedibus	sedes	NOUN	{Case: [ablative], Gender: [feminine], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	47
+hospes	hospes	NOUN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	47
+Salve	Salve	PROPN	{Case: [nominative], Gender: [masculine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	48
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	48
+anima	anima	NOUN	{Case: [nominative], Gender: [feminine], Number: [singular]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	48
+,	,	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	48
+aeternis	aeternus	ADJ	{Case: [ablative], Gender: [neuter], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	48
+nunc	nunc	ADV	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	48
+satianda	satio	VERB	{Case: [accusative], Gender: [neuter], VerbForm: [gerundive, participle], Number: [plural], Tense: [future], Voice: [passive]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	48
+bonis	bonum	NOUN	{Case: [dative], Gender: [neuter], Number: [plural]}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	48
+.	.	PUNCT	{}	lager	lager_1	In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)	48
