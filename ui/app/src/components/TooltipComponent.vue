@@ -16,6 +16,7 @@ const deleteBrackets = (str: string) => {
 
 <template>
   <div v-if="props.token" class="tooltip">
+    <h5 class="text-blue-2">Predicted form (accuracy ca. 70%)</h5>
     <p><span class="text-bold">Lemma: </span> {{ props.token.lemma }}</p>
     <p><span class="text-bold">Part of speach: </span> {{ props.token.pos }}</p>
     <p class="text-bold">Morphosyntactic features: </p>
