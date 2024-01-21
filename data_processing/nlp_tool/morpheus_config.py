@@ -83,7 +83,7 @@ def parse_morpheus_output(output, output_format="list"):
                 for infl in entry.findall('.//infl'):
                     interpretation_parts = [f"<b>{lemma} ({shorten_name(pos)})</b>:"]
 
-                    for type in ['tense', 'mood', 'voice', 'pers', 'case', 'gend', 'num', 'comp', 'deg', 'decl', 'conjtype', 'morth']:
+                    for type in ['tense', 'mood', 'voice', 'pers', 'case', 'gend', 'num', 'comp', 'deg', 'morth']:
                         if infl.find(type) is not None:
                             interpretation_parts.append(shorten_name(infl.find(type).text))
 
