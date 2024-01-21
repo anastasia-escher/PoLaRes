@@ -1,0 +1,3422 @@
+{
+    "in": [
+        "<b>in </b> (preposition):"
+    ],
+    "transitum": [
+        "<b>transeo </b> (vrb.):, perf., part., pass., gen.",
+        "<b>transeo </b> (vrb.):, perf., part., pass., gen.",
+        "<b>transeo </b> (vrb.):, perf., part., pass., acc.",
+        "<b>transeo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>transeo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>transeo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>transeo </b> (vrb.):, perf., part., pass., acc.",
+        "<b>transeo </b> (vrb.):, sup., nom.",
+        "<b>transitus#2 </b> (noun):, acc."
+    ],
+    "regis": [
+        "<b>rego </b> (vrb.):, pres., ind., act.",
+        "<b>rex </b> (noun):, gen."
+    ],
+    "gustavi": [
+        "<b>gusto </b> (vrb.):, perf., ind., act."
+    ],
+    "per": [
+        "<b>per </b> (preposition):"
+    ],
+    "mare": [
+        "<b>mare </b> (noun):, abl.",
+        "<b>mare </b> (noun):, nom.",
+        "<b>mare </b> (noun):, voc.",
+        "<b>mare </b> (noun):, acc.",
+        "<b>marum </b> (noun):, voc.",
+        "<b>mas </b> (adj.):, abl.",
+        "<b>mas </b> (adj.):, abl.",
+        "<b>mas </b> (adj.):, abl."
+    ],
+    "glacie": [
+        "<b>glacies </b> (noun):, abl.",
+        "<b>glacies </b> (noun):, dat.",
+        "<b>glacies </b> (noun):, gen."
+    ],
+    "constrictum": [
+        "<b>constrictus </b> (adj.):, gen.",
+        "<b>constrictus </b> (adj.):, gen.",
+        "<b>constrictus </b> (adj.):, acc.",
+        "<b>constrictus </b> (adj.):, nom.",
+        "<b>constrictus </b> (adj.):, nom.",
+        "<b>constrictus </b> (adj.):, voc.",
+        "<b>constrictus </b> (adj.):, acc.",
+        "<b>constringo </b> (vrb.):, perf., part., pass., gen.",
+        "<b>constringo </b> (vrb.):, perf., part., pass., gen.",
+        "<b>constringo </b> (vrb.):, perf., part., pass., acc.",
+        "<b>constringo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>constringo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>constringo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>constringo </b> (vrb.):, perf., part., pass., acc.",
+        "<b>constringo </b> (vrb.):, sup., nom."
+    ],
+    "anno": [
+        "<b>adnato </b> (vrb.):, pres., ind., act.",
+        "<b>anno#1 </b> (vrb.):, pres., ind., act.",
+        "<b>anno#2 </b> (vrb.):, pres., ind., act.",
+        "<b>annus </b> (noun):, abl.",
+        "<b>annus </b> (noun):, dat."
+    ],
+    "marte": [
+        "<b>martes </b> (noun):, abl."
+    ],
+    "satos": [
+        "<b>sero#1 </b> (vrb.):, perf., part., pass., acc."
+    ],
+    "prisci": [
+        "<b>prisci </b> (noun):, nom.",
+        "<b>prisci </b> (noun):, voc.",
+        "<b>priscus#1 </b> (adj.):, nom.",
+        "<b>priscus#1 </b> (adj.):, voc.",
+        "<b>priscus#1 </b> (adj.):, gen.",
+        "<b>priscus#1 </b> (adj.):, gen."
+    ],
+    "sensere": [
+        "<b>sentio </b> (vrb.):, perf., ind., act."
+    ],
+    "traditur": [
+        "<b>trado </b> (vrb.):, pres., ind., pass."
+    ],
+    "et": [
+        "<b>et </b> (conjunction):"
+    ],
+    "boreae": [
+        "<b>boreas </b> (noun):, nom.",
+        "<b>boreas </b> (noun):, voc.",
+        "<b>boreas </b> (noun):, dat.",
+        "<b>boreas </b> (noun):, gen."
+    ],
+    "habitasse": [
+        "<b>habito </b> (vrb.):, perf., inf., act."
+    ],
+    "lares.": [
+        "<b>lar </b> (noun):, acc.",
+        "<b>lar </b> (noun):, nom.",
+        "<b>lar </b> (noun):, voc."
+    ],
+    "quo": [
+        "<b>qui#2 </b> (pronoun):, abl.",
+        "<b>qui#2 </b> (pronoun):, abl.",
+        "<b>quis#1 </b> (noun):, abl.",
+        "<b>quis#1 </b> (noun):, abl.",
+        "<b>quis#1 </b> (noun):, abl.",
+        "<b>quis#2 </b> (pronoun):, abl.",
+        "<b>quis#2 </b> (pronoun):, abl.",
+        "<b>quis#2 </b> (pronoun):, abl.",
+        "<b>quo </b> (adverb):"
+    ],
+    "non": [
+        "<b>non </b> (adverb):"
+    ],
+    "arma": [
+        "<b>arma </b> (noun):, nom.",
+        "<b>arma </b> (noun):, voc.",
+        "<b>arma </b> (noun):, acc.",
+        "<b>armo </b> (vrb.):, pres., imp., act."
+    ],
+    "tulit": [
+        "<b>fero </b> (vrb.):, perf., ind., act.",
+        "<b>tulo </b> (vrb.):, pres., ind., act."
+    ],
+    "pugnax": [
+        "<b>pugnax </b> (adj.):, acc.",
+        "<b>pugnax </b> (adj.):, nom.",
+        "<b>pugnax </b> (adj.):, nom.",
+        "<b>pugnax </b> (adj.):, nom.",
+        "<b>pugnax </b> (adj.):, voc.",
+        "<b>pugnax </b> (adj.):, voc.",
+        "<b>pugnax </b> (adj.):, voc."
+    ],
+    "quis": [
+        "<b>queo </b> (vrb.):, pres., ind., act.",
+        "<b>quis#1 </b> (noun):, nom.",
+        "<b>quis#1 </b> (noun):, nom.",
+        "<b>quis#2 </b> (pronoun):, nom.",
+        "<b>quis#2 </b> (pronoun):, nom."
+    ],
+    "incubuit": [
+        "<b>incumbo </b> (vrb.):, perf., ind., act."
+    ],
+    "mundi": [
+        "<b>mundum </b> (noun):, gen.",
+        "<b>mundus </b> (noun):, nom.",
+        "<b>mundus </b> (noun):, voc.",
+        "<b>mundus </b> (noun):, gen.",
+        "<b>mundus#1 </b> (adj.):, nom.",
+        "<b>mundus#1 </b> (adj.):, voc.",
+        "<b>mundus#1 </b> (adj.):, gen.",
+        "<b>mundus#1 </b> (adj.):, gen.",
+        "<b>mundus#2 </b> (noun):, nom.",
+        "<b>mundus#2 </b> (noun):, voc.",
+        "<b>mundus#2 </b> (noun):, gen."
+    ],
+    "gens": [
+        "<b>gens </b> (noun):, nom.",
+        "<b>gens </b> (noun):, voc."
+    ],
+    "animosa": [
+        "<b>animosus#1 </b> (adj.):, nom.",
+        "<b>animosus#1 </b> (adj.):, voc.",
+        "<b>animosus#1 </b> (adj.):, acc.",
+        "<b>animosus#1 </b> (adj.):, abl.",
+        "<b>animosus#1 </b> (adj.):, nom.",
+        "<b>animosus#1 </b> (adj.):, voc.",
+        "<b>animosus#2 </b> (adj.):, nom.",
+        "<b>animosus#2 </b> (adj.):, voc.",
+        "<b>animosus#2 </b> (adj.):, acc.",
+        "<b>animosus#2 </b> (adj.):, abl.",
+        "<b>animosus#2 </b> (adj.):, nom.",
+        "<b>animosus#2 </b> (adj.):, voc."
+    ],
+    "crebrius": [
+        "<b>creber </b> (adj.):",
+        "<b>creber </b> (adj.):, nom.",
+        "<b>creber </b> (adj.):, voc.",
+        "<b>creber </b> (adj.):, acc.",
+        "<b>creber </b> (adj.):, nom.",
+        "<b>creber </b> (adj.):, voc.",
+        "<b>creber </b> (adj.):, acc."
+    ],
+    "inprimis": [
+        "<b>imprimis </b> (adverb):"
+    ],
+    "vicino": [
+        "<b>vicinum </b> (noun):, abl.",
+        "<b>vicinum </b> (noun):, dat.",
+        "<b>vicinus </b> (adj.):, abl.",
+        "<b>vicinus </b> (adj.):, abl.",
+        "<b>vicinus </b> (adj.):, dat.",
+        "<b>vicinus </b> (adj.):, dat.",
+        "<b>vicinus </b> (adj.):, abl.",
+        "<b>vicinus </b> (adj.):, dat."
+    ],
+    "cardine": [
+        "<b>cardo </b> (noun):, abl.",
+        "<b>cardo </b> (noun):, abl."
+    ],
+    "moti": [
+        "<b>moveo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>moveo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>moveo </b> (vrb.):, perf., part., pass., gen.",
+        "<b>moveo </b> (vrb.):, perf., part., pass., gen."
+    ],
+    "irarum": [
+        "<b>ira </b> (noun):, gen."
+    ],
+    "nimbi": [
+        "<b>nimbus </b> (noun):, nom.",
+        "<b>nimbus </b> (noun):, voc.",
+        "<b>nimbus </b> (noun):, gen."
+    ],
+    "detonuere": [
+        "<b>detono </b> (vrb.):, perf., ind., act."
+    ],
+    "graves:": [
+        "<b>gravis </b> (adj.):, acc.",
+        "<b>gravis </b> (adj.):, acc.",
+        "<b>gravis </b> (adj.):, nom.",
+        "<b>gravis </b> (adj.):, nom.",
+        "<b>gravis </b> (adj.):, voc.",
+        "<b>gravis </b> (adj.):, voc.",
+        "<b>gravo </b> (vrb.):, pres., subj., act."
+    ],
+    "praelia": [
+        "<b>proelium </b> (noun):, nom.",
+        "<b>proelium </b> (noun):, voc.",
+        "<b>proelium </b> (noun):, acc."
+    ],
+    "nescit": [
+        "<b>nescio </b> (vrb.):, pres., ind., act."
+    ],
+    "vel": [
+        "<b>vel </b> (adverb):"
+    ],
+    "rostra": [
+        "<b>rostrum </b> (noun):, nom.",
+        "<b>rostrum </b> (noun):, voc.",
+        "<b>rostrum </b> (noun):, acc."
+    ],
+    "gremio": [
+        "<b>gremium </b> (noun):, abl.",
+        "<b>gremium </b> (noun):, dat."
+    ],
+    "baltes": [
+        "<b>balteo </b> (vrb.):, pres., subj., act."
+    ],
+    "boreaeque": [
+        "<b>boreas </b> (noun):, nom.",
+        "<b>boreas </b> (noun):, voc.",
+        "<b>boreas </b> (noun):, dat.",
+        "<b>boreas </b> (noun):, gen."
+    ],
+    "sed": [
+        "<b>sed </b> (conjunction):"
+    ],
+    "superat": [
+        "<b>supero </b> (vrb.):, pres., ind., act."
+    ],
+    "veteres": [
+        "<b>veteres </b> (noun):, acc.",
+        "<b>veteres </b> (noun):, nom.",
+        "<b>veteres </b> (noun):, voc.",
+        "<b>veteres </b> (noun):, acc.",
+        "<b>veteres </b> (noun):, nom.",
+        "<b>veteres </b> (noun):, voc.",
+        "<b>vetero </b> (vrb.):, pres., subj., act.",
+        "<b>vetus </b> (adj.):, acc.",
+        "<b>vetus </b> (adj.):, acc.",
+        "<b>vetus </b> (adj.):, nom.",
+        "<b>vetus </b> (adj.):, nom.",
+        "<b>vetus </b> (adj.):, voc.",
+        "<b>vetus </b> (adj.):, voc."
+    ],
+    "sors": [
+        "<b>sors </b> (noun):, nom."
+    ],
+    "nostra": [
+        "<b>noster </b> (adj.):, nom.",
+        "<b>noster </b> (adj.):, voc.",
+        "<b>noster </b> (adj.):, acc.",
+        "<b>noster </b> (adj.):, abl.",
+        "<b>noster </b> (adj.):, nom.",
+        "<b>noster </b> (adj.):, voc."
+    ],
+    "novissima": [
+        "<b>novissima </b> (noun):, nom.",
+        "<b>novissima </b> (noun):, voc.",
+        "<b>novissima </b> (noun):, acc.",
+        "<b>novissimum </b> (noun):, nom.",
+        "<b>novissimum </b> (noun):, voc.",
+        "<b>novissimum </b> (noun):, acc.",
+        "<b>novissimus </b> (adj.):, nom.",
+        "<b>novissimus </b> (adj.):, voc.",
+        "<b>novissimus </b> (adj.):, acc.",
+        "<b>novissimus </b> (adj.):, abl.",
+        "<b>novissimus </b> (adj.):, nom.",
+        "<b>novissimus </b> (adj.):, voc.",
+        "<b>novus </b> (adj.):, nom.",
+        "<b>novus </b> (adj.):, voc.",
+        "<b>novus </b> (adj.):, acc.",
+        "<b>novus </b> (adj.):, abl.",
+        "<b>novus </b> (adj.):, nom.",
+        "<b>novus </b> (adj.):, voc."
+    ],
+    "casus:": [
+        "<b>cado </b> (vrb.):, perf., part., pass., nom.",
+        "<b>casus#1 </b> (noun):, nom.",
+        "<b>casus#1 </b> (noun):, acc.",
+        "<b>casus#1 </b> (noun):, nom.",
+        "<b>casus#1 </b> (noun):, gen.",
+        "<b>casus#1 </b> (noun):, nom."
+    ],
+    "vidimus": [
+        "<b>video </b> (vrb.):, perf., ind., act."
+    ],
+    "hoc": [
+        "<b>hic </b> (pronoun):, nom.",
+        "<b>hic </b> (pronoun):, acc.",
+        "<b>hic </b> (pronoun):, abl.",
+        "<b>hic </b> (pronoun):, abl.",
+        "<b>huc </b> (adverb):"
+    ],
+    "aevo": [
+        "<b>aevum </b> (noun):, abl.",
+        "<b>aevum </b> (noun):, dat."
+    ],
+    "bella": [
+        "<b>bello </b> (vrb.):, pres., imp., act.",
+        "<b>bellum </b> (noun):, nom.",
+        "<b>bellum </b> (noun):, voc.",
+        "<b>bellum </b> (noun):, acc.",
+        "<b>bellus </b> (adj.):, nom.",
+        "<b>bellus </b> (adj.):, voc.",
+        "<b>bellus </b> (adj.):, acc.",
+        "<b>bellus </b> (adj.):, abl.",
+        "<b>bellus </b> (adj.):, nom.",
+        "<b>bellus </b> (adj.):, voc."
+    ],
+    "stupenda": [
+        "<b>stupendus </b> (adj.):, nom.",
+        "<b>stupendus </b> (adj.):, voc.",
+        "<b>stupendus </b> (adj.):, acc.",
+        "<b>stupendus </b> (adj.):, abl.",
+        "<b>stupendus </b> (adj.):, nom.",
+        "<b>stupendus </b> (adj.):, voc.",
+        "<b>stupeo </b> (vrb.):, gerundive, nom.",
+        "<b>stupeo </b> (vrb.):, gerundive, voc.",
+        "<b>stupeo </b> (vrb.):, gerundive, acc.",
+        "<b>stupeo </b> (vrb.):, gerundive, abl.",
+        "<b>stupeo </b> (vrb.):, gerundive, nom.",
+        "<b>stupeo </b> (vrb.):, gerundive, voc."
+    ],
+    "magis.": [
+        "<b>magis </b> (adverb):",
+        "<b>magis#2 </b> (noun):, nom.",
+        "<b>magnus </b> (adverb):",
+        "<b>magus#2 </b> (adj.):, abl.",
+        "<b>magus#2 </b> (adj.):, abl.",
+        "<b>magus#2 </b> (adj.):, abl.",
+        "<b>magus#2 </b> (adj.):, dat.",
+        "<b>magus#2 </b> (adj.):, dat.",
+        "<b>magus#2 </b> (adj.):, dat."
+    ],
+    "post": [
+        "<b>post </b> (adverb):",
+        "<b>post </b> (adverb):"
+    ],
+    "domitos": [
+        "<b>domo </b> (vrb.):, perf., part., pass., acc."
+    ],
+    "populos,": [
+        "<b>populus#1 </b> (noun):, acc.",
+        "<b>populus#2 </b> (noun):, acc."
+    ],
+    "regna": [
+        "<b>regno </b> (vrb.):, pres., imp., act.",
+        "<b>regnum </b> (noun):, nom.",
+        "<b>regnum </b> (noun):, voc.",
+        "<b>regnum </b> (noun):, acc."
+    ],
+    "impleta": [
+        "<b>impleo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>impleo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>impleo </b> (vrb.):, perf., part., pass., acc.",
+        "<b>impleo </b> (vrb.):, perf., part., pass., abl.",
+        "<b>impleo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>impleo </b> (vrb.):, perf., part., pass., voc."
+    ],
+    "tropaeis,": [
+        "<b>tropaeum </b> (noun):, abl.",
+        "<b>tropaeum </b> (noun):, dat.",
+        "<b>tropaeus </b> (adj.):, abl.",
+        "<b>tropaeus </b> (adj.):, abl.",
+        "<b>tropaeus </b> (adj.):, abl.",
+        "<b>tropaeus </b> (adj.):, dat.",
+        "<b>tropaeus </b> (adj.):, dat.",
+        "<b>tropaeus </b> (adj.):, dat."
+    ],
+    "qua": [
+        "<b>qua </b> (adverb):",
+        "<b>qui#1 </b> (noun):, abl.",
+        "<b>qui#2 </b> (pronoun):, abl."
+    ],
+    "vagus": [
+        "<b>vagus </b> (adj.):, nom."
+    ],
+    "effusa": [
+        "<b>effundo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>effundo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>effundo </b> (vrb.):, perf., part., pass., acc.",
+        "<b>effundo </b> (vrb.):, perf., part., pass., abl.",
+        "<b>effundo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>effundo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>effusa </b> (noun):, nom.",
+        "<b>effusa </b> (noun):, voc.",
+        "<b>effusa </b> (noun):, acc."
+    ],
+    "mole": [
+        "<b>moles </b> (noun):, abl.",
+        "<b>molo#1 </b> (vrb.):, pres., imp., act."
+    ],
+    "fluit.": [
+        "<b>fluo </b> (vrb.):, pres., ind., act."
+    ],
+    "pergebat": [
+        "<b>pergo </b> (vrb.):, impf., ind., act."
+    ],
+    "ad": [
+        "<b>ad </b> (preposition):"
+    ],
+    "oras,": [
+        "<b>ora#1 </b> (noun):, acc.",
+        "<b>oro </b> (vrb.):, pres., ind., act."
+    ],
+    "ulturus": [
+        "<b>ulciscor </b> (vrb.):, fut., part., act., nom."
+    ],
+    "ruptam": [
+        "<b>rumpo </b> (vrb.):, perf., part., pass., acc."
+    ],
+    "fera": [
+        "<b>fera </b> (noun):, abl.",
+        "<b>fera </b> (noun):, nom.",
+        "<b>fera </b> (noun):, voc.",
+        "<b>ferus </b> (adj.):, nom.",
+        "<b>ferus </b> (adj.):, voc.",
+        "<b>ferus </b> (adj.):, acc.",
+        "<b>ferus </b> (adj.):, abl.",
+        "<b>ferus </b> (adj.):, nom.",
+        "<b>ferus </b> (adj.):, voc."
+    ],
+    "fidem:": [
+        "<b>fides#1 </b> (noun):, acc.",
+        "<b>fides#1 </b> (noun):, acc.",
+        "<b>fides#2 </b> (noun):, acc."
+    ],
+    "jamque": [
+        "<b>jam </b> (adverb):"
+    ],
+    "rates": [
+        "<b>ratis </b> (noun):, acc.",
+        "<b>ratis </b> (noun):, nom.",
+        "<b>ratis </b> (noun):, voc."
+    ],
+    "pelago": [
+        "<b>pelagus </b> (noun):, abl.",
+        "<b>pelagus </b> (noun):, dat.",
+        "<b>pelagus </b> (noun):, abl.",
+        "<b>pelagus </b> (noun):, dat."
+    ],
+    "vecturas": [
+        "<b>vectura </b> (noun):, acc.",
+        "<b>veho </b> (vrb.):, fut., part., act., acc."
+    ],
+    "castra": [
+        "<b>castra </b> (noun):, abl.",
+        "<b>castra </b> (noun):, nom.",
+        "<b>castra </b> (noun):, voc.",
+        "<b>castra </b> (noun):, nom.",
+        "<b>castra </b> (noun):, voc.",
+        "<b>castra </b> (noun):, acc.",
+        "<b>castro </b> (vrb.):, pres., imp., act.",
+        "<b>castrum </b> (noun):, nom.",
+        "<b>castrum </b> (noun):, voc.",
+        "<b>castrum </b> (noun):, acc."
+    ],
+    "parabat,": [
+        "<b>paro#1 </b> (vrb.):, impf., ind., act.",
+        "<b>paro#2 </b> (vrb.):, impf., ind., act."
+    ],
+    "allatura": [
+        "<b>affero </b> (vrb.):, fut., part., act., nom.",
+        "<b>affero </b> (vrb.):, fut., part., act., voc.",
+        "<b>affero </b> (vrb.):, fut., part., act., acc.",
+        "<b>affero </b> (vrb.):, fut., part., act., abl.",
+        "<b>affero </b> (vrb.):, fut., part., act., nom.",
+        "<b>affero </b> (vrb.):, fut., part., act., voc."
+    ],
+    "moram": [
+        "<b>mora </b> (noun):, acc.",
+        "<b>mora#1 </b> (noun):, acc.",
+        "<b>mora#2 </b> (noun):, acc.",
+        "<b>mora#3 </b> (noun):, acc.",
+        "<b>morus#1 </b> (adj.):, acc."
+    ],
+    "frigora": [
+        "<b>frigoro </b> (vrb.):, pres., imp., act.",
+        "<b>frigus </b> (noun):, nom.",
+        "<b>frigus </b> (noun):, voc.",
+        "<b>frigus </b> (noun):, acc."
+    ],
+    "sola": [
+        "<b>solo#1 </b> (vrb.):, pres., imp., act.",
+        "<b>solum#1 </b> (noun):, nom.",
+        "<b>solum#1 </b> (noun):, voc.",
+        "<b>solum#1 </b> (noun):, acc.",
+        "<b>solus#1 </b> (adj.):, nom.",
+        "<b>solus#1 </b> (adj.):, voc.",
+        "<b>solus#1 </b> (adj.):, acc.",
+        "<b>solus#1 </b> (adj.):, abl.",
+        "<b>solus#1 </b> (adj.):, nom."
+    ],
+    "timens:": [
+        "<b>timeo </b> (vrb.):, pres., part., acc.",
+        "<b>timeo </b> (vrb.):, pres., part., nom.",
+        "<b>timeo </b> (vrb.):, pres., part., nom.",
+        "<b>timeo </b> (vrb.):, pres., part., nom.",
+        "<b>timeo </b> (vrb.):, pres., part., voc.",
+        "<b>timeo </b> (vrb.):, pres., part., voc.",
+        "<b>timeo </b> (vrb.):, pres., part., voc."
+    ],
+    "fit": [
+        "<b>fio </b> (vrb.):, pres., ind., act."
+    ],
+    "compos": [
+        "<b>compos </b> (noun):, nom."
+    ],
+    "voti": [
+        "<b>votum </b> (noun):, gen.",
+        "<b>voveo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>voveo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>voveo </b> (vrb.):, perf., part., pass., gen.",
+        "<b>voveo </b> (vrb.):, perf., part., pass., gen."
+    ],
+    "rex": [
+        "<b>rex </b> (noun):, nom."
+    ],
+    "contraria": [
+        "<b>contrarium </b> (noun):, nom.",
+        "<b>contrarium </b> (noun):, voc.",
+        "<b>contrarium </b> (noun):, acc.",
+        "<b>contrarius </b> (adj.):, nom.",
+        "<b>contrarius </b> (adj.):, voc.",
+        "<b>contrarius </b> (adj.):, acc.",
+        "<b>contrarius </b> (adj.):, abl.",
+        "<b>contrarius </b> (adj.):, nom.",
+        "<b>contrarius </b> (adj.):, voc."
+    ],
+    "votis,": [
+        "<b>votum </b> (noun):, abl.",
+        "<b>votum </b> (noun):, dat.",
+        "<b>voveo </b> (vrb.):, perf., part., pass., abl.",
+        "<b>voveo </b> (vrb.):, perf., part., pass., abl.",
+        "<b>voveo </b> (vrb.):, perf., part., pass., abl.",
+        "<b>voveo </b> (vrb.):, perf., part., pass., dat.",
+        "<b>voveo </b> (vrb.):, perf., part., pass., dat.",
+        "<b>voveo </b> (vrb.):, perf., part., pass., dat."
+    ],
+    "dum": [
+        "<b>dum </b> (conjunction):"
+    ],
+    "fuit": [
+        "<b>sum#1 </b> (vrb.):, perf., ind., act."
+    ],
+    "nostris": [
+        "<b>noster </b> (adj.):, abl.",
+        "<b>noster </b> (adj.):, abl.",
+        "<b>noster </b> (adj.):, abl.",
+        "<b>noster </b> (adj.):, dat.",
+        "<b>noster </b> (adj.):, dat.",
+        "<b>noster </b> (adj.):, dat."
+    ],
+    "partibus": [
+        "<b>pars </b> (noun):, abl.",
+        "<b>pars </b> (noun):, dat.",
+        "<b>partus#2 </b> (noun):, abl.",
+        "<b>partus#2 </b> (noun):, dat."
+    ],
+    "acris": [
+        "<b>acer </b> (adj.):, acc.",
+        "<b>acer </b> (adj.):, acc.",
+        "<b>acer </b> (adj.):, gen.",
+        "<b>acer </b> (adj.):, gen.",
+        "<b>acer </b> (adj.):, gen.",
+        "<b>acer#2 </b> (adj.):, acc.",
+        "<b>acer#2 </b> (adj.):, acc.",
+        "<b>acer#2 </b> (adj.):, gen.",
+        "<b>acer#2 </b> (adj.):, gen.",
+        "<b>acer#2 </b> (adj.):, gen.",
+        "<b>acra </b> (noun):, abl.",
+        "<b>acra </b> (noun):, dat.",
+        "<b>acra </b> (noun):, abl.",
+        "<b>acra </b> (noun):, dat."
+    ],
+    "hiems;": [
+        "<b>hiems </b> (noun):, nom.",
+        "<b>hiems </b> (noun):, voc."
+    ],
+    "sidere": [
+        "<b>sido </b> (vrb.):, fut., ind., pass.",
+        "<b>sido </b> (vrb.):, pres., imp., pass.",
+        "<b>sido </b> (vrb.):, pres., ind., pass.",
+        "<b>sido </b> (vrb.):, pres., inf., act.",
+        "<b>sidus </b> (noun):, abl."
+    ],
+    "praegelido": [
+        "<b>praegelidus </b> (adj.):, abl.",
+        "<b>praegelidus </b> (adj.):, abl.",
+        "<b>praegelidus </b> (adj.):, dat.",
+        "<b>praegelidus </b> (adj.):, dat."
+    ],
+    "mox": [
+        "<b>mox </b> (adverb):"
+    ],
+    "arctos": [
+        "<b>arceo </b> (vrb.):, perf., part., pass., acc.",
+        "<b>arctos </b> (noun):, acc.",
+        "<b>arctos </b> (noun):, nom.",
+        "<b>artus#1 </b> (adj.):, acc."
+    ],
+    "inhorruit": [
+        "<b>inhorreo </b> (vrb.):, perf., ind., act."
+    ],
+    "omnis,": [
+        "<b>omne </b> (noun):, gen.",
+        "<b>omnes </b> (noun):, acc.",
+        "<b>omnes </b> (noun):, acc.",
+        "<b>omnis </b> (adj.):, acc.",
+        "<b>omnis </b> (adj.):, acc.",
+        "<b>omnis </b> (adj.):, gen.",
+        "<b>omnis </b> (adj.):, gen.",
+        "<b>omnis </b> (adj.):, gen.",
+        "<b>omnis </b> (adj.):, nom.",
+        "<b>omnis </b> (adj.):, nom.",
+        "<b>omnis </b> (adj.):, voc.",
+        "<b>omnis </b> (adj.):, voc."
+    ],
+    "atque": [
+        "<b>atque </b> (conjunction):"
+    ],
+    "incrustatas": [
+        "<b>incrusto </b> (vrb.):, perf., part., pass., acc."
+    ],
+    "consolidavit": [
+        "<b>consolida </b> (vrb.):, perf., ind., act."
+    ],
+    "aquas.": [
+        "<b>aqua </b> (noun):, acc."
+    ],
+    "vertitur": [
+        "<b>verto </b> (vrb.):, pres., ind., pass."
+    ],
+    "pontem": [
+        "<b>pons </b> (noun):, acc."
+    ],
+    "pontus,": [
+        "<b>pontus#1 </b> (noun):, nom."
+    ],
+    "laquearque": [
+        "<b>laquear </b> (noun):, nom.",
+        "<b>laquear </b> (noun):, voc.",
+        "<b>laquear </b> (noun):, acc."
+    ],
+    "aequor,": [
+        "<b>aequo </b> (vrb.):, pres., ind., pass.",
+        "<b>aequor </b> (noun):, nom.",
+        "<b>aequor </b> (noun):, voc.",
+        "<b>aequor </b> (noun):, acc."
+    ],
+    "inque": [
+        "<b>inquam </b> (vrb.):, pres., imp., act."
+    ],
+    "soli": [
+        "<b>sol </b> (noun):, dat.",
+        "<b>solium </b> (noun):, nom.",
+        "<b>solium </b> (noun):, gen.",
+        "<b>solum#1 </b> (noun):, gen.",
+        "<b>solus#1 </b> (adj.):, nom.",
+        "<b>solus#1 </b> (adj.):, voc.",
+        "<b>solus#1 </b> (adj.):, gen.",
+        "<b>solus#1 </b> (adj.):, nom.",
+        "<b>solus#1 </b> (adj.):, voc.",
+        "<b>solus#1 </b> (adj.):, dat.",
+        "<b>solus#1 </b> (adj.):, dat.",
+        "<b>solus#1 </b> (adj.):, dat."
+    ],
+    "speciem": [
+        "<b>species </b> (noun):, acc."
+    ],
+    "cogitur": [
+        "<b>cogo </b> (vrb.):, pres., ind., pass."
+    ],
+    "omne": [
+        "<b>omne </b> (noun):, abl.",
+        "<b>omne </b> (noun):, nom.",
+        "<b>omne </b> (noun):, voc.",
+        "<b>omne </b> (noun):, acc.",
+        "<b>omnis </b> (adj.):, nom.",
+        "<b>omnis </b> (adj.):, voc.",
+        "<b>omnis </b> (adj.):, acc."
+    ],
+    "salum.": [
+        "<b>salum </b> (noun):, gen.",
+        "<b>salum </b> (noun):, nom.",
+        "<b>salum </b> (noun):, voc.",
+        "<b>salum </b> (noun):, acc."
+    ],
+    "persultant": [
+        "<b>persulto </b> (vrb.):, pres., ind., act."
+    ],
+    "aciem": [
+        "<b>acies </b> (noun):, acc."
+    ],
+    "florentes": [
+        "<b>floreo </b> (vrb.):, pres., part., acc.",
+        "<b>floreo </b> (vrb.):, pres., part., acc.",
+        "<b>floreo </b> (vrb.):, pres., part., nom.",
+        "<b>floreo </b> (vrb.):, pres., part., nom.",
+        "<b>floreo </b> (vrb.):, pres., part., voc.",
+        "<b>floreo </b> (vrb.):, pres., part., voc."
+    ],
+    "aere": [
+        "<b>aer </b> (noun):, abl."
+    ],
+    "catervae,": [
+        "<b>caterva </b> (noun):, nom.",
+        "<b>caterva </b> (noun):, voc.",
+        "<b>caterva </b> (noun):, dat.",
+        "<b>caterva </b> (noun):, gen."
+    ],
+    "arctoasque": [
+        "<b>arctous </b> (adj.):, acc."
+    ],
+    "acies": [
+        "<b>acieris </b> (vrb.):, fut., ind., act.",
+        "<b>acieris </b> (vrb.):, pres., ind., act.",
+        "<b>acies </b> (noun):, acc.",
+        "<b>acies </b> (noun):, nom.",
+        "<b>acies </b> (noun):, nom."
+    ],
+    "marmora": [
+        "<b>marmoro </b> (vrb.):, pres., imp., act."
+    ],
+    "salsa": [
+        "<b>salio#1 </b> (vrb.):, perf., part., pass., nom.",
+        "<b>salio#1 </b> (vrb.):, perf., part., pass., voc.",
+        "<b>salio#1 </b> (vrb.):, perf., part., pass., acc.",
+        "<b>salio#1 </b> (vrb.):, perf., part., pass., abl.",
+        "<b>salio#1 </b> (vrb.):, perf., part., pass., nom.",
+        "<b>salio#1 </b> (vrb.):, perf., part., pass., voc.",
+        "<b>salsa </b> (noun):, nom.",
+        "<b>salsa </b> (noun):, voc.",
+        "<b>salsa </b> (noun):, acc."
+    ],
+    "ferunt:": [
+        "<b>fero </b> (vrb.):, pres., ind., act."
+    ],
+    "magnanimus": [
+        "<b>magnanimus </b> (adj.):, nom."
+    ],
+    "laetas": [
+        "<b>laeto </b> (vrb.):, pres., ind., act.",
+        "<b>laetus#1 </b> (adj.):, acc."
+    ],
+    "ductat": [
+        "<b>ducto </b> (vrb.):, pres., ind., act."
+    ],
+    "ipse": [
+        "<b>ipse </b> (pronoun):, nom.",
+        "<b>ipse </b> (pronoun):, voc."
+    ],
+    "cohortes,": [
+        "<b>cohors </b> (noun):, acc.",
+        "<b>cohors </b> (noun):, nom.",
+        "<b>cohors </b> (noun):, voc.",
+        "<b>cohorto </b> (vrb.):, pres., subj., act."
+    ],
+    "insolitumque": [
+        "<b>insolitus </b> (adj.):, gen.",
+        "<b>insolitus </b> (adj.):, gen.",
+        "<b>insolitus </b> (adj.):, acc.",
+        "<b>insolitus </b> (adj.):, nom.",
+        "<b>insolitus </b> (adj.):, nom.",
+        "<b>insolitus </b> (adj.):, voc.",
+        "<b>insolitus </b> (adj.):, acc."
+    ],
+    "suis": [
+        "<b>sua </b> (noun):, abl.",
+        "<b>sua </b> (noun):, dat.",
+        "<b>suo </b> (vrb.):, pres., ind., act.",
+        "<b>sus </b> (noun):, gen.",
+        "<b>sus </b> (noun):, gen.",
+        "<b>suum </b> (noun):, abl.",
+        "<b>suum </b> (noun):, dat.",
+        "<b>suus </b> (adj.):, abl.",
+        "<b>suus </b> (adj.):, abl.",
+        "<b>suus </b> (adj.):, abl.",
+        "<b>suus </b> (adj.):, dat.",
+        "<b>suus </b> (adj.):, dat.",
+        "<b>suus </b> (adj.):, dat."
+    ],
+    "freta": [
+        "<b>fretum </b> (noun):, nom.",
+        "<b>fretum </b> (noun):, voc.",
+        "<b>fretum </b> (noun):, acc.",
+        "<b>fretus#1 </b> (adj.):, nom.",
+        "<b>fretus#1 </b> (adj.):, voc.",
+        "<b>fretus#1 </b> (adj.):, acc.",
+        "<b>fretus#1 </b> (adj.):, abl.",
+        "<b>fretus#1 </b> (adj.):, nom.",
+        "<b>fretus#1 </b> (adj.):, voc."
+    ],
+    "monstrat": [
+        "<b>monstro </b> (vrb.):, pres., ind., act."
+    ],
+    "iter.": [
+        "<b>iter </b> (noun):, nom.",
+        "<b>iter </b> (noun):, voc.",
+        "<b>iter </b> (noun):, acc.",
+        "<b>ito </b> (vrb.):, pres., subj., pass."
+    ],
+    "aenea": [
+        "<b>aeneus </b> (adj.):, nom.",
+        "<b>aeneus </b> (adj.):, voc.",
+        "<b>aeneus </b> (adj.):, acc.",
+        "<b>aeneus </b> (adj.):, abl.",
+        "<b>aeneus </b> (adj.):, nom.",
+        "<b>aeneus </b> (adj.):, voc."
+    ],
+    "cornipedum": [
+        "<b>cornipes </b> (noun):, gen.",
+        "<b>cornipes </b> (noun):, gen.",
+        "<b>cornipes </b> (noun):, gen."
+    ],
+    "fixos": [
+        "<b>figo </b> (vrb.):, perf., part., pass., acc."
+    ],
+    "terit": [
+        "<b>tero </b> (vrb.):, pres., ind., act."
+    ],
+    "ungula": [
+        "<b>ungula </b> (noun):, abl.",
+        "<b>ungula </b> (noun):, nom.",
+        "<b>ungula </b> (noun):, voc."
+    ],
+    "fluctus,": [
+        "<b>fluctus </b> (noun):, acc.",
+        "<b>fluctus </b> (noun):, nom.",
+        "<b>fluctus </b> (noun):, gen.",
+        "<b>fluctus </b> (noun):, nom."
+    ],
+    "vitreos": [
+        "<b>vitreus </b> (adj.):, acc."
+    ],
+    "campos": [
+        "<b>campus#1 </b> (noun):, acc.",
+        "<b>campus#2 </b> (noun):, acc."
+    ],
+    "agmina": [
+        "<b>agmen </b> (noun):, nom.",
+        "<b>agmen </b> (noun):, voc.",
+        "<b>agmen </b> (noun):, acc."
+    ],
+    "cana": [
+        "<b>canus </b> (adj.):, nom.",
+        "<b>canus </b> (adj.):, voc.",
+        "<b>canus </b> (adj.):, acc.",
+        "<b>canus </b> (adj.):, abl.",
+        "<b>canus </b> (adj.):, nom.",
+        "<b>canus </b> (adj.):, voc."
+    ],
+    "meant.": [
+        "<b>meo </b> (vrb.):, pres., ind., act."
+    ],
+    "si": [
+        "<b>si </b> (conjunction):"
+    ],
+    "gessit": [
+        "<b>gero#1 </b> (vrb.):, perf., ind., act."
+    ],
+    "triplici": [
+        "<b>triplex </b> (noun):, dat.",
+        "<b>triplex </b> (noun):, dat.",
+        "<b>triplex </b> (noun):, dat.",
+        "<b>triplex </b> (noun):, dat."
+    ],
+    "praecordia": [
+        "<b>praecordia </b> (noun):, nom.",
+        "<b>praecordia </b> (noun):, voc.",
+        "<b>praecordia </b> (noun):, acc."
+    ],
+    "juncta": [
+        "<b>junctus </b> (adj.):, nom.",
+        "<b>junctus </b> (adj.):, voc.",
+        "<b>junctus </b> (adj.):, acc.",
+        "<b>junctus </b> (adj.):, abl.",
+        "<b>junctus </b> (adj.):, nom.",
+        "<b>junctus </b> (adj.):, voc.",
+        "<b>jungo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>jungo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>jungo </b> (vrb.):, perf., part., pass., acc.",
+        "<b>jungo </b> (vrb.):, perf., part., pass., abl.",
+        "<b>jungo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>jungo </b> (vrb.):, perf., part., pass., voc."
+    ],
+    "metallo,": [
+        "<b>metallum </b> (noun):, abl.",
+        "<b>metallum </b> (noun):, dat."
+    ],
+    "qui": [
+        "<b>qui#1 </b> (noun):, nom.",
+        "<b>qui#1 </b> (noun):, nom.",
+        "<b>qui#2 </b> (pronoun):, nom.",
+        "<b>qui#2 </b> (pronoun):, nom.",
+        "<b>quis#1 </b> (noun):, nom.",
+        "<b>quis#2 </b> (pronoun):, nom."
+    ],
+    "docuit": [
+        "<b>doceo </b> (vrb.):, perf., ind., act."
+    ],
+    "primus": [
+        "<b>primus </b> (adj.):, nom."
+    ],
+    "caerula": [
+        "<b>caerula </b> (noun):, nom.",
+        "<b>caerula </b> (noun):, voc.",
+        "<b>caerula </b> (noun):, acc.",
+        "<b>caerulus </b> (adj.):, nom.",
+        "<b>caerulus </b> (adj.):, voc.",
+        "<b>caerulus </b> (adj.):, acc.",
+        "<b>caerulus </b> (adj.):, abl.",
+        "<b>caerulus </b> (adj.):, nom.",
+        "<b>caerulus </b> (adj.):, voc."
+    ],
+    "ferre": [
+        "<b>fero </b> (vrb.):, pres., imp., pass.",
+        "<b>fero </b> (vrb.):, pres., inf., act.",
+        "<b>ferrum </b> (noun):, voc."
+    ],
+    "ratem;": [
+        "<b>ratis </b> (noun):, acc."
+    ],
+    "pectora": [
+        "<b>pectus </b> (noun):, nom.",
+        "<b>pectus </b> (noun):, voc.",
+        "<b>pectus </b> (noun):, acc."
+    ],
+    "quae": [
+        "<b>qui#1 </b> (noun):, nom.",
+        "<b>qui#1 </b> (noun):, nom.",
+        "<b>qui#1 </b> (noun):, nom.",
+        "<b>qui#1 </b> (noun):, acc.",
+        "<b>qui#2 </b> (pronoun):, nom.",
+        "<b>qui#2 </b> (pronoun):, nom.",
+        "<b>qui#2 </b> (pronoun):, nom.",
+        "<b>qui#2 </b> (pronoun):, acc.",
+        "<b>quis#1 </b> (noun):, nom.",
+        "<b>quis#1 </b> (noun):, nom.",
+        "<b>quis#1 </b> (noun):, acc.",
+        "<b>quis#2 </b> (pronoun):, nom.",
+        "<b>quis#2 </b> (pronoun):, nom.",
+        "<b>quis#2 </b> (pronoun):, acc."
+    ],
+    "fuerint,": [
+        "<b>sum#1 </b> (vrb.):, future perfect, ind., act.",
+        "<b>sum#1 </b> (vrb.):, perf., subj., act."
+    ],
+    "quamque": [
+        "<b>quisque </b> (pronoun):, acc."
+    ],
+    "impavidissima": [
+        "<b>impavidus </b> (adj.):, nom.",
+        "<b>impavidus </b> (adj.):, voc.",
+        "<b>impavidus </b> (adj.):, acc.",
+        "<b>impavidus </b> (adj.):, abl.",
+        "<b>impavidus </b> (adj.):, nom.",
+        "<b>impavidus </b> (adj.):, voc."
+    ],
+    "nostris,": [
+        "<b>noster </b> (adj.):, abl.",
+        "<b>noster </b> (adj.):, abl.",
+        "<b>noster </b> (adj.):, abl.",
+        "<b>noster </b> (adj.):, dat.",
+        "<b>noster </b> (adj.):, dat.",
+        "<b>noster </b> (adj.):, dat."
+    ],
+    "nulla": [
+        "<b>nullus </b> (adj.):, nom.",
+        "<b>nullus </b> (adj.):, voc.",
+        "<b>nullus </b> (adj.):, acc.",
+        "<b>nullus </b> (adj.):, abl.",
+        "<b>nullus </b> (adj.):, nom.",
+        "<b>nullus </b> (adj.):, voc.",
+        "<b>nullus </b> (adj.):, nom.",
+        "<b>nullus </b> (adj.):, voc.",
+        "<b>nullus </b> (adj.):, acc.",
+        "<b>nullus </b> (adj.):, abl.",
+        "<b>nullus </b> (adj.):, nom."
+    ],
+    "calcant": [
+        "<b>calceo </b> (vrb.):, pres., ind., act.",
+        "<b>calco </b> (vrb.):, pres., ind., act."
+    ],
+    "aequora": [
+        "<b>aequor </b> (noun):, nom.",
+        "<b>aequor </b> (noun):, voc.",
+        "<b>aequor </b> (noun):, acc."
+    ],
+    "strata": [
+        "<b>sterno </b> (vrb.):, perf., part., pass., nom.",
+        "<b>sterno </b> (vrb.):, perf., part., pass., voc.",
+        "<b>sterno </b> (vrb.):, perf., part., pass., acc.",
+        "<b>sterno </b> (vrb.):, perf., part., pass., abl.",
+        "<b>sterno </b> (vrb.):, perf., part., pass., nom.",
+        "<b>sterno </b> (vrb.):, perf., part., pass., voc.",
+        "<b>strata </b> (noun):, abl.",
+        "<b>strata </b> (noun):, nom.",
+        "<b>strata </b> (noun):, voc.",
+        "<b>stratum </b> (noun):, nom.",
+        "<b>stratum </b> (noun):, voc.",
+        "<b>stratum </b> (noun):, acc.",
+        "<b>stratus </b> (adj.):, nom.",
+        "<b>stratus </b> (adj.):, voc.",
+        "<b>stratus </b> (adj.):, acc.",
+        "<b>stratus </b> (adj.):, abl.",
+        "<b>stratus </b> (adj.):, nom.",
+        "<b>stratus </b> (adj.):, voc."
+    ],
+    "vos,": [
+        "<b>tu </b> (pronoun):, acc.",
+        "<b>tu </b> (pronoun):, acc.",
+        "<b>tu </b> (pronoun):, nom.",
+        "<b>tu </b> (pronoun):, nom.",
+        "<b>tu </b> (pronoun):, voc.",
+        "<b>tu </b> (pronoun):, voc."
+    ],
+    "divina": [
+        "<b>divina </b> (noun):, abl.",
+        "<b>divina </b> (noun):, nom.",
+        "<b>divina </b> (noun):, voc.",
+        "<b>divino </b> (vrb.):, pres., imp., act.",
+        "<b>divinum </b> (noun):, nom.",
+        "<b>divinum </b> (noun):, voc.",
+        "<b>divinum </b> (noun):, acc.",
+        "<b>divinus </b> (adj.):, nom.",
+        "<b>divinus </b> (adj.):, voc.",
+        "<b>divinus </b> (adj.):, acc.",
+        "<b>divinus </b> (adj.):, abl.",
+        "<b>divinus </b> (adj.):, nom.",
+        "<b>divinus </b> (adj.):, voc."
+    ],
+    "potentia": [
+        "<b>possum </b> (vrb.):, pres., part., nom.",
+        "<b>possum </b> (vrb.):, pres., part., voc.",
+        "<b>possum </b> (vrb.):, pres., part., acc.",
+        "<b>potens </b> (adj.):, nom.",
+        "<b>potens </b> (adj.):, voc.",
+        "<b>potens </b> (adj.):, acc.",
+        "<b>potentia#1 </b> (noun):, abl.",
+        "<b>potentia#1 </b> (noun):, nom.",
+        "<b>potentia#1 </b> (noun):, voc."
+    ],
+    "solos,": [
+        "<b>solus#1 </b> (adj.):, acc.",
+        "<b>solus#1 </b> (adj.):, acc."
+    ],
+    "nos": [
+        "<b>nos </b> (pronoun):, acc.",
+        "<b>nos </b> (pronoun):, acc.",
+        "<b>nos </b> (pronoun):, nom.",
+        "<b>nos </b> (pronoun):, nom."
+    ],
+    "quoque": [
+        "<b>quoque </b> (adverb):"
+    ],
+    "praesenti": [
+        "<b>praesens </b> (adj.):, abl.",
+        "<b>praesens </b> (adj.):, abl.",
+        "<b>praesens </b> (adj.):, abl.",
+        "<b>praesens </b> (adj.):, dat.",
+        "<b>praesens </b> (adj.):, dat.",
+        "<b>praesens </b> (adj.):, dat.",
+        "<b>praesentio </b> (vrb.):, pres., imp., act."
+    ],
+    "nobilitavit": [
+        "<b>nobilito </b> (vrb.):, perf., ind., act."
+    ],
+    "ope:": [
+        "<b>opos </b> (noun):, voc.",
+        "<b>ops#1 </b> (noun):, abl."
+    ],
+    "illinc": [
+        "<b>illinc </b> (adverb):"
+    ],
+    "seu": [
+        "<b>sive </b> (conjunction):"
+    ],
+    "gemini,": [
+        "<b>gemini </b> (noun):, nom.",
+        "<b>gemini </b> (noun):, voc.",
+        "<b>geminus </b> (adj.):, nom.",
+        "<b>geminus </b> (adj.):, voc.",
+        "<b>geminus </b> (adj.):, gen.",
+        "<b>geminus </b> (adj.):, gen."
+    ],
+    "sublimia": [
+        "<b>sublime </b> (noun):, nom.",
+        "<b>sublime </b> (noun):, voc.",
+        "<b>sublime </b> (noun):, acc.",
+        "<b>sublimis </b> (adj.):, nom.",
+        "<b>sublimis </b> (adj.):, voc.",
+        "<b>sublimis </b> (adj.):, acc."
+    ],
+    "flumina,": [
+        "<b>flumen </b> (noun):, nom.",
+        "<b>flumen </b> (noun):, voc.",
+        "<b>flumen </b> (noun):, acc."
+    ],
+    "muri": [
+        "<b>murus </b> (noun):, nom.",
+        "<b>murus </b> (noun):, voc.",
+        "<b>murus </b> (noun):, gen.",
+        "<b>mus </b> (noun):, dat.",
+        "<b>mus </b> (noun):, dat."
+    ],
+    "erecta,": [
+        "<b>erigo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>erigo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>erigo </b> (vrb.):, perf., part., pass., acc.",
+        "<b>erigo </b> (vrb.):, perf., part., pass., abl.",
+        "<b>erigo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>erigo </b> (vrb.):, perf., part., pass., voc."
+    ],
+    "sicco": [
+        "<b>sicco </b> (vrb.):, pres., ind., act.",
+        "<b>siccus </b> (adj.):, abl.",
+        "<b>siccus </b> (adj.):, abl.",
+        "<b>siccus </b> (adj.):, dat.",
+        "<b>siccus </b> (adj.):, dat."
+    ],
+    "sunt": [
+        "<b>sum#1 </b> (vrb.):, pres., ind., act."
+    ],
+    "vada": [
+        "<b>vado#2 </b> (vrb.):, pres., imp., act.",
+        "<b>vadum </b> (noun):, nom.",
+        "<b>vadum </b> (noun):, voc.",
+        "<b>vadum </b> (noun):, acc.",
+        "<b>vas1 </b> (noun):, acc."
+    ],
+    "tacta": [
+        "<b>tango </b> (vrb.):, perf., part., pass., nom.",
+        "<b>tango </b> (vrb.):, perf., part., pass., voc.",
+        "<b>tango </b> (vrb.):, perf., part., pass., acc.",
+        "<b>tango </b> (vrb.):, perf., part., pass., abl.",
+        "<b>tango </b> (vrb.):, perf., part., pass., nom.",
+        "<b>tango </b> (vrb.):, perf., part., pass., voc."
+    ],
+    "pede.": [
+        "<b>pedis </b> (noun):, abl.",
+        "<b>pedis </b> (noun):, abl.",
+        "<b>pedo#2 </b> (vrb.):, pres., imp., act.",
+        "<b>pedum#1 </b> (noun):, voc."
+    ],
+    "pensilis": [
+        "<b>pensilis </b> (adj.):, acc.",
+        "<b>pensilis </b> (adj.):, acc.",
+        "<b>pensilis </b> (adj.):, gen.",
+        "<b>pensilis </b> (adj.):, gen.",
+        "<b>pensilis </b> (adj.):, gen.",
+        "<b>pensilis </b> (adj.):, nom.",
+        "<b>pensilis </b> (adj.):, nom.",
+        "<b>pensilis </b> (adj.):, voc.",
+        "<b>pensilis </b> (adj.):, voc."
+    ],
+    "hinc": [
+        "<b>hinc </b> (adverb):"
+    ],
+    "fornix": [
+        "<b>fornix </b> (noun):, nom.",
+        "<b>fornix </b> (noun):, voc."
+    ],
+    "pons": [
+        "<b>pons </b> (noun):, nom."
+    ],
+    "undas": [
+        "<b>unda </b> (noun):, acc.",
+        "<b>undo </b> (vrb.):, pres., ind., act."
+    ],
+    "induit": [
+        "<b>induo </b> (vrb.):, pres., ind., act.",
+        "<b>induo </b> (vrb.):, perf., ind., act."
+    ],
+    "insuetum": [
+        "<b>insueta </b> (noun):, gen.",
+        "<b>insuetus#2 </b> (adj.):, gen.",
+        "<b>insuetus#2 </b> (adj.):, gen.",
+        "<b>insuetus#2 </b> (adj.):, acc.",
+        "<b>insuetus#2 </b> (adj.):, nom.",
+        "<b>insuetus#2 </b> (adj.):, nom.",
+        "<b>insuetus#2 </b> (adj.):, voc.",
+        "<b>insuetus#2 </b> (adj.):, acc."
+    ],
+    "his": [
+        "<b>hic </b> (pronoun):, abl.",
+        "<b>hic </b> (pronoun):, dat.",
+        "<b>hic </b> (pronoun):, abl.",
+        "<b>hic </b> (pronoun):, dat.",
+        "<b>hic </b> (pronoun):, abl.",
+        "<b>hic </b> (pronoun):, dat."
+    ],
+    "imposuitque": [
+        "<b>impono </b> (vrb.):, perf., ind., act."
+    ],
+    "jugum;": [
+        "<b>jugum </b> (noun):, gen.",
+        "<b>jugum </b> (noun):, nom.",
+        "<b>jugum </b> (noun):, voc.",
+        "<b>jugum </b> (noun):, acc.",
+        "<b>jugus </b> (adj.):, gen.",
+        "<b>jugus </b> (adj.):, gen.",
+        "<b>jugus </b> (adj.):, acc.",
+        "<b>jugus </b> (adj.):, nom.",
+        "<b>jugus </b> (adj.):, nom.",
+        "<b>jugus </b> (adj.):, voc.",
+        "<b>jugus </b> (adj.):, acc."
+    ],
+    "neutris": [
+        "<b>neuter </b> (adj.):, abl.",
+        "<b>neuter </b> (adj.):, abl.",
+        "<b>neuter </b> (adj.):, abl.",
+        "<b>neuter </b> (adj.):, dat.",
+        "<b>neuter </b> (adj.):, dat.",
+        "<b>neuter </b> (adj.):, dat."
+    ],
+    "fluxa": [
+        "<b>fluo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>fluo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>fluo </b> (vrb.):, perf., part., pass., acc.",
+        "<b>fluo </b> (vrb.):, perf., part., pass., abl.",
+        "<b>fluo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>fluo </b> (vrb.):, perf., part., pass., voc."
+    ],
+    "elementis,": [
+        "<b>elementum </b> (noun):, abl.",
+        "<b>elementum </b> (noun):, dat."
+    ],
+    "consita": [
+        "<b>consero#1 </b> (vrb.):, perf., part., pass., nom.",
+        "<b>consero#1 </b> (vrb.):, perf., part., pass., voc.",
+        "<b>consero#1 </b> (vrb.):, perf., part., pass., acc.",
+        "<b>consero#1 </b> (vrb.):, perf., part., pass., abl.",
+        "<b>consero#1 </b> (vrb.):, perf., part., pass., nom.",
+        "<b>consero#1 </b> (vrb.):, perf., part., pass., voc."
+    ],
+    "movit": [
+        "<b>moveo </b> (vrb.):, perf., ind., act."
+    ],
+    "turbine": [
+        "<b>turbo#2 </b> (noun):, abl."
+    ],
+    "bilis": [
+        "<b>bilis </b> (noun):, acc.",
+        "<b>bilis </b> (noun):, gen.",
+        "<b>bilis </b> (noun):, nom."
+    ],
+    "utraque": [
+        "<b>uter </b> (adj.):, nom.",
+        "<b>uter </b> (adj.):, nom.",
+        "<b>uter </b> (adj.):, voc.",
+        "<b>uter </b> (adj.):, acc.",
+        "<b>uter </b> (adj.):",
+        "<b>uter </b> (adj.):, abl."
+    ],
+    "victis": [
+        "<b>vinco </b> (vrb.):, perf., part., pass., abl.",
+        "<b>vinco </b> (vrb.):, perf., part., pass., abl.",
+        "<b>vinco </b> (vrb.):, perf., part., pass., abl.",
+        "<b>vinco </b> (vrb.):, perf., part., pass., dat.",
+        "<b>vinco </b> (vrb.):, perf., part., pass., dat.",
+        "<b>vinco </b> (vrb.):, perf., part., pass., dat.",
+        "<b>vivo </b> (vrb.):, perf., part., pass., abl.",
+        "<b>vivo </b> (vrb.):, perf., part., pass., abl.",
+        "<b>vivo </b> (vrb.):, perf., part., pass., abl.",
+        "<b>vivo </b> (vrb.):, perf., part., pass., dat.",
+        "<b>vivo </b> (vrb.):, perf., part., pass., dat.",
+        "<b>vivo </b> (vrb.):, perf., part., pass., dat."
+    ],
+    "illustrior": [
+        "<b>illustris </b> (adj.):, nom.",
+        "<b>illustris </b> (adj.):, nom.",
+        "<b>illustris </b> (adj.):, voc.",
+        "<b>illustris </b> (adj.):, voc."
+    ],
+    "hostibus": [
+        "<b>hostis </b> (noun):, abl.",
+        "<b>hostis </b> (noun):, abl.",
+        "<b>hostis </b> (noun):, dat.",
+        "<b>hostis </b> (noun):, dat."
+    ],
+    "egit,": [
+        "<b>ago </b> (vrb.):, perf., ind., act."
+    ],
+    "terris": [
+        "<b>terra </b> (noun):, abl.",
+        "<b>terra </b> (noun):, dat."
+    ],
+    "ditibus": [
+        "<b>dives </b> (adj.):, abl.",
+        "<b>dives </b> (adj.):, abl.",
+        "<b>dives </b> (adj.):, abl.",
+        "<b>dives </b> (adj.):, dat.",
+        "<b>dives </b> (adj.):, dat.",
+        "<b>dives </b> (adj.):, dat."
+    ],
+    "aucta": [
+        "<b>aucto </b> (vrb.):, pres., imp., act.",
+        "<b>augeo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>augeo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>augeo </b> (vrb.):, perf., part., pass., acc.",
+        "<b>augeo </b> (vrb.):, perf., part., pass., abl.",
+        "<b>augeo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>augeo </b> (vrb.):, perf., part., pass., voc."
+    ],
+    "fuit.": [
+        "<b>sum#1 </b> (vrb.):, perf., ind., act."
+    ],
+    "quaeris,": [
+        "<b>quaero </b> (vrb.):, pres., ind., act."
+    ],
+    "cur": [
+        "<b>cur </b> (adverb):"
+    ],
+    "similes": [
+        "<b>similis </b> (adj.):, acc.",
+        "<b>similis </b> (adj.):, acc.",
+        "<b>similis </b> (adj.):, nom.",
+        "<b>similis </b> (adj.):, nom.",
+        "<b>similis </b> (adj.):, voc.",
+        "<b>similis </b> (adj.):, voc."
+    ],
+    "referant": [
+        "<b>refero </b> (vrb.):, pres., subj., act.",
+        "<b>refero </b> (vrb.):, pres., subj., act."
+    ],
+    "miracula": [
+        "<b>miracula </b> (noun):, abl.",
+        "<b>miracula </b> (noun):, nom.",
+        "<b>miracula </b> (noun):, voc.",
+        "<b>miraculum </b> (noun):, nom.",
+        "<b>miraculum </b> (noun):, voc.",
+        "<b>miraculum </b> (noun):, acc."
+    ],
+    "nixa": [
+        "<b>nitor#1 </b> (vrb.):, perf., part., pass., nom.",
+        "<b>nitor#1 </b> (vrb.):, perf., part., pass., voc.",
+        "<b>nitor#1 </b> (vrb.):, perf., part., pass., acc.",
+        "<b>nitor#1 </b> (vrb.):, perf., part., pass., abl.",
+        "<b>nitor#1 </b> (vrb.):, perf., part., pass., nom.",
+        "<b>nitor#1 </b> (vrb.):, perf., part., pass., voc."
+    ],
+    "est,": [
+        "<b>edo#1 </b> (vrb.):, pres., ind., act.",
+        "<b>sum#1 </b> (vrb.):, pres., ind., act."
+    ],
+    "causa,": [
+        "<b>causa </b> (noun):, abl.",
+        "<b>causa </b> (noun):, nom.",
+        "<b>causa </b> (noun):, voc."
+    ],
+    "deo.": [
+        "<b>deus </b> (noun):, abl.",
+        "<b>deus </b> (noun):, dat."
+    ],
+    "nuptias": [
+        "<b>nuptiae </b> (noun):, acc."
+    ],
+    "urbani": [
+        "<b>urbanus </b> (adj.):, nom.",
+        "<b>urbanus </b> (adj.):, voc.",
+        "<b>urbanus </b> (adj.):, gen.",
+        "<b>urbanus </b> (adj.):, gen.",
+        "<b>urbanus </b> (adj.):, nom.",
+        "<b>urbanus </b> (adj.):, voc.",
+        "<b>urbanus </b> (adj.):, gen."
+    ],
+    "suaviloquens": [
+        "<b>suaviloquens </b> (adj.):, nom.",
+        "<b>suaviloquens </b> (adj.):, voc.",
+        "<b>suaviloquens </b> (adj.):, acc.",
+        "<b>suaviloquens </b> (adj.):, nom.",
+        "<b>suaviloquens </b> (adj.):, nom.",
+        "<b>suaviloquens </b> (adj.):, voc.",
+        "<b>suaviloquens </b> (adj.):, voc."
+    ],
+    "urbane,": [
+        "<b>urbanus </b> (adj.):",
+        "<b>urbanus </b> (adj.):, voc.",
+        "<b>urbanus </b> (adj.):, voc.",
+        "<b>urbanus </b> (adj.):, voc."
+    ],
+    "pater": [
+        "<b>pater </b> (noun):, nom.",
+        "<b>pater </b> (noun):, voc."
+    ],
+    "cui": [
+        "<b>qui#1 </b> (noun):, dat.",
+        "<b>qui#1 </b> (noun):, dat.",
+        "<b>qui#1 </b> (noun):, dat.",
+        "<b>qui#2 </b> (pronoun):, dat.",
+        "<b>qui#2 </b> (pronoun):, dat.",
+        "<b>qui#2 </b> (pronoun):, dat.",
+        "<b>quis#1 </b> (noun):, dat.",
+        "<b>quis#1 </b> (noun):, dat.",
+        "<b>quis#1 </b> (noun):, dat.",
+        "<b>quis#2 </b> (pronoun):, dat.",
+        "<b>quis#2 </b> (pronoun):, dat.",
+        "<b>quis#2 </b> (pronoun):, dat."
+    ],
+    "certus": [
+        "<b>certus </b> (adj.):, nom."
+    ],
+    "medicae": [
+        "<b>medica </b> (noun):, nom.",
+        "<b>medica </b> (noun):, voc.",
+        "<b>medica </b> (noun):, dat.",
+        "<b>medica </b> (noun):, gen.",
+        "<b>medica#2 </b> (noun):, nom.",
+        "<b>medica#2 </b> (noun):, voc.",
+        "<b>medica#2 </b> (noun):, dat.",
+        "<b>medica#2 </b> (noun):, gen.",
+        "<b>medicus#1 </b> (adj.):, nom.",
+        "<b>medicus#1 </b> (adj.):, voc.",
+        "<b>medicus#1 </b> (adj.):, dat.",
+        "<b>medicus#1 </b> (adj.):, gen."
+    ],
+    "munera": [
+        "<b>munero </b> (vrb.):, pres., imp., act.",
+        "<b>munus </b> (noun):, nom.",
+        "<b>munus </b> (noun):, voc.",
+        "<b>munus </b> (noun):, acc."
+    ],
+    "donat": [
+        "<b>dono </b> (vrb.):, pres., ind., act."
+    ],
+    "opis,": [
+        "<b>opos </b> (noun):, abl.",
+        "<b>opos </b> (noun):, dat.",
+        "<b>ops#1 </b> (noun):, acc.",
+        "<b>ops#1 </b> (noun):, gen."
+    ],
+    "tuus": [
+        "<b>tuus </b> (adj.):, nom."
+    ],
+    "est": [
+        "<b>edo#1 </b> (vrb.):, pres., ind., act.",
+        "<b>sum#1 </b> (vrb.):, pres., ind., act."
+    ],
+    "candor,": [
+        "<b>candor </b> (noun):, nom.",
+        "<b>candor </b> (noun):, voc."
+    ],
+    "veniam": [
+        "<b>venia </b> (noun):, acc.",
+        "<b>venio </b> (vrb.):, fut., ind., act.",
+        "<b>venio </b> (vrb.):, pres., subj., act."
+    ],
+    "concede": [
+        "<b>concedo </b> (vrb.):, pres., imp., act."
+    ],
+    "sodali,": [
+        "<b>sodalis </b> (noun):, abl.",
+        "<b>sodalis </b> (noun):, abl.",
+        "<b>sodalis </b> (noun):, dat.",
+        "<b>sodalis </b> (noun):, dat."
+    ],
+    "carmina": [
+        "<b>carmen#1 </b> (noun):, nom.",
+        "<b>carmen#1 </b> (noun):, voc.",
+        "<b>carmen#1 </b> (noun):, acc.",
+        "<b>carmen#2 </b> (noun):, nom.",
+        "<b>carmen#2 </b> (noun):, voc.",
+        "<b>carmen#2 </b> (noun):, acc.",
+        "<b>carmino#1 </b> (vrb.):, pres., imp., act.",
+        "<b>carmino#2 </b> (vrb.):, pres., imp., act."
+    ],
+    "meritis": [
+        "<b>mereo </b> (vrb.):, perf., part., pass., abl.",
+        "<b>mereo </b> (vrb.):, perf., part., pass., abl.",
+        "<b>mereo </b> (vrb.):, perf., part., pass., abl.",
+        "<b>mereo </b> (vrb.):, perf., part., pass., dat.",
+        "<b>mereo </b> (vrb.):, perf., part., pass., dat.",
+        "<b>mereo </b> (vrb.):, perf., part., pass., dat.",
+        "<b>mereor </b> (vrb.):, perf., part., pass., abl.",
+        "<b>mereor </b> (vrb.):, perf., part., pass., abl.",
+        "<b>mereor </b> (vrb.):, perf., part., pass., abl.",
+        "<b>mereor </b> (vrb.):, perf., part., pass., dat.",
+        "<b>mereor </b> (vrb.):, perf., part., pass., dat.",
+        "<b>mereor </b> (vrb.):, perf., part., pass., dat.",
+        "<b>meritum </b> (noun):, abl.",
+        "<b>meritum </b> (noun):, dat."
+    ],
+    "fers": [
+        "<b>fero </b> (vrb.):, pres., ind., act."
+    ],
+    "leviora": [
+        "<b>levis#1 </b> (adj.):, nom.",
+        "<b>levis#1 </b> (adj.):, voc.",
+        "<b>levis#1 </b> (adj.):, acc.",
+        "<b>levis#2 </b> (adj.):, nom.",
+        "<b>levis#2 </b> (adj.):, voc.",
+        "<b>levis#2 </b> (adj.):, acc."
+    ],
+    "tuis.": [
+        "<b>tuus </b> (adj.):, abl.",
+        "<b>tuus </b> (adj.):, abl.",
+        "<b>tuus </b> (adj.):, abl.",
+        "<b>tuus </b> (adj.):, dat.",
+        "<b>tuus </b> (adj.):, dat.",
+        "<b>tuus </b> (adj.):, dat."
+    ],
+    "acta": [
+        "<b>acta </b> (noun):, nom.",
+        "<b>acta </b> (noun):, voc.",
+        "<b>acta </b> (noun):, acc.",
+        "<b>acta#1 </b> (noun):, abl.",
+        "<b>acta#1 </b> (noun):, nom.",
+        "<b>acta#1 </b> (noun):, voc.",
+        "<b>acte#1 </b> (noun):, abl.",
+        "<b>acte#1 </b> (noun):, nom.",
+        "<b>acte#1 </b> (noun):, voc.",
+        "<b>actum </b> (noun):, nom.",
+        "<b>actum </b> (noun):, voc.",
+        "<b>actum </b> (noun):, acc.",
+        "<b>ago </b> (vrb.):, perf., part., pass., nom.",
+        "<b>ago </b> (vrb.):, perf., part., pass., voc.",
+        "<b>ago </b> (vrb.):, perf., part., pass., acc.",
+        "<b>ago </b> (vrb.):, perf., part., pass., abl.",
+        "<b>ago </b> (vrb.):, perf., part., pass., nom.",
+        "<b>ago </b> (vrb.):, perf., part., pass., voc."
+    ],
+    "mihi": [
+        "<b>ego </b> (pronoun):, dat.",
+        "<b>ego </b> (pronoun):, dat."
+    ],
+    "tecum": [
+        "<b>tu </b> (pronoun):, abl.",
+        "<b>tu </b> (pronoun):, abl."
+    ],
+    "nitidae": [
+        "<b>nitidus </b> (adj.):, nom.",
+        "<b>nitidus </b> (adj.):, voc.",
+        "<b>nitidus </b> (adj.):, dat.",
+        "<b>nitidus </b> (adj.):, gen."
+    ],
+    "pars": [
+        "<b>pars </b> (adverb):",
+        "<b>pars </b> (adverb):, nom."
+    ],
+    "magna": [
+        "<b>magnus </b> (adj.):, nom.",
+        "<b>magnus </b> (adj.):, voc.",
+        "<b>magnus </b> (adj.):, acc.",
+        "<b>magnus </b> (adj.):, abl.",
+        "<b>magnus </b> (adj.):, nom.",
+        "<b>magnus </b> (adj.):, voc.",
+        "<b>magnus#1 </b> (adj.):, nom.",
+        "<b>magnus#1 </b> (adj.):, voc.",
+        "<b>magnus#1 </b> (adj.):, acc.",
+        "<b>magnus#1 </b> (adj.):, abl.",
+        "<b>magnus#1 </b> (adj.):, nom.",
+        "<b>magnus#1 </b> (adj.):, voc."
+    ],
+    "juventae": [
+        "<b>juventa </b> (noun):, nom.",
+        "<b>juventa </b> (noun):, voc.",
+        "<b>juventa </b> (noun):, dat.",
+        "<b>juventa </b> (noun):, gen."
+    ],
+    "mille": [
+        "<b>mille </b> (numeral):, nom.",
+        "<b>mille </b> (numeral):, nom.",
+        "<b>mille </b> (numeral):, voc.",
+        "<b>mille </b> (numeral):, voc.",
+        "<b>mille </b> (numeral):, acc.",
+        "<b>mille </b> (numeral):, acc."
+    ],
+    "recognoscit": [
+        "<b>recognosco </b> (vrb.):, pres., ind., act."
+    ],
+    "seria,": [
+        "<b>seria </b> (noun):, abl.",
+        "<b>seria </b> (noun):, nom.",
+        "<b>seria </b> (noun):, voc.",
+        "<b>seria </b> (noun):, nom.",
+        "<b>seria </b> (noun):, voc.",
+        "<b>seria </b> (noun):, acc.",
+        "<b>serium </b> (noun):, nom.",
+        "<b>serium </b> (noun):, voc.",
+        "<b>serium </b> (noun):, acc.",
+        "<b>serius#1 </b> (adj.):, nom.",
+        "<b>serius#1 </b> (adj.):, voc.",
+        "<b>serius#1 </b> (adj.):, acc.",
+        "<b>serius#1 </b> (adj.):, abl.",
+        "<b>serius#1 </b> (adj.):, nom.",
+        "<b>serius#1 </b> (adj.):, voc."
+    ],
+    "jocos.": [
+        "<b>jocus </b> (noun):, acc."
+    ],
+    "recta": [
+        "<b>recingo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>recingo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>recingo </b> (vrb.):, perf., part., pass., acc.",
+        "<b>recingo </b> (vrb.):, perf., part., pass., abl.",
+        "<b>recingo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>recingo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>rectum </b> (noun):, nom.",
+        "<b>rectum </b> (noun):, voc.",
+        "<b>rectum </b> (noun):, acc.",
+        "<b>rectus </b> (adj.):, nom.",
+        "<b>rectus </b> (adj.):, voc.",
+        "<b>rectus </b> (adj.):, acc.",
+        "<b>rectus </b> (adj.):, abl.",
+        "<b>rectus </b> (adj.):, nom.",
+        "<b>rectus </b> (adj.):, voc.",
+        "<b>rego </b> (vrb.):, perf., part., pass., nom.",
+        "<b>rego </b> (vrb.):, perf., part., pass., voc.",
+        "<b>rego </b> (vrb.):, perf., part., pass., acc.",
+        "<b>rego </b> (vrb.):, perf., part., pass., abl.",
+        "<b>rego </b> (vrb.):, perf., part., pass., nom.",
+        "<b>rego </b> (vrb.):, perf., part., pass., voc."
+    ],
+    "fides": [
+        "<b>fides#1 </b> (noun):, acc.",
+        "<b>fides#1 </b> (noun):, nom.",
+        "<b>fides#1 </b> (noun):, nom.",
+        "<b>fides#1 </b> (noun):, acc.",
+        "<b>fides#1 </b> (noun):, nom.",
+        "<b>fides#1 </b> (noun):, voc.",
+        "<b>fides#2 </b> (noun):, acc.",
+        "<b>fides#2 </b> (noun):, nom.",
+        "<b>fides#2 </b> (noun):, voc.",
+        "<b>fido </b> (vrb.):, fut., ind., act."
+    ],
+    "aequas": [
+        "<b>aequo </b> (vrb.):, pres., ind., act.",
+        "<b>aequus </b> (adj.):, acc."
+    ],
+    "tenuit": [
+        "<b>teneo </b> (vrb.):, perf., ind., act."
+    ],
+    "sine": [
+        "<b>sine </b> (adverb):",
+        "<b>sine </b> (adverb):",
+        "<b>sino </b> (vrb.):, pres., imp., act.",
+        "<b>sinum </b> (noun):, voc."
+    ],
+    "crimine": [
+        "<b>crimen </b> (noun):, abl."
+    ],
+    "leges,": [
+        "<b>lego#1 </b> (vrb.):, pres., subj., act.",
+        "<b>lego#2 </b> (vrb.):, fut., ind., act.",
+        "<b>lex </b> (noun):, acc.",
+        "<b>lex </b> (noun):, nom.",
+        "<b>lex </b> (noun):, voc."
+    ],
+    "nec": [
+        "<b>neque </b> (conjunction):"
+    ],
+    "minuit": [
+        "<b>minuo </b> (vrb.):, pres., ind., act.",
+        "<b>minuo </b> (vrb.):, perf., ind., act."
+    ],
+    "gratas": [
+        "<b>gratus </b> (adj.):, acc."
+    ],
+    "ulla": [
+        "<b>ullus </b> (adj.):, nom.",
+        "<b>ullus </b> (adj.):, voc.",
+        "<b>ullus </b> (adj.):, acc.",
+        "<b>ullus </b> (adj.):, abl.",
+        "<b>ullus </b> (adj.):, nom.",
+        "<b>ullus </b> (adj.):, voc.",
+        "<b>ullus </b> (adj.):, nom.",
+        "<b>ullus </b> (adj.):, voc.",
+        "<b>ullus </b> (adj.):, acc.",
+        "<b>ullus </b> (adj.):, abl.",
+        "<b>ullus </b> (adj.):, nom."
+    ],
+    "querela": [
+        "<b>querela </b> (noun):, abl.",
+        "<b>querela </b> (noun):, nom.",
+        "<b>querela </b> (noun):, voc."
+    ],
+    "vias.": [
+        "<b>via </b> (noun):, acc.",
+        "<b>vio </b> (vrb.):, pres., ind., act."
+    ],
+    "nunc": [
+        "<b>nunc </b> (adverb):"
+    ],
+    "animo": [
+        "<b>animo </b> (vrb.):, pres., ind., act.",
+        "<b>animus </b> (noun):, abl.",
+        "<b>animus </b> (noun):, dat."
+    ],
+    "repetenti": [
+        "<b>repeto </b> (vrb.):, pres., part., abl.",
+        "<b>repeto </b> (vrb.):, pres., part., abl.",
+        "<b>repeto </b> (vrb.):, pres., part., abl.",
+        "<b>repeto </b> (vrb.):, pres., part., dat.",
+        "<b>repeto </b> (vrb.):, pres., part., dat.",
+        "<b>repeto </b> (vrb.):, pres., part., dat.",
+        "<b>repeto </b> (vrb.):, pres., part., abl.",
+        "<b>repeto </b> (vrb.):, pres., part., abl.",
+        "<b>repeto </b> (vrb.):, pres., part., abl.",
+        "<b>repeto </b> (vrb.):, pres., part., dat.",
+        "<b>repeto </b> (vrb.):, pres., part., dat.",
+        "<b>repeto </b> (vrb.):, pres., part., dat."
+    ],
+    "eadem": [
+        "<b>eadem </b> (adverb):",
+        "<b>idem </b> (pronoun):, nom.",
+        "<b>idem </b> (pronoun):, nom.",
+        "<b>idem </b> (pronoun):, voc.",
+        "<b>idem </b> (pronoun):, acc.",
+        "<b>idem </b> (pronoun):, abl."
+    ],
+    "se": [
+        "<b>sui </b> (pronoun):, abl.",
+        "<b>sui </b> (pronoun):, abl.",
+        "<b>sui </b> (pronoun):, abl.",
+        "<b>sui </b> (pronoun):, abl.",
+        "<b>sui </b> (pronoun):, acc.",
+        "<b>sui </b> (pronoun):, acc.",
+        "<b>sui </b> (pronoun):, acc.",
+        "<b>sui </b> (pronoun):, acc."
+    ],
+    "voluptas": [
+        "<b>voluptas </b> (noun):, nom."
+    ],
+    "ingerit,": [
+        "<b>ingero </b> (vrb.):, pres., ind., act."
+    ],
+    "rursum": [
+        "<b>rursum </b> (adverb):"
+    ],
+    "gratia": [
+        "<b>gratia </b> (noun):, abl.",
+        "<b>gratia </b> (noun):, nom.",
+        "<b>gratia </b> (noun):, voc."
+    ],
+    "densa": [
+        "<b>denso </b> (vrb.):, pres., imp., act.",
+        "<b>densus </b> (adj.):, nom.",
+        "<b>densus </b> (adj.):, voc.",
+        "<b>densus </b> (adj.):, acc.",
+        "<b>densus </b> (adj.):, abl.",
+        "<b>densus </b> (adj.):, nom.",
+        "<b>densus </b> (adj.):, voc."
+    ],
+    "subit.": [
+        "<b>subeo </b> (vrb.):, pres., ind., act.",
+        "<b>subeo </b> (vrb.):, perf., ind., act.",
+        "<b>subeo </b> (vrb.):, pres., ind., act."
+    ],
+    "jure": [
+        "<b>jus </b> (noun):, abl."
+    ],
+    "possit": [
+        "<b>possum </b> (vrb.):, pres., subj., act."
+    ],
+    "thalamus": [
+        "<b>thalamus </b> (noun):, nom."
+    ],
+    "meliore": [
+        "<b>bonus </b> (adj.):, abl.",
+        "<b>bonus </b> (adj.):, abl.",
+        "<b>bonus </b> (adj.):, abl."
+    ],
+    "sonari": [
+        "<b>sono </b> (vrb.):, pres., inf., pass."
+    ],
+    "carmine,": [
+        "<b>carmen#1 </b> (noun):, abl.",
+        "<b>carmen#2 </b> (noun):, abl."
+    ],
+    "roseas": [
+        "<b>roseus#1 </b> (adj.):, acc."
+    ],
+    "fert": [
+        "<b>fero </b> (vrb.):, pres., ind., act."
+    ],
+    "venus": [
+        "<b>venus#2 </b> (noun):, acc.",
+        "<b>venus#2 </b> (noun):, nom.",
+        "<b>venus#2 </b> (noun):, gen.",
+        "<b>venus#2 </b> (noun):, nom."
+    ],
+    "ipsa": [
+        "<b>ipse </b> (pronoun):, nom.",
+        "<b>ipse </b> (pronoun):, voc.",
+        "<b>ipse </b> (pronoun):, nom.",
+        "<b>ipse </b> (pronoun):, nom.",
+        "<b>ipse </b> (pronoun):, voc.",
+        "<b>ipse </b> (pronoun):, acc.",
+        "<b>ipse </b> (pronoun):, abl."
+    ],
+    "faces;": [
+        "<b>fax </b> (noun):, acc.",
+        "<b>fax </b> (noun):, nom.",
+        "<b>fax </b> (noun):, voc."
+    ],
+    "ligat": [
+        "<b>ligo#1 </b> (vrb.):, pres., ind., act."
+    ],
+    "insolito": [
+        "<b>insolitus </b> (adj.):, abl.",
+        "<b>insolitus </b> (adj.):, abl.",
+        "<b>insolitus </b> (adj.):, dat.",
+        "<b>insolitus </b> (adj.):, dat."
+    ],
+    "frigore": [
+        "<b>frigor </b> (noun):, abl.",
+        "<b>frigus </b> (noun):, abl."
+    ],
+    "torpor,": [
+        "<b>torpor </b> (noun):, nom.",
+        "<b>torpor </b> (noun):, voc."
+    ],
+    "segnis": [
+        "<b>segnis </b> (adj.):, acc.",
+        "<b>segnis </b> (adj.):, acc.",
+        "<b>segnis </b> (adj.):, gen.",
+        "<b>segnis </b> (adj.):, gen.",
+        "<b>segnis </b> (adj.):, gen.",
+        "<b>segnis </b> (adj.):, nom.",
+        "<b>segnis </b> (adj.):, nom.",
+        "<b>segnis </b> (adj.):, voc.",
+        "<b>segnis </b> (adj.):, voc."
+    ],
+    "toto": [
+        "<b>totus#1 </b> (adj.):, abl.",
+        "<b>totus#1 </b> (adj.):, abl.",
+        "<b>totus#1 </b> (adj.):, dat.",
+        "<b>totus#1 </b> (adj.):, dat.",
+        "<b>totus#1 </b> (adj.):, abl.",
+        "<b>totus#1 </b> (adj.):, abl.",
+        "<b>totus#1 </b> (adj.):, dat.",
+        "<b>totus#1 </b> (adj.):, dat.",
+        "<b>totus#2 </b> (adj.):, abl.",
+        "<b>totus#2 </b> (adj.):, abl.",
+        "<b>totus#2 </b> (adj.):, dat.",
+        "<b>totus#2 </b> (adj.):, dat."
+    ],
+    "corpore": [
+        "<b>corpus </b> (noun):, abl.",
+        "<b>corpus </b> (noun):, abl."
+    ],
+    "sensus": [
+        "<b>sensus#2 </b> (noun):, acc.",
+        "<b>sensus#2 </b> (noun):, nom.",
+        "<b>sensus#2 </b> (noun):, gen.",
+        "<b>sensus#2 </b> (noun):, nom.",
+        "<b>sentio </b> (vrb.):, perf., part., pass., nom."
+    ],
+    "hebet.": [
+        "<b>hebeo </b> (vrb.):, pres., ind., act."
+    ],
+    "lassa": [
+        "<b>lasso </b> (vrb.):, pres., imp., act.",
+        "<b>lassus </b> (adj.):, nom.",
+        "<b>lassus </b> (adj.):, voc.",
+        "<b>lassus </b> (adj.):, acc.",
+        "<b>lassus </b> (adj.):, abl.",
+        "<b>lassus </b> (adj.):, nom.",
+        "<b>lassus </b> (adj.):, voc."
+    ],
+    "valetudo": [
+        "<b>valetudo </b> (noun):, nom."
+    ],
+    "tibi": [
+        "<b>tu </b> (pronoun):, dat.",
+        "<b>tu </b> (pronoun):, dat."
+    ],
+    "commendat": [
+        "<b>commendo </b> (vrb.):, pres., ind., act."
+    ],
+    "amici;": [
+        "<b>amicus </b> (noun):, nom.",
+        "<b>amicus </b> (noun):, voc.",
+        "<b>amicus </b> (noun):, gen.",
+        "<b>amicus#1 </b> (adj.):, nom.",
+        "<b>amicus#1 </b> (adj.):, voc.",
+        "<b>amicus#1 </b> (adj.):, gen.",
+        "<b>amicus#1 </b> (adj.):, gen.",
+        "<b>amicus#2 </b> (noun):, nom.",
+        "<b>amicus#2 </b> (noun):, voc.",
+        "<b>amicus#2 </b> (noun):, gen."
+    ],
+    "tu": [
+        "<b>tu </b> (pronoun):, nom.",
+        "<b>tu </b> (pronoun):, nom.",
+        "<b>tu </b> (pronoun):, voc.",
+        "<b>tu </b> (pronoun):, voc."
+    ],
+    "me,": [
+        "<b>ego </b> (pronoun):, abl.",
+        "<b>ego </b> (pronoun):, abl.",
+        "<b>ego </b> (pronoun):, acc.",
+        "<b>ego </b> (pronoun):, acc."
+    ],
+    "redde": [
+        "<b>reddo </b> (vrb.):, pres., imp., act."
+    ],
+    "meis.": [
+        "<b>mei </b> (noun):, abl.",
+        "<b>mei </b> (noun):, dat.",
+        "<b>meio </b> (vrb.):, pres., ind., act.",
+        "<b>meum </b> (noun):, abl.",
+        "<b>meum </b> (noun):, dat.",
+        "<b>meum </b> (noun):, abl.",
+        "<b>meum </b> (noun):, dat.",
+        "<b>meus </b> (adj.):, abl.",
+        "<b>meus </b> (adj.):, abl.",
+        "<b>meus </b> (adj.):, abl.",
+        "<b>meus </b> (adj.):, dat.",
+        "<b>meus </b> (adj.):, dat.",
+        "<b>meus </b> (adj.):, dat."
+    ],
+    "cum": [
+        "<b>cum </b> (conjunction):",
+        "<b>cum </b> (conjunction):"
+    ],
+    "dederis": [
+        "<b>dedo </b> (vrb.):, fut., ind., pass.",
+        "<b>dedo </b> (vrb.):, pres., ind., pass.",
+        "<b>do </b> (vrb.):, future perfect, ind., act.",
+        "<b>do </b> (vrb.):, perf., subj., act."
+    ],
+    "sponsae": [
+        "<b>spondeo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>spondeo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>spondeo </b> (vrb.):, perf., part., pass., dat.",
+        "<b>spondeo </b> (vrb.):, perf., part., pass., gen.",
+        "<b>sponsa </b> (noun):, nom.",
+        "<b>sponsa </b> (noun):, voc.",
+        "<b>sponsa </b> (noun):, dat.",
+        "<b>sponsa </b> (noun):, gen."
+    ],
+    "sua": [
+        "<b>sua </b> (noun):, abl.",
+        "<b>sua </b> (noun):, nom.",
+        "<b>sua </b> (noun):, voc.",
+        "<b>suum </b> (noun):, nom.",
+        "<b>suum </b> (noun):, voc.",
+        "<b>suum </b> (noun):, acc.",
+        "<b>suus </b> (adj.):, nom.",
+        "<b>suus </b> (adj.):, voc.",
+        "<b>suus </b> (adj.):, acc.",
+        "<b>suus </b> (adj.):, abl.",
+        "<b>suus </b> (adj.):, nom.",
+        "<b>suus </b> (adj.):, voc."
+    ],
+    "tempora,": [
+        "<b>tempus </b> (noun):, nom.",
+        "<b>tempus </b> (noun):, voc.",
+        "<b>tempus </b> (noun):, acc."
+    ],
+    "scribe": [
+        "<b>scribo </b> (vrb.):, pres., imp., act."
+    ],
+    "quid": [
+        "<b>quis#1 </b> (noun):, nom.",
+        "<b>quis#1 </b> (noun):, acc.",
+        "<b>quis#2 </b> (pronoun):, nom.",
+        "<b>quis#2 </b> (pronoun):, acc."
+    ],
+    "lapsas": [
+        "<b>labor#1 </b> (vrb.):, perf., part., pass., acc.",
+        "<b>lapso </b> (vrb.):, pres., ind., act.",
+        "<b>lapsus </b> (adj.):, acc."
+    ],
+    "vires": [
+        "<b>vireo#1 </b> (vrb.):, pres., ind., act.",
+        "<b>vis </b> (noun):, acc.",
+        "<b>vis </b> (noun):, nom.",
+        "<b>vis </b> (noun):, voc."
+    ],
+    "restituisse": [
+        "<b>restituo </b> (vrb.):, perf., inf., act."
+    ],
+    "queat;": [
+        "<b>queo </b> (vrb.):, pres., subj., act."
+    ],
+    "sic": [
+        "<b>sic </b> (adverb):"
+    ],
+    "neque,": [
+        "<b>neque </b> (adverb):",
+        "<b>neque </b> (adverb):"
+    ],
+    "quod": [
+        "<b>qui#1 </b> (noun):, nom.",
+        "<b>qui#1 </b> (noun):, acc.",
+        "<b>qui#2 </b> (pronoun):, nom.",
+        "<b>qui#2 </b> (pronoun):, acc."
+    ],
+    "doleat,": [
+        "<b>doleo </b> (vrb.):, pres., subj., act."
+    ],
+    "conjux": [
+        "<b>conjunx </b> (noun):, nom.",
+        "<b>conjunx </b> (noun):, nom."
+    ],
+    "neque": [
+        "<b>neque </b> (adverb):",
+        "<b>neque </b> (adverb):"
+    ],
+    "amicus": [
+        "<b>amicus </b> (noun):, nom.",
+        "<b>amicus#1 </b> (adj.):, nom.",
+        "<b>amicus#2 </b> (noun):, nom."
+    ],
+    "habebit,": [
+        "<b>habeo </b> (vrb.):, fut., ind., act."
+    ],
+    "laudabitque": [
+        "<b>laudo </b> (vrb.):, fut., ind., act."
+    ],
+    "fidem": [
+        "<b>fides#1 </b> (noun):, acc.",
+        "<b>fides#1 </b> (noun):, acc.",
+        "<b>fides#2 </b> (noun):, acc."
+    ],
+    "laetus": [
+        "<b>laetus#1 </b> (adj.):, nom.",
+        "<b>laetus#2 </b> (noun):, nom."
+    ],
+    "uterque": [
+        "<b>uter </b> (adj.):, nom.",
+        "<b>uter </b> (adj.):, voc.",
+        "<b>uter#3 </b> (adverb):"
+    ],
+    "tuam.": [
+        "<b>tuus </b> (adj.):, acc."
+    ],
+    "obitum": [
+        "<b>obeo </b> (vrb.):, perf., part., pass., gen.",
+        "<b>obeo </b> (vrb.):, perf., part., pass., gen.",
+        "<b>obeo </b> (vrb.):, perf., part., pass., acc.",
+        "<b>obeo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>obeo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>obeo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>obeo </b> (vrb.):, perf., part., pass., acc.",
+        "<b>obeo </b> (vrb.):, sup., nom.",
+        "<b>obitus#2 </b> (noun):, acc."
+    ],
+    "praepositi": [
+        "<b>praepono </b> (vrb.):, perf., part., pass., nom.",
+        "<b>praepono </b> (vrb.):, perf., part., pass., voc.",
+        "<b>praepono </b> (vrb.):, perf., part., pass., gen.",
+        "<b>praepono </b> (vrb.):, perf., part., pass., gen.",
+        "<b>praepositus </b> (noun):, nom.",
+        "<b>praepositus </b> (noun):, voc.",
+        "<b>praepositus </b> (noun):, gen."
+    ],
+    "pastoris": [
+        "<b>pastor </b> (noun):, gen."
+    ],
+    "ergo": [
+        "<b>ergo </b> (adverb):"
+    ],
+    "tuum": [
+        "<b>tuus </b> (adj.):, gen.",
+        "<b>tuus </b> (adj.):, gen.",
+        "<b>tuus </b> (adj.):, acc.",
+        "<b>tuus </b> (adj.):, nom.",
+        "<b>tuus </b> (adj.):, nom.",
+        "<b>tuus </b> (adj.):, voc.",
+        "<b>tuus </b> (adj.):, acc."
+    ],
+    "me": [
+        "<b>ego </b> (pronoun):, abl.",
+        "<b>ego </b> (pronoun):, abl.",
+        "<b>ego </b> (pronoun):, acc.",
+        "<b>ego </b> (pronoun):, acc."
+    ],
+    "ducetur": [
+        "<b>duco </b> (vrb.):, fut., ind., pass."
+    ],
+    "funus": [
+        "<b>funus </b> (noun):, nom.",
+        "<b>funus </b> (noun):, voc.",
+        "<b>funus </b> (noun):, acc."
+    ],
+    "officiumque": [
+        "<b>officium </b> (noun):, gen.",
+        "<b>officium </b> (noun):, nom.",
+        "<b>officium </b> (noun):, voc.",
+        "<b>officium </b> (noun):, acc."
+    ],
+    "pium": [
+        "<b>pius </b> (adj.):, gen.",
+        "<b>pius </b> (adj.):, gen.",
+        "<b>pius </b> (adj.):, acc.",
+        "<b>pius </b> (adj.):, nom.",
+        "<b>pius </b> (adj.):, nom.",
+        "<b>pius </b> (adj.):, voc.",
+        "<b>pius </b> (adj.):, acc."
+    ],
+    "saeva": [
+        "<b>saevus </b> (adj.):, nom.",
+        "<b>saevus </b> (adj.):, voc.",
+        "<b>saevus </b> (adj.):, acc.",
+        "<b>saevus </b> (adj.):, abl.",
+        "<b>saevus </b> (adj.):, nom.",
+        "<b>saevus </b> (adj.):, voc."
+    ],
+    "tam": [
+        "<b>tam </b> (adverb):"
+    ],
+    "charis": [
+        "<b>chara </b> (noun):, abl.",
+        "<b>chara </b> (noun):, dat."
+    ],
+    "complebitur": [
+        "<b>compleo </b> (vrb.):, fut., ind., pass."
+    ],
+    "ossibus": [
+        "<b>os#2 </b> (noun):, abl.",
+        "<b>os#2 </b> (noun):, dat."
+    ],
+    "ultima": [
+        "<b>ulter </b> (adj.):, nom.",
+        "<b>ulter </b> (adj.):, voc.",
+        "<b>ulter </b> (adj.):, acc.",
+        "<b>ulter </b> (adj.):, abl.",
+        "<b>ulter </b> (adj.):, nom.",
+        "<b>ulter </b> (adj.):, voc.",
+        "<b>ultima </b> (noun):, nom.",
+        "<b>ultima </b> (noun):, voc.",
+        "<b>ultima </b> (noun):, acc.",
+        "<b>ultimo#2 </b> (vrb.):, pres., imp., act.",
+        "<b>ultimum </b> (noun):, nom.",
+        "<b>ultimum </b> (noun):, voc.",
+        "<b>ultimum </b> (noun):, acc."
+    ],
+    "cineri": [
+        "<b>cinis </b> (noun):, dat."
+    ],
+    "ast": [
+        "<b>at </b> (conjunction):"
+    ],
+    "absens": [
+        "<b>absum </b> (vrb.):, pres., part., nom.",
+        "<b>absum </b> (vrb.):, pres., part., nom.",
+        "<b>absum </b> (vrb.):, pres., part., nom.",
+        "<b>absum </b> (vrb.):, pres., part., voc.",
+        "<b>absum </b> (vrb.):, pres., part., voc.",
+        "<b>absum </b> (vrb.):, pres., part., voc.",
+        "<b>absum </b> (vrb.):, pres., part., acc."
+    ],
+    "carmen": [
+        "<b>carmen#1 </b> (noun):, acc.",
+        "<b>carmen#1 </b> (noun):, nom.",
+        "<b>carmen#1 </b> (noun):, voc.",
+        "<b>carmen#2 </b> (noun):, acc.",
+        "<b>carmen#2 </b> (noun):, nom.",
+        "<b>carmen#2 </b> (noun):, voc."
+    ],
+    "flebile": [
+        "<b>flebilis </b> (adj.):, nom.",
+        "<b>flebilis </b> (adj.):, voc.",
+        "<b>flebilis </b> (adj.):, acc."
+    ],
+    "fundo,": [
+        "<b>fundo#1 </b> (vrb.):, pres., ind., act.",
+        "<b>fundo#2 </b> (vrb.):, pres., ind., act.",
+        "<b>fundus </b> (noun):, abl.",
+        "<b>fundus </b> (noun):, dat."
+    ],
+    "quale": [
+        "<b>qualis </b> (adj.):, nom.",
+        "<b>qualis </b> (adj.):, voc.",
+        "<b>qualis </b> (adj.):, acc.",
+        "<b>qualum </b> (noun):, voc.",
+        "<b>qualus </b> (noun):, voc."
+    ],
+    "dolor": [
+        "<b>dolo#1 </b> (vrb.):, pres., ind., pass.",
+        "<b>dolor </b> (noun):, nom.",
+        "<b>dolor </b> (noun):, voc."
+    ],
+    "dictat,": [
+        "<b>dicto </b> (vrb.):, pres., ind., act."
+    ],
+    "ministrat": [
+        "<b>ministro </b> (vrb.):, pres., ind., act."
+    ],
+    "amor.": [
+        "<b>amo </b> (vrb.):, pres., ind., pass.",
+        "<b>amor </b> (noun):, nom.",
+        "<b>amor </b> (noun):, voc."
+    ],
+    "eminus": [
+        "<b>eminus </b> (adverb):"
+    ],
+    "haec": [
+        "<b>hic </b> (pronoun):, nom.",
+        "<b>hic </b> (pronoun):, nom.",
+        "<b>hic </b> (pronoun):, acc."
+    ],
+    "veteri": [
+        "<b>vetus </b> (adj.):, dat.",
+        "<b>vetus </b> (adj.):, dat.",
+        "<b>vetus </b> (adj.):, dat."
+    ],
+    "persolvere": [
+        "<b>persolvo </b> (vrb.):, fut., ind., pass.",
+        "<b>persolvo </b> (vrb.):, pres., imp., pass.",
+        "<b>persolvo </b> (vrb.):, pres., ind., pass.",
+        "<b>persolvo </b> (vrb.):, pres., inf., act.",
+        "<b>persolvo </b> (vrb.):, perf., ind., act."
+    ],
+    "justa": [
+        "<b>justa </b> (noun):, nom.",
+        "<b>justa </b> (noun):, voc.",
+        "<b>justa </b> (noun):, acc.",
+        "<b>justum </b> (noun):, nom.",
+        "<b>justum </b> (noun):, voc.",
+        "<b>justum </b> (noun):, acc.",
+        "<b>justus </b> (adj.):, nom.",
+        "<b>justus </b> (adj.):, voc.",
+        "<b>justus </b> (adj.):, acc.",
+        "<b>justus </b> (adj.):, abl.",
+        "<b>justus </b> (adj.):, nom.",
+        "<b>justus </b> (adj.):, voc."
+    ],
+    "magistro,": [
+        "<b>magister </b> (noun):, abl.",
+        "<b>magister </b> (noun):, dat.",
+        "<b>magistro </b> (vrb.):, pres., ind., act."
+    ],
+    "procul": [
+        "<b>procul </b> (adverb):"
+    ],
+    "exsequias,": [
+        "<b>exsequiae </b> (noun):, acc.",
+        "<b>exsequior </b> (vrb.):, pres., ind., act."
+    ],
+    "licet,": [
+        "<b>liceo#1 </b> (vrb.):, pres., ind., act.",
+        "<b>liceor </b> (vrb.):, pres., ind., act.",
+        "<b>licet </b> (vrb.):, pres., ind., act."
+    ],
+    "ire": [
+        "<b>eo#1 </b> (vrb.):, pres., inf., act."
+    ],
+    "paro.": [
+        "<b>paro#1 </b> (vrb.):, pres., ind., act.",
+        "<b>paro#2 </b> (vrb.):, pres., ind., act.",
+        "<b>paro#3 </b> (noun):, nom.",
+        "<b>paro#3 </b> (noun):, voc.",
+        "<b>parus#1 </b> (noun):, abl.",
+        "<b>parus#1 </b> (noun):, dat."
+    ],
+    "mecum": [
+        "<b>ego </b> (pronoun):, abl.",
+        "<b>ego </b> (pronoun):, abl."
+    ],
+    "certant": [
+        "<b>certo#2 </b> (vrb.):, pres., ind., act."
+    ],
+    "quibus": [
+        "<b>qui#1 </b> (noun):, abl.",
+        "<b>qui#1 </b> (noun):, abl.",
+        "<b>qui#1 </b> (noun):, abl.",
+        "<b>qui#1 </b> (noun):, dat.",
+        "<b>qui#1 </b> (noun):, dat.",
+        "<b>qui#1 </b> (noun):, dat.",
+        "<b>qui#2 </b> (pronoun):, abl.",
+        "<b>qui#2 </b> (pronoun):, abl.",
+        "<b>qui#2 </b> (pronoun):, abl.",
+        "<b>qui#2 </b> (pronoun):, dat.",
+        "<b>qui#2 </b> (pronoun):, dat.",
+        "<b>qui#2 </b> (pronoun):, dat.",
+        "<b>quis#1 </b> (noun):, abl.",
+        "<b>quis#1 </b> (noun):, abl.",
+        "<b>quis#1 </b> (noun):, abl.",
+        "<b>quis#1 </b> (noun):, dat.",
+        "<b>quis#1 </b> (noun):, dat.",
+        "<b>quis#1 </b> (noun):, dat.",
+        "<b>quis#2 </b> (pronoun):, abl.",
+        "<b>quis#2 </b> (pronoun):, abl.",
+        "<b>quis#2 </b> (pronoun):, abl.",
+        "<b>quis#2 </b> (pronoun):, dat.",
+        "<b>quis#2 </b> (pronoun):, dat.",
+        "<b>quis#2 </b> (pronoun):, dat."
+    ],
+    "quondam": [
+        "<b>quondam </b> (adverb):"
+    ],
+    "curaque": [
+        "<b>cura </b> (noun):, abl.",
+        "<b>cura </b> (noun):, nom.",
+        "<b>cura </b> (noun):, voc.",
+        "<b>curo </b> (vrb.):, pres., imp., act."
+    ],
+    "spesque": [
+        "<b>spes </b> (noun):, acc.",
+        "<b>spes </b> (noun):, nom.",
+        "<b>spes </b> (noun):, nom."
+    ],
+    "alternis": [
+        "<b>alternus </b> (adj.):, abl.",
+        "<b>alternus </b> (adj.):, abl.",
+        "<b>alternus </b> (adj.):, abl.",
+        "<b>alternus </b> (adj.):, dat.",
+        "<b>alternus </b> (adj.):, dat.",
+        "<b>alternus </b> (adj.):, dat."
+    ],
+    "illae": [
+        "<b>ille </b> (pronoun):, dat.",
+        "<b>ille </b> (pronoun):, nom.",
+        "<b>ille </b> (pronoun):, voc.",
+        "<b>illic </b> (pronoun):, nom.",
+        "<b>illic </b> (pronoun):, voc."
+    ],
+    "juvenem": [
+        "<b>juvenis </b> (adj.):, acc.",
+        "<b>juvenis </b> (adj.):, acc.",
+        "<b>juvenis </b> (adj.):, acc."
+    ],
+    "fovere": [
+        "<b>foveo </b> (vrb.):, pres., imp., pass.",
+        "<b>foveo </b> (vrb.):, pres., ind., pass.",
+        "<b>foveo </b> (vrb.):, pres., inf., act.",
+        "<b>foveo </b> (vrb.):, perf., ind., act."
+    ],
+    "lacertis,": [
+        "<b>lacerta </b> (noun):, abl.",
+        "<b>lacerta </b> (noun):, dat.",
+        "<b>lacertus </b> (noun):, abl.",
+        "<b>lacertus </b> (noun):, dat.",
+        "<b>lacertus#1 </b> (noun):, abl.",
+        "<b>lacertus#1 </b> (noun):, dat."
+    ],
+    "nectar": [
+        "<b>nectar </b> (noun):, nom.",
+        "<b>nectar </b> (noun):, voc.",
+        "<b>nectar </b> (noun):, acc.",
+        "<b>necto </b> (vrb.):, fut., ind., pass.",
+        "<b>necto </b> (vrb.):, pres., subj., pass."
+    ],
+    "alterna": [
+        "<b>alterno </b> (vrb.):, pres., imp., act.",
+        "<b>alternus </b> (adj.):, nom.",
+        "<b>alternus </b> (adj.):, voc.",
+        "<b>alternus </b> (adj.):, acc.",
+        "<b>alternus </b> (adj.):, abl.",
+        "<b>alternus </b> (adj.):, nom.",
+        "<b>alternus </b> (adj.):, voc."
+    ],
+    "saepe": [
+        "<b>saepe </b> (adverb):",
+        "<b>saepes </b> (noun):, abl.",
+        "<b>saepis </b> (adj.):, nom.",
+        "<b>saepis </b> (adj.):, voc.",
+        "<b>saepis </b> (adj.):, acc."
+    ],
+    "dedere": [
+        "<b>dedo </b> (vrb.):, fut., ind., pass.",
+        "<b>dedo </b> (vrb.):, pres., imp., pass.",
+        "<b>dedo </b> (vrb.):, pres., ind., pass.",
+        "<b>dedo </b> (vrb.):, pres., inf., act.",
+        "<b>do </b> (vrb.):, perf., ind., act."
+    ],
+    "manu.": [
+        "<b>manus#1 </b> (noun):, abl."
+    ],
+    "florentem": [
+        "<b>floreo </b> (vrb.):, pres., part., acc.",
+        "<b>floreo </b> (vrb.):, pres., part., acc."
+    ],
+    "fronti": [
+        "<b>frons#2 </b> (noun):, dat."
+    ],
+    "posuere": [
+        "<b>pono </b> (vrb.):, perf., ind., act."
+    ],
+    "corollam,": [
+        "<b>corolla </b> (noun):, acc."
+    ],
+    "gregis": [
+        "<b>grex </b> (noun):, gen."
+    ],
+    "gloria": [
+        "<b>gloria </b> (noun):, abl.",
+        "<b>gloria </b> (noun):, nom.",
+        "<b>gloria </b> (noun):, voc.",
+        "<b>glorior </b> (vrb.):, pres., imp., act."
+    ],
+    "foret.": [
+        "<b>foro </b> (vrb.):, pres., subj., act.",
+        "<b>sum#1 </b> (vrb.):, impf., subj., act."
+    ],
+    "optabantque": [
+        "<b>opto </b> (vrb.):, impf., ind., act."
+    ],
+    "sibi": [
+        "<b>sui </b> (pronoun):, dat.",
+        "<b>sui </b> (pronoun):, dat.",
+        "<b>sui </b> (pronoun):, dat.",
+        "<b>sui </b> (pronoun):, dat."
+    ],
+    "columen": [
+        "<b>columen </b> (noun):, acc.",
+        "<b>columen </b> (noun):, nom.",
+        "<b>columen </b> (noun):, voc."
+    ],
+    "sedemque": [
+        "<b>sedes </b> (noun):, acc.",
+        "<b>sedo </b> (vrb.):, pres., subj., act."
+    ],
+    "parabant,": [
+        "<b>paro#1 </b> (vrb.):, impf., ind., act.",
+        "<b>paro#2 </b> (vrb.):, impf., ind., act."
+    ],
+    "secum": [
+        "<b>sui </b> (pronoun):, abl.",
+        "<b>sui </b> (pronoun):, abl.",
+        "<b>sui </b> (pronoun):, abl.",
+        "<b>sui </b> (pronoun):, abl."
+    ],
+    "longas": [
+        "<b>longus </b> (adj.):, acc."
+    ],
+    "increpuere": [
+        "<b>increpo </b> (vrb.):, perf., ind., act."
+    ],
+    "moras.": [
+        "<b>mora </b> (noun):, acc.",
+        "<b>mora#1 </b> (noun):, acc.",
+        "<b>mora#2 </b> (noun):, acc.",
+        "<b>mora#3 </b> (noun):, acc.",
+        "<b>morus#1 </b> (adj.):, acc."
+    ],
+    "dilectum": [
+        "<b>delectus#2 </b> (noun):, acc.",
+        "<b>dilectus </b> (adj.):, gen.",
+        "<b>dilectus </b> (adj.):, gen.",
+        "<b>dilectus </b> (adj.):, acc.",
+        "<b>dilectus </b> (adj.):, nom.",
+        "<b>dilectus </b> (adj.):, nom.",
+        "<b>dilectus </b> (adj.):, voc.",
+        "<b>dilectus </b> (adj.):, acc.",
+        "<b>dilectus </b> (adj.):, gen.",
+        "<b>dilectus </b> (adj.):, acc.",
+        "<b>diligo </b> (vrb.):, perf., part., pass., gen.",
+        "<b>diligo </b> (vrb.):, perf., part., pass., gen.",
+        "<b>diligo </b> (vrb.):, perf., part., pass., acc.",
+        "<b>diligo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>diligo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>diligo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>diligo </b> (vrb.):, perf., part., pass., acc.",
+        "<b>diligo </b> (vrb.):, sup., nom."
+    ],
+    "terra": [
+        "<b>terra </b> (noun):, abl.",
+        "<b>terra </b> (noun):, nom.",
+        "<b>terra </b> (noun):, voc."
+    ],
+    "parens": [
+        "<b>parens </b> (noun):, nom.",
+        "<b>parens </b> (noun):, nom.",
+        "<b>parens </b> (noun):, voc.",
+        "<b>parens </b> (noun):, voc.",
+        "<b>parens#2 </b> (noun):, nom.",
+        "<b>parens#2 </b> (noun):, nom.",
+        "<b>parens#2 </b> (noun):, voc.",
+        "<b>parens#2 </b> (noun):, voc.",
+        "<b>pareo </b> (vrb.):, pres., part., acc.",
+        "<b>pareo </b> (vrb.):, pres., part., nom.",
+        "<b>pareo </b> (vrb.):, pres., part., nom.",
+        "<b>pareo </b> (vrb.):, pres., part., nom.",
+        "<b>pareo </b> (vrb.):, pres., part., voc.",
+        "<b>pareo </b> (vrb.):, pres., part., voc.",
+        "<b>pareo </b> (vrb.):, pres., part., voc."
+    ],
+    "poscebat": [
+        "<b>posco </b> (vrb.):, impf., ind., act."
+    ],
+    "alumnum,": [
+        "<b>alumnus </b> (adj.):, gen.",
+        "<b>alumnus </b> (adj.):, gen.",
+        "<b>alumnus </b> (adj.):, acc.",
+        "<b>alumnus </b> (adj.):, nom.",
+        "<b>alumnus </b> (adj.):, nom.",
+        "<b>alumnus </b> (adj.):, voc.",
+        "<b>alumnus </b> (adj.):, acc.",
+        "<b>alumnus </b> (adj.):, gen.",
+        "<b>alumnus </b> (adj.):, acc."
+    ],
+    "laeta": [
+        "<b>laeta </b> (noun):, nom.",
+        "<b>laeta </b> (noun):, voc.",
+        "<b>laeta </b> (noun):, acc.",
+        "<b>laeto </b> (vrb.):, pres., imp., act.",
+        "<b>laetus#1 </b> (adj.):, nom.",
+        "<b>laetus#1 </b> (adj.):, voc.",
+        "<b>laetus#1 </b> (adj.):, acc.",
+        "<b>laetus#1 </b> (adj.):, abl.",
+        "<b>laetus#1 </b> (adj.):, nom.",
+        "<b>laetus#1 </b> (adj.):, voc."
+    ],
+    "tantum": [
+        "<b>tantus </b> (adj.):, gen.",
+        "<b>tantus </b> (adj.):, gen.",
+        "<b>tantus </b> (adj.):, acc.",
+        "<b>tantus </b> (adj.):, nom.",
+        "<b>tantus </b> (adj.):, nom.",
+        "<b>tantus </b> (adj.):, voc.",
+        "<b>tantus </b> (adj.):, acc."
+    ],
+    "genuisse": [
+        "<b>gigno </b> (vrb.):, perf., inf., act."
+    ],
+    "decus.": [
+        "<b>decus#1 </b> (noun):, nom.",
+        "<b>decus#1 </b> (noun):, voc.",
+        "<b>decus#1 </b> (noun):, acc."
+    ],
+    "formandumque": [
+        "<b>formo </b> (vrb.):, gerundive, gen.",
+        "<b>formo </b> (vrb.):, gerundive, gen.",
+        "<b>formo </b> (vrb.):, gerundive, acc.",
+        "<b>formo </b> (vrb.):, gerundive, nom.",
+        "<b>formo </b> (vrb.):, gerundive, nom.",
+        "<b>formo </b> (vrb.):, gerundive, voc.",
+        "<b>formo </b> (vrb.):, gerundive, acc."
+    ],
+    "suae": [
+        "<b>sua </b> (noun):, nom.",
+        "<b>sua </b> (noun):, voc.",
+        "<b>sua </b> (noun):, dat.",
+        "<b>sua </b> (noun):, gen.",
+        "<b>suus </b> (adj.):, nom.",
+        "<b>suus </b> (adj.):, voc.",
+        "<b>suus </b> (adj.):, dat.",
+        "<b>suus </b> (adj.):, gen."
+    ],
+    "florem": [
+        "<b>flos </b> (noun):, acc."
+    ],
+    "dedit": [
+        "<b>dedo </b> (vrb.):, pres., ind., act.",
+        "<b>do </b> (vrb.):, perf., ind., act."
+    ],
+    "alma": [
+        "<b>almus </b> (adj.):, nom.",
+        "<b>almus </b> (adj.):, voc.",
+        "<b>almus </b> (adj.):, acc.",
+        "<b>almus </b> (adj.):, abl.",
+        "<b>almus </b> (adj.):, nom.",
+        "<b>almus </b> (adj.):, voc."
+    ],
+    "juventae,": [
+        "<b>juventa </b> (noun):, nom.",
+        "<b>juventa </b> (noun):, voc.",
+        "<b>juventa </b> (noun):, dat.",
+        "<b>juventa </b> (noun):, gen."
+    ],
+    "auspicium": [
+        "<b>auspicium </b> (noun):, gen.",
+        "<b>auspicium </b> (noun):, nom.",
+        "<b>auspicium </b> (noun):, voc.",
+        "<b>auspicium </b> (noun):, acc."
+    ],
+    "multis": [
+        "<b>multa </b> (noun):, abl.",
+        "<b>multa </b> (noun):, dat.",
+        "<b>multa#1 </b> (noun):, abl.",
+        "<b>multa#1 </b> (noun):, dat.",
+        "<b>multi </b> (noun):, abl.",
+        "<b>multi </b> (noun):, dat.",
+        "<b>multus </b> (adj.):, abl.",
+        "<b>multus </b> (adj.):, abl.",
+        "<b>multus </b> (adj.):, abl.",
+        "<b>multus </b> (adj.):, dat.",
+        "<b>multus </b> (adj.):, dat.",
+        "<b>multus </b> (adj.):, dat."
+    ],
+    "plausibus": [
+        "<b>plausus#3 </b> (noun):, abl.",
+        "<b>plausus#3 </b> (noun):, dat."
+    ],
+    "illud": [
+        "<b>ille </b> (pronoun):, nom.",
+        "<b>ille </b> (pronoun):, acc."
+    ],
+    "erat.": [
+        "<b>sum#1 </b> (vrb.):, impf., ind., act."
+    ],
+    "nullius": [
+        "<b>nullus </b> (adj.):",
+        "<b>nullus </b> (adj.):, nom.",
+        "<b>nullus </b> (adj.):, voc.",
+        "<b>nullus </b> (adj.):, acc.",
+        "<b>nullus </b> (adj.):, gen.",
+        "<b>nullus </b> (adj.):, gen.",
+        "<b>nullus </b> (adj.):, gen."
+    ],
+    "ore": [
+        "<b>aurum </b> (noun):, voc.",
+        "<b>os#1 </b> (noun):, abl."
+    ],
+    "magis": [
+        "<b>magis </b> (adverb):",
+        "<b>magis#2 </b> (noun):, nom.",
+        "<b>magnus </b> (adverb):",
+        "<b>magus#2 </b> (adj.):, abl.",
+        "<b>magus#2 </b> (adj.):, abl.",
+        "<b>magus#2 </b> (adj.):, abl.",
+        "<b>magus#2 </b> (adj.):, dat.",
+        "<b>magus#2 </b> (adj.):, dat.",
+        "<b>magus#2 </b> (adj.):, dat."
+    ],
+    "profecit": [
+        "<b>proficio </b> (vrb.):, perf., ind., act."
+    ],
+    "patria": [
+        "<b>patria </b> (noun):, abl.",
+        "<b>patria </b> (noun):, nom.",
+        "<b>patria </b> (noun):, voc.",
+        "<b>patrium </b> (noun):, nom.",
+        "<b>patrium </b> (noun):, voc.",
+        "<b>patrium </b> (noun):, acc.",
+        "<b>patrius#1 </b> (adj.):, nom.",
+        "<b>patrius#1 </b> (adj.):, voc.",
+        "<b>patrius#1 </b> (adj.):, acc.",
+        "<b>patrius#1 </b> (adj.):, abl.",
+        "<b>patrius#1 </b> (adj.):, nom.",
+        "<b>patrius#1 </b> (adj.):, voc.",
+        "<b>patrius#2 </b> (adj.):, nom.",
+        "<b>patrius#2 </b> (adj.):, voc.",
+        "<b>patrius#2 </b> (adj.):, acc.",
+        "<b>patrius#2 </b> (adj.):, abl.",
+        "<b>patrius#2 </b> (adj.):, nom.",
+        "<b>patrius#2 </b> (adj.):, voc."
+    ],
+    "pubes,": [
+        "<b>pubes#1 </b> (adj.):, nom.",
+        "<b>pubes#1 </b> (adj.):, nom.",
+        "<b>pubes#2 </b> (noun):, acc.",
+        "<b>pubes#2 </b> (noun):, nom.",
+        "<b>pubes#2 </b> (noun):, voc.",
+        "<b>pubes#2 </b> (noun):, nom."
+    ],
+    "a": [
+        "<b>a </b> (exclamation):",
+        "<b>ab </b> (preposition):"
+    ],
+    "pendula": [
+        "<b>pendulus </b> (adj.):, nom.",
+        "<b>pendulus </b> (adj.):, voc.",
+        "<b>pendulus </b> (adj.):, acc.",
+        "<b>pendulus </b> (adj.):, abl.",
+        "<b>pendulus </b> (adj.):, nom.",
+        "<b>pendulus </b> (adj.):, voc."
+    ],
+    "voce": [
+        "<b>vox </b> (noun):, abl."
+    ],
+    "duce": [
+        "<b>duco </b> (vrb.):, pres., imp., act.",
+        "<b>dux </b> (noun):, abl.",
+        "<b>dux </b> (noun):, abl."
+    ],
+    "sentiri": [
+        "<b>sentio </b> (vrb.):, pres., inf., pass."
+    ],
+    "suadae": [
+        "<b>suadus </b> (adj.):, nom.",
+        "<b>suadus </b> (adj.):, voc.",
+        "<b>suadus </b> (adj.):, dat.",
+        "<b>suadus </b> (adj.):, gen."
+    ],
+    "coepit,": [
+        "<b>coepio </b> (vrb.):, pres., ind., act.",
+        "<b>coepio </b> (vrb.):, perf., ind., act."
+    ],
+    "tenera": [
+        "<b>tener </b> (adj.):, nom.",
+        "<b>tener </b> (adj.):, voc.",
+        "<b>tener </b> (adj.):, acc.",
+        "<b>tener </b> (adj.):, abl.",
+        "<b>tener </b> (adj.):, nom.",
+        "<b>tener </b> (adj.):, voc."
+    ],
+    "plenius": [
+        "<b>plenus </b> (adj.):",
+        "<b>plenus </b> (adj.):, nom.",
+        "<b>plenus </b> (adj.):, voc.",
+        "<b>plenus </b> (adj.):, acc."
+    ],
+    "aure": [
+        "<b>auris </b> (noun):, abl.",
+        "<b>auris </b> (noun):",
+        "<b>aurum </b> (noun):, voc."
+    ],
+    "bibi.": [
+        "<b>bibo#1 </b> (vrb.):, pres., inf., pass.",
+        "<b>bibo#1 </b> (vrb.):, perf., ind., act."
+    ],
+    "solitum": [
+        "<b>soleo </b> (vrb.):, perf., part., pass., gen.",
+        "<b>soleo </b> (vrb.):, perf., part., pass., gen.",
+        "<b>soleo </b> (vrb.):, perf., part., pass., acc.",
+        "<b>soleo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>soleo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>soleo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>soleo </b> (vrb.):, perf., part., pass., acc.",
+        "<b>soleo </b> (vrb.):, sup., nom.",
+        "<b>solitum </b> (noun):, gen.",
+        "<b>solitum </b> (noun):, nom.",
+        "<b>solitum </b> (noun):, voc.",
+        "<b>solitum </b> (noun):, acc."
+    ],
+    "juvenilia": [
+        "<b>juvenilis </b> (adj.):, nom.",
+        "<b>juvenilis </b> (adj.):, voc.",
+        "<b>juvenilis </b> (adj.):, acc."
+    ],
+    "cultum": [
+        "<b>colo#1 </b> (vrb.):, perf., part., pass., gen.",
+        "<b>colo#1 </b> (vrb.):, perf., part., pass., gen.",
+        "<b>colo#1 </b> (vrb.):, perf., part., pass., acc.",
+        "<b>colo#1 </b> (vrb.):, perf., part., pass., nom.",
+        "<b>colo#1 </b> (vrb.):, perf., part., pass., nom.",
+        "<b>colo#1 </b> (vrb.):, perf., part., pass., voc.",
+        "<b>colo#1 </b> (vrb.):, perf., part., pass., acc.",
+        "<b>colo#1 </b> (vrb.):, sup., nom.",
+        "<b>culta </b> (noun):, gen.",
+        "<b>cultus#2 </b> (noun):, acc."
+    ],
+    "hausere,": [
+        "<b>haurio </b> (vrb.):, perf., ind., act."
+    ],
+    "studiis": [
+        "<b>studium </b> (noun):, abl.",
+        "<b>studium </b> (noun):, dat."
+    ],
+    "incaluere": [
+        "<b>in-caleo </b> (vrb.):, perf., ind., act.",
+        "<b>in-calveo </b> (vrb.):, pres., imp., pass.",
+        "<b>in-calveo </b> (vrb.):, pres., ind., pass.",
+        "<b>in-calveo </b> (vrb.):, pres., inf., act.",
+        "<b>in-calvo </b> (vrb.):, fut., ind., pass.",
+        "<b>in-calvo </b> (vrb.):, pres., imp., pass.",
+        "<b>in-calvo </b> (vrb.):, pres., ind., pass.",
+        "<b>in-calvo </b> (vrb.):, pres., inf., act.",
+        "<b>in-calvor </b> (vrb.):, fut., ind., pass.",
+        "<b>in-calvor </b> (vrb.):, pres., imp., pass.",
+        "<b>in-calvor </b> (vrb.):, pres., ind., pass.",
+        "<b>in-calvor </b> (vrb.):, pres., inf., act."
+    ],
+    "suis.": [
+        "<b>sua </b> (noun):, abl.",
+        "<b>sua </b> (noun):, dat.",
+        "<b>suo </b> (vrb.):, pres., ind., act.",
+        "<b>sus </b> (noun):, gen.",
+        "<b>sus </b> (noun):, gen.",
+        "<b>suum </b> (noun):, abl.",
+        "<b>suum </b> (noun):, dat.",
+        "<b>suus </b> (adj.):, abl.",
+        "<b>suus </b> (adj.):, abl.",
+        "<b>suus </b> (adj.):, abl.",
+        "<b>suus </b> (adj.):, dat.",
+        "<b>suus </b> (adj.):, dat.",
+        "<b>suus </b> (adj.):, dat."
+    ],
+    "sis": [
+        "<b>sum#1 </b> (vrb.):, pres., subj., act."
+    ],
+    "testis,": [
+        "<b>testa </b> (noun):, abl.",
+        "<b>testa </b> (noun):, dat.",
+        "<b>testis#1 </b> (noun):, acc.",
+        "<b>testis#1 </b> (noun):, acc.",
+        "<b>testis#1 </b> (noun):, gen.",
+        "<b>testis#1 </b> (noun):, gen.",
+        "<b>testis#1 </b> (noun):, nom.",
+        "<b>testis#1 </b> (noun):, nom.",
+        "<b>testis#2 </b> (noun):, acc.",
+        "<b>testis#2 </b> (noun):, gen.",
+        "<b>testis#2 </b> (noun):, nom."
+    ],
+    "meritasque": [
+        "<b>mereo </b> (vrb.):, perf., part., pass., acc.",
+        "<b>mereor </b> (vrb.):, perf., part., pass., acc.",
+        "<b>merito#2 </b> (vrb.):, pres., ind., act."
+    ],
+    "abnue": [
+        "<b>abnuo </b> (vrb.):, pres., imp., act.",
+        "<b>abnuo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>abnuo </b> (vrb.):, perf., part., pass., voc."
+    ],
+    "laudes.": [
+        "<b>laudo </b> (vrb.):, pres., subj., act.",
+        "<b>laus </b> (noun):, acc.",
+        "<b>laus </b> (noun):, nom.",
+        "<b>laus </b> (noun):, voc."
+    ],
+    "plus": [
+        "<b>multus </b> (adj.):, nom.",
+        "<b>multus </b> (adj.):, acc."
+    ],
+    "quam": [
+        "<b>quam </b> (adverb):",
+        "<b>qui#1 </b> (noun):, acc.",
+        "<b>qui#2 </b> (pronoun):, acc."
+    ],
+    "fama": [
+        "<b>fama </b> (noun):, abl.",
+        "<b>fama </b> (noun):, nom.",
+        "<b>fama </b> (noun):, voc."
+    ],
+    "sciat,": [
+        "<b>scio </b> (vrb.):, pres., subj., act."
+    ],
+    "praestitit": [
+        "<b>praesto#2 </b> (vrb.):, perf., ind., act."
+    ],
+    "ille": [
+        "<b>ille </b> (pronoun):, nom."
+    ],
+    "tibi.": [
+        "<b>tu </b> (pronoun):, dat.",
+        "<b>tu </b> (pronoun):, dat."
+    ],
+    "saepius": [
+        "<b>saepis </b> (adj.):",
+        "<b>saepis </b> (adj.):, nom.",
+        "<b>saepis </b> (adj.):, voc.",
+        "<b>saepis </b> (adj.):, acc."
+    ],
+    "oblatos": [
+        "<b>offero </b> (vrb.):, perf., part., pass., acc."
+    ],
+    "ultro": [
+        "<b>ulter </b> (adj.):, abl.",
+        "<b>ulter </b> (adj.):, abl.",
+        "<b>ulter </b> (adj.):, dat.",
+        "<b>ulter </b> (adj.):, dat.",
+        "<b>ultro </b> (adverb):"
+    ],
+    "neglexit": [
+        "<b>neglego </b> (vrb.):, perf., ind., act."
+    ],
+    "honores.": [
+        "<b>honor </b> (noun):, acc.",
+        "<b>honor </b> (noun):, nom.",
+        "<b>honor </b> (noun):, voc.",
+        "<b>honoro </b> (vrb.):, pres., subj., act."
+    ],
+    "ut": [
+        "<b>ut </b> (adverb):"
+    ],
+    "serviret,": [
+        "<b>servio </b> (vrb.):, impf., subj., act."
+    ],
+    "minor": [
+        "<b>mino </b> (vrb.):, pres., ind., pass.",
+        "<b>minor#1 </b> (vrb.):, pres., ind., pass.",
+        "<b>parvus </b> (adj.):, nom.",
+        "<b>parvus </b> (adj.):, nom."
+    ],
+    "majorisque": [
+        "<b>magnus </b> (adj.):, gen."
+    ],
+    "capax": [
+        "<b>capax </b> (adj.):, acc.",
+        "<b>capax </b> (adj.):, nom.",
+        "<b>capax </b> (adj.):, nom.",
+        "<b>capax </b> (adj.):, nom.",
+        "<b>capax </b> (adj.):, voc.",
+        "<b>capax </b> (adj.):, voc.",
+        "<b>capax </b> (adj.):, voc."
+    ],
+    "fortunae": [
+        "<b>fortuna </b> (noun):, nom.",
+        "<b>fortuna </b> (noun):, voc.",
+        "<b>fortuna </b> (noun):, dat.",
+        "<b>fortuna </b> (noun):, gen."
+    ],
+    "substitit": [
+        "<b>substituo </b> (vrb.):, perf., ind., act."
+    ],
+    "infra,": [
+        "<b>infra </b> (adverb):",
+        "<b>infra </b> (adverb):"
+    ],
+    "fastus": [
+        "<b>fastus#1 </b> (adj.):, nom.",
+        "<b>fastus#2 </b> (noun):, acc.",
+        "<b>fastus#2 </b> (noun):, nom.",
+        "<b>fastus#2 </b> (noun):, gen.",
+        "<b>fastus#2 </b> (noun):, nom."
+    ],
+    "ambitio": [
+        "<b>ambitio </b> (noun):, nom.",
+        "<b>ambitio </b> (noun):, voc."
+    ],
+    "omnis": [
+        "<b>omne </b> (noun):, gen.",
+        "<b>omnes </b> (noun):, acc.",
+        "<b>omnes </b> (noun):, acc.",
+        "<b>omnis </b> (adj.):, acc.",
+        "<b>omnis </b> (adj.):, acc.",
+        "<b>omnis </b> (adj.):, gen.",
+        "<b>omnis </b> (adj.):, gen.",
+        "<b>omnis </b> (adj.):, gen.",
+        "<b>omnis </b> (adj.):, nom.",
+        "<b>omnis </b> (adj.):, nom.",
+        "<b>omnis </b> (adj.):, voc.",
+        "<b>omnis </b> (adj.):, voc."
+    ],
+    "sustinuit": [
+        "<b>sustineo </b> (vrb.):, perf., ind., act."
+    ],
+    "multos": [
+        "<b>multi </b> (noun):, acc.",
+        "<b>multus </b> (adj.):, acc."
+    ],
+    "tot": [
+        "<b>tot </b> (irregular):"
+    ],
+    "taedia": [
+        "<b>taedio </b> (vrb.):, pres., imp., act.",
+        "<b>taedium </b> (noun):, nom.",
+        "<b>taedium </b> (noun):, voc.",
+        "<b>taedium </b> (noun):, acc."
+    ],
+    "annos,": [
+        "<b>annus </b> (noun):, acc."
+    ],
+    "piguit": [
+        "<b>pigeo </b> (vrb.):, perf., ind., act."
+    ],
+    "sortis,": [
+        "<b>sors </b> (noun):, acc.",
+        "<b>sors </b> (noun):, gen.",
+        "<b>sors </b> (noun):, acc.",
+        "<b>sors </b> (noun):, gen.",
+        "<b>sors </b> (noun):, nom.",
+        "<b>sortio </b> (vrb.):, pres., ind., act.",
+        "<b>sortior </b> (vrb.):, pres., ind., act."
+    ],
+    "quamlibet": [
+        "<b>quamlibet </b> (adverb):"
+    ],
+    "arcta": [
+        "<b>arceo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>arceo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>arceo </b> (vrb.):, perf., part., pass., acc.",
+        "<b>arceo </b> (vrb.):, perf., part., pass., abl.",
+        "<b>arceo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>arceo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>artus#1 </b> (adj.):, nom.",
+        "<b>artus#1 </b> (adj.):, voc.",
+        "<b>artus#1 </b> (adj.):, acc.",
+        "<b>artus#1 </b> (adj.):, abl.",
+        "<b>artus#1 </b> (adj.):, nom.",
+        "<b>artus#1 </b> (adj.):, voc."
+    ],
+    "foret,": [
+        "<b>foro </b> (vrb.):, pres., subj., act.",
+        "<b>sum#1 </b> (vrb.):, impf., subj., act."
+    ],
+    "donec": [
+        "<b>donec </b> (conjunction):"
+    ],
+    "jam": [
+        "<b>jam </b> (adverb):"
+    ],
+    "fessum,": [
+        "<b>fatisco </b> (vrb.):, perf., part., pass., gen.",
+        "<b>fatisco </b> (vrb.):, perf., part., pass., gen.",
+        "<b>fatisco </b> (vrb.):, perf., part., pass., acc.",
+        "<b>fatisco </b> (vrb.):, perf., part., pass., nom.",
+        "<b>fatisco </b> (vrb.):, perf., part., pass., nom.",
+        "<b>fatisco </b> (vrb.):, perf., part., pass., voc.",
+        "<b>fatisco </b> (vrb.):, perf., part., pass., acc.",
+        "<b>fatisco </b> (vrb.):, sup., nom.",
+        "<b>fessus </b> (adj.):, gen.",
+        "<b>fessus </b> (adj.):, gen.",
+        "<b>fessus </b> (adj.):, acc.",
+        "<b>fessus </b> (adj.):, nom.",
+        "<b>fessus </b> (adj.):, nom.",
+        "<b>fessus </b> (adj.):, voc.",
+        "<b>fessus </b> (adj.):, acc."
+    ],
+    "serior": [
+        "<b>serus </b> (adj.):, nom.",
+        "<b>serus </b> (adj.):, nom.",
+        "<b>serus </b> (adj.):, voc.",
+        "<b>serus </b> (adj.):, voc."
+    ],
+    "adforet": [
+        "<b>adsum </b> (vrb.):, impf., subj., act."
+    ],
+    "aetas,": [
+        "<b>aetas </b> (noun):, nom."
+    ],
+    "gaudenti": [
+        "<b>gaudeo </b> (vrb.):, pres., part., abl.",
+        "<b>gaudeo </b> (vrb.):, pres., part., abl.",
+        "<b>gaudeo </b> (vrb.):, pres., part., abl.",
+        "<b>gaudeo </b> (vrb.):, pres., part., dat.",
+        "<b>gaudeo </b> (vrb.):, pres., part., dat.",
+        "<b>gaudeo </b> (vrb.):, pres., part., dat."
+    ],
+    "excepit": [
+        "<b>excipio </b> (vrb.):, perf., ind., act."
+    ],
+    "sinu.": [
+        "<b>sinus#1 </b> (noun):, abl."
+    ],
+    "emeritae": [
+        "<b>emereo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>emereo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>emereo </b> (vrb.):, perf., part., pass., dat.",
+        "<b>emereo </b> (vrb.):, perf., part., pass., gen.",
+        "<b>emereor </b> (vrb.):, perf., part., pass., nom.",
+        "<b>emereor </b> (vrb.):, perf., part., pass., voc.",
+        "<b>emereor </b> (vrb.):, perf., part., pass., dat.",
+        "<b>emereor </b> (vrb.):, perf., part., pass., gen.",
+        "<b>emeritus </b> (adj.):, nom.",
+        "<b>emeritus </b> (adj.):, voc.",
+        "<b>emeritus </b> (adj.):, dat.",
+        "<b>emeritus </b> (adj.):, gen.",
+        "<b>emeritus </b> (adj.):, nom.",
+        "<b>emeritus </b> (adj.):, voc.",
+        "<b>emeritus </b> (adj.):, dat.",
+        "<b>emeritus </b> (adj.):, gen."
+    ],
+    "statio": [
+        "<b>statio </b> (noun):, nom.",
+        "<b>statio </b> (noun):, voc."
+    ],
+    "sperata": [
+        "<b>sperata </b> (noun):, abl.",
+        "<b>sperata </b> (noun):, nom.",
+        "<b>sperata </b> (noun):, voc.",
+        "<b>spero </b> (vrb.):, perf., part., pass., nom.",
+        "<b>spero </b> (vrb.):, perf., part., pass., voc.",
+        "<b>spero </b> (vrb.):, perf., part., pass., acc.",
+        "<b>spero </b> (vrb.):, perf., part., pass., abl.",
+        "<b>spero </b> (vrb.):, perf., part., pass., nom.",
+        "<b>spero </b> (vrb.):, perf., part., pass., voc."
+    ],
+    "senectae,": [
+        "<b>senecta </b> (noun):, nom.",
+        "<b>senecta </b> (noun):, voc.",
+        "<b>senecta </b> (noun):, dat.",
+        "<b>senecta </b> (noun):, gen.",
+        "<b>senectus#1 </b> (adj.):, nom.",
+        "<b>senectus#1 </b> (adj.):, voc.",
+        "<b>senectus#1 </b> (adj.):, dat.",
+        "<b>senectus#1 </b> (adj.):, gen."
+    ],
+    "nimium": [
+        "<b>nimium </b> (noun):, gen.",
+        "<b>nimium </b> (noun):, nom.",
+        "<b>nimium </b> (noun):, voc.",
+        "<b>nimium </b> (noun):, acc.",
+        "<b>nimius </b> (adj.):, gen.",
+        "<b>nimius </b> (adj.):, gen.",
+        "<b>nimius </b> (adj.):, acc.",
+        "<b>nimius </b> (adj.):, nom.",
+        "<b>nimius </b> (adj.):, nom.",
+        "<b>nimius </b> (adj.):, voc.",
+        "<b>nimius </b> (adj.):, acc."
+    ],
+    "nobis": [
+        "<b>nos </b> (pronoun):, abl.",
+        "<b>nos </b> (pronoun):, abl.",
+        "<b>nos </b> (pronoun):, dat.",
+        "<b>nos </b> (pronoun):, dat."
+    ],
+    "brevis": [
+        "<b>breve </b> (noun):, gen.",
+        "<b>brevis </b> (adj.):, acc.",
+        "<b>brevis </b> (adj.):, acc.",
+        "<b>brevis </b> (adj.):, gen.",
+        "<b>brevis </b> (adj.):, gen.",
+        "<b>brevis </b> (adj.):, gen.",
+        "<b>brevis </b> (adj.):, nom.",
+        "<b>brevis </b> (adj.):, nom.",
+        "<b>brevis </b> (adj.):, voc.",
+        "<b>brevis </b> (adj.):, voc.",
+        "<b>brevis </b> (adj.):, acc.",
+        "<b>brevis </b> (adj.):, gen.",
+        "<b>brevis </b> (adj.):, nom.",
+        "<b>brevis </b> (adj.):, acc.",
+        "<b>brevis </b> (adj.):, gen.",
+        "<b>brevis </b> (adj.):, nom."
+    ],
+    "illa": [
+        "<b>illa </b> (adverb):",
+        "<b>ille </b> (pronoun):, nom.",
+        "<b>ille </b> (pronoun):, nom.",
+        "<b>ille </b> (pronoun):, voc.",
+        "<b>ille </b> (pronoun):, acc.",
+        "<b>ille </b> (pronoun):, abl."
+    ],
+    "invidit": [
+        "<b>invideo </b> (vrb.):, perf., ind., act."
+    ],
+    "pravis": [
+        "<b>pravus </b> (adj.):, abl.",
+        "<b>pravus </b> (adj.):, abl.",
+        "<b>pravus </b> (adj.):, abl.",
+        "<b>pravus </b> (adj.):, dat.",
+        "<b>pravus </b> (adj.):, dat.",
+        "<b>pravus </b> (adj.):, dat."
+    ],
+    "mors": [
+        "<b>mors </b> (noun):, nom."
+    ],
+    "pectus": [
+        "<b>pectus </b> (noun):, nom.",
+        "<b>pectus </b> (noun):, voc.",
+        "<b>pectus </b> (noun):, acc."
+    ],
+    "amabile": [
+        "<b>amabilis </b> (adj.):, nom.",
+        "<b>amabilis </b> (adj.):, voc.",
+        "<b>amabilis </b> (adj.):, acc."
+    ],
+    "terris,": [
+        "<b>terra </b> (noun):, abl.",
+        "<b>terra </b> (noun):, dat."
+    ],
+    "dederat": [
+        "<b>do </b> (vrb.):, pluperfect, ind., act."
+    ],
+    "victas": [
+        "<b>vinco </b> (vrb.):, perf., part., pass., acc.",
+        "<b>vivo </b> (vrb.):, perf., part., pass., acc."
+    ],
+    "livor": [
+        "<b>livor </b> (noun):, nom.",
+        "<b>livor </b> (noun):, voc."
+    ],
+    "manus.": [
+        "<b>manus#1 </b> (noun):, acc.",
+        "<b>manus#1 </b> (noun):, nom.",
+        "<b>manus#1 </b> (noun):, gen.",
+        "<b>manus#1 </b> (noun):, nom."
+    ],
+    "parca": [
+        "<b>parcus </b> (adj.):, nom.",
+        "<b>parcus </b> (adj.):, voc.",
+        "<b>parcus </b> (adj.):, acc.",
+        "<b>parcus </b> (adj.):, abl.",
+        "<b>parcus </b> (adj.):, nom.",
+        "<b>parcus </b> (adj.):, voc."
+    ],
+    "virum": [
+        "<b>vir </b> (noun):, gen.",
+        "<b>vir </b> (noun):, acc.",
+        "<b>virus </b> (noun):, nom.",
+        "<b>virus </b> (noun):, voc.",
+        "<b>virus </b> (noun):, acc.",
+        "<b>virus </b> (noun):, gen.",
+        "<b>virus </b> (noun):, nom.",
+        "<b>virus </b> (noun):, voc.",
+        "<b>virus </b> (noun):, acc."
+    ],
+    "invidit,": [
+        "<b>invideo </b> (vrb.):, perf., ind., act."
+    ],
+    "tamen": [
+        "<b>tamen </b> (adverb):"
+    ],
+    "abstulit": [
+        "<b>abstulo </b> (vrb.):, pres., ind., act.",
+        "<b>aufero </b> (vrb.):, perf., ind., act."
+    ],
+    "omnem.": [
+        "<b>omnis </b> (adj.):, acc.",
+        "<b>omnis </b> (adj.):, acc."
+    ],
+    "sculpta": [
+        "<b>sculpo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>sculpo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>sculpo </b> (vrb.):, perf., part., pass., acc.",
+        "<b>sculpo </b> (vrb.):, perf., part., pass., abl.",
+        "<b>sculpo </b> (vrb.):, perf., part., pass., nom.",
+        "<b>sculpo </b> (vrb.):, perf., part., pass., voc.",
+        "<b>sculptus </b> (adj.):, nom.",
+        "<b>sculptus </b> (adj.):, voc.",
+        "<b>sculptus </b> (adj.):, acc.",
+        "<b>sculptus </b> (adj.):, abl.",
+        "<b>sculptus </b> (adj.):, nom.",
+        "<b>sculptus </b> (adj.):, voc."
+    ],
+    "piis": [
+        "<b>pius </b> (adj.):, abl.",
+        "<b>pius </b> (adj.):, abl.",
+        "<b>pius </b> (adj.):, abl.",
+        "<b>pius </b> (adj.):, dat.",
+        "<b>pius </b> (adj.):, dat.",
+        "<b>pius </b> (adj.):, dat."
+    ],
+    "animis": [
+        "<b>anima </b> (noun):, abl.",
+        "<b>anima </b> (noun):, dat.",
+        "<b>animus </b> (noun):, abl.",
+        "<b>animus </b> (noun):, dat."
+    ],
+    "ejus": [
+        "<b>is </b> (pronoun):, gen.",
+        "<b>is </b> (pronoun):, gen.",
+        "<b>is </b> (pronoun):, gen."
+    ],
+    "imago": [
+        "<b>imago </b> (noun):, nom."
+    ],
+    "manet.": [
+        "<b>maneo </b> (vrb.):, pres., ind., act.",
+        "<b>mano </b> (vrb.):, pres., subj., act."
+    ],
+    "ibit": [
+        "<b>eo#1 </b> (vrb.):, fut., ind., act."
+    ],
+    "exemplum,": [
+        "<b>exemplum </b> (noun):, gen.",
+        "<b>exemplum </b> (noun):, nom.",
+        "<b>exemplum </b> (noun):, voc.",
+        "<b>exemplum </b> (noun):, acc."
+    ],
+    "seroque": [
+        "<b>sero#1 </b> (vrb.):, pres., ind., act.",
+        "<b>sero#2 </b> (vrb.):, pres., ind., act.",
+        "<b>sero#3 </b> (vrb.):, pres., ind., act.",
+        "<b>serum </b> (noun):, abl.",
+        "<b>serum </b> (noun):, dat.",
+        "<b>serum </b> (noun):, abl.",
+        "<b>serum </b> (noun):, dat.",
+        "<b>serus </b> (adj.):, abl.",
+        "<b>serus </b> (adj.):, abl.",
+        "<b>serus </b> (adj.):, dat.",
+        "<b>serus </b> (adj.):, dat."
+    ],
+    "canetur": [
+        "<b>caneo </b> (vrb.):, pres., ind., pass.",
+        "<b>cano </b> (vrb.):, fut., ind., pass."
+    ],
+    "ab": [
+        "<b>ab </b> (preposition):"
+    ],
+    "aevo,": [
+        "<b>aevum </b> (noun):, abl.",
+        "<b>aevum </b> (noun):, dat."
+    ],
+    "aurea": [
+        "<b>aurea </b> (noun):, abl.",
+        "<b>aurea </b> (noun):, nom.",
+        "<b>aurea </b> (noun):, voc.",
+        "<b>aureus </b> (adj.):, nom.",
+        "<b>aureus </b> (adj.):, voc.",
+        "<b>aureus </b> (adj.):, acc.",
+        "<b>aureus </b> (adj.):, abl.",
+        "<b>aureus </b> (adj.):, nom.",
+        "<b>aureus </b> (adj.):, voc."
+    ],
+    "potuit": [
+        "<b>possum </b> (vrb.):, perf., ind., act."
+    ],
+    "secla": [
+        "<b>saeculum </b> (noun):, nom.",
+        "<b>saeculum </b> (noun):, voc.",
+        "<b>saeculum </b> (noun):, acc."
+    ],
+    "decere,": [
+        "<b>deceris </b> (noun):, abl.",
+        "<b>decet </b> (vrb.):, pres., imp., pass.",
+        "<b>decet </b> (vrb.):, pres., ind., pass.",
+        "<b>decet </b> (vrb.):, pres., inf., act."
+    ],
+    "fides,": [
+        "<b>fides#1 </b> (noun):, acc.",
+        "<b>fides#1 </b> (noun):, nom.",
+        "<b>fides#1 </b> (noun):, nom.",
+        "<b>fides#1 </b> (noun):, acc.",
+        "<b>fides#1 </b> (noun):, nom.",
+        "<b>fides#1 </b> (noun):, voc.",
+        "<b>fides#2 </b> (noun):, acc.",
+        "<b>fides#2 </b> (noun):, nom.",
+        "<b>fides#2 </b> (noun):, voc.",
+        "<b>fido </b> (vrb.):, fut., ind., act."
+    ],
+    "placidi": [
+        "<b>placidus </b> (adj.):, nom.",
+        "<b>placidus </b> (adj.):, voc.",
+        "<b>placidus </b> (adj.):, gen.",
+        "<b>placidus </b> (adj.):, gen."
+    ],
+    "mores,": [
+        "<b>mos </b> (noun):, acc.",
+        "<b>mos </b> (noun):, nom.",
+        "<b>mos </b> (noun):, voc."
+    ],
+    "dignus": [
+        "<b>dignus </b> (adj.):, nom."
+    ],
+    "marmore": [
+        "<b>marmor </b> (noun):, abl."
+    ],
+    "mixtus": [
+        "<b>misceo </b> (vrb.):, perf., part., pass., nom."
+    ],
+    "miti": [
+        "<b>mitis </b> (adj.):, abl.",
+        "<b>mitis </b> (adj.):, abl.",
+        "<b>mitis </b> (adj.):, abl.",
+        "<b>mitis </b> (adj.):, dat.",
+        "<b>mitis </b> (adj.):, dat.",
+        "<b>mitis </b> (adj.):, dat."
+    ],
+    "gravitate": [
+        "<b>gravitas </b> (noun):, abl."
+    ],
+    "vero": [
+        "<b>vero#2 </b> (vrb.):, pres., ind., act.",
+        "<b>verum </b> (noun):, abl.",
+        "<b>verum </b> (noun):, dat.",
+        "<b>verum#2 </b> (noun):, abl.",
+        "<b>verum#2 </b> (noun):, dat.",
+        "<b>verus </b> (adj.):, abl.",
+        "<b>verus </b> (adj.):, abl.",
+        "<b>verus </b> (adj.):, dat.",
+        "<b>verus </b> (adj.):, dat."
+    ],
+    "dignissima": [
+        "<b>dignus </b> (adj.):, nom.",
+        "<b>dignus </b> (adj.):, voc.",
+        "<b>dignus </b> (adj.):, acc.",
+        "<b>dignus </b> (adj.):, abl.",
+        "<b>dignus </b> (adj.):, nom.",
+        "<b>dignus </b> (adj.):, voc."
+    ],
+    "sedibus": [
+        "<b>sedes </b> (noun):, abl.",
+        "<b>sedes </b> (noun):, dat."
+    ],
+    "hospes": [
+        "<b>hospes </b> (noun):, nom."
+    ],
+    "salve,": [
+        "<b>salve </b> (adverb):",
+        "<b>salveo </b> (vrb.):, pres., imp., act.",
+        "<b>salvus </b> (adj.):",
+        "<b>salvus </b> (adj.):, voc.",
+        "<b>salvus </b> (adj.):, voc."
+    ],
+    "anima,": [
+        "<b>anima </b> (noun):, abl.",
+        "<b>anima </b> (noun):, nom.",
+        "<b>anima </b> (noun):, voc.",
+        "<b>animo </b> (vrb.):, pres., imp., act."
+    ],
+    "aeternis": [
+        "<b>aeternus </b> (adj.):, abl.",
+        "<b>aeternus </b> (adj.):, abl.",
+        "<b>aeternus </b> (adj.):, abl.",
+        "<b>aeternus </b> (adj.):, dat.",
+        "<b>aeternus </b> (adj.):, dat.",
+        "<b>aeternus </b> (adj.):, dat."
+    ],
+    "satianda": [
+        "<b>satio#1 </b> (vrb.):, gerundive, nom.",
+        "<b>satio#1 </b> (vrb.):, gerundive, voc.",
+        "<b>satio#1 </b> (vrb.):, gerundive, acc.",
+        "<b>satio#1 </b> (vrb.):, gerundive, abl.",
+        "<b>satio#1 </b> (vrb.):, gerundive, nom.",
+        "<b>satio#1 </b> (vrb.):, gerundive, voc."
+    ],
+    "bonis.": [
+        "<b>bonae </b> (noun):, abl.",
+        "<b>bonae </b> (noun):, dat.",
+        "<b>bonum </b> (noun):, abl.",
+        "<b>bonum </b> (noun):, dat.",
+        "<b>bonum# </b> (noun):, abl.",
+        "<b>bonum# </b> (noun):, dat.",
+        "<b>bonus </b> (adj.):, abl.",
+        "<b>bonus </b> (adj.):, abl.",
+        "<b>bonus </b> (adj.):, abl.",
+        "<b>bonus </b> (adj.):, dat.",
+        "<b>bonus </b> (adj.):, dat.",
+        "<b>bonus </b> (adj.):, dat."
+    ]
+}
