@@ -42,7 +42,7 @@ def shorten_name(name):
 
 def analyze_text(_text):
     text = clean_text(_text)
-    text = text.replace("apollo", "Apollo")
+
     try:
         command = f"docker run -i --rm perseidsproject/morpheus-perseids sh -c \"echo '{text}' | MORPHLIB=stemlib bin/morpheus -L\""
         result = subprocess.run(command, shell=True, check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
