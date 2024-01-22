@@ -6,12 +6,15 @@ import {onMounted, ref} from 'vue'
 import {Poem, PoemByLines, TextItem} from '../models'
 import MetadataComponent from 'components/MetadataComponent.vue'
 import TooltipComponent from 'components/TooltipComponent.vue'
+import TokenDialog from 'components/TokenDialog.vue'
 
 const coreStore = useCoreStore()
 const route = useRoute()
 const poem = ref<Poem | null>(null)
 const poem_id = ref<string | null>(null)
 const author_id = ref<string | null>(null)
+const tokenDialogOpen = ref<boolean>(false)
+const selectedToken = ref<TextItem | null>(null)
 
 onMounted(() => {
   const _author_id = route.params.author_id.toString()
@@ -34,11 +37,17 @@ const aggregatePoemTextByLine = () => {
   }
   return lines
 }
+
+const handleTokenClick = (token: TextItem) => {
+  selectedToken.value = token
+  tokenDialogOpen.value = true
+}
 </script>
 
 <template>
   <CenteredContainer title_class="tw-text-green-500" v-if="poem" :title="poem.title" max-width="2000px">
-    <div class="fit row wrap justify-evenly items-start content-start">
+    <div class="fit row wrap justify-center items-start content-start">
+      <MetadataComponent :author_id="author_id" :poem_id="poem_id" />
       <q-list dense>
         <q-item
           class="text-left"
@@ -53,18 +62,18 @@ const aggregatePoemTextByLine = () => {
                 <td>
                   <p>
                     <span
+                      @click="handleTokenClick(token)"
                       v-for="(token, ind) in line[1]"
                       :key="`token_${ind}`"
                       class="cursor-pointer hover:tw-text-blue-700 tw-font-sans">
-                      {{ token.token.trim() }}
-                      <!--                    {{-->
-                      <!--                      token.pos === 'PUNCT'-->
-                      <!--                        ? `${token.token}`-->
-                      <!--                        : ind === 0-->
-                      <!--                        ? `${token.token}`-->
-                      <!--                        : `${token.token}`-->
-                      <!--                    }}-->
-                      <q-tooltip> <TooltipComponent :token="token" /></q-tooltip>
+                      {{
+                        token.pos === 'PUNCT'
+                          ? `${token.token}`
+                          : ind === 0
+                          ? `${token.token}`
+                          : ` ${token.token}`
+                      }}
+                      <!--                      <q-tooltip> <TooltipComponent :token="token" /></q-tooltip>-->
                     </span>
                   </p>
                 </td>
@@ -73,8 +82,10 @@ const aggregatePoemTextByLine = () => {
           </q-item-section>
         </q-item>
       </q-list>
-      <MetadataComponent :author_id="author_id" :poem_id="poem_id" />
     </div>
+    <q-dialog v-model="tokenDialogOpen" persistent>
+      <TokenDialog :token="selectedToken" />
+    </q-dialog>
   </CenteredContainer>
 </template>
 

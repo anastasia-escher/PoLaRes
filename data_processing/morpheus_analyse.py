@@ -1,6 +1,7 @@
 from data_processing.nlp_tool.morpheus_config import analyze_text, parse_morpheus_output
 import json
 
+print('started')
 with open("data/demo.txt", "r", encoding="UTF-8") as input_file:
     text = input_file.read()
     output = analyze_text(text)

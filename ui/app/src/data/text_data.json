@@ -39,19 +39,13 @@
                     "line_number": "1"
                 },
                 {
-                    "token": "Gothos",
+                    "token": "Gothosque",
                     "lemma": "Gothos",
                     "pos": "NOUN",
                     "morphosyntactic_features": "{Case: [accusative], Gender: [masculine], Number: [plural]}",
                     "line_number": "1"
                 },
-                {
-                    "token": "que",
-                    "lemma": "que",
-                    "pos": "CCONJ",
-                    "morphosyntactic_features": "{}",
-                    "line_number": "1"
-                },
+
                 {
                     "token": ",",
                     "lemma": ",",

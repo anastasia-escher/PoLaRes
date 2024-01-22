@@ -42,7 +42,6 @@ def shorten_name(name):
 
 def analyze_text(_text):
     text = clean_text(_text)
-
     try:
         command = f"docker run -i --rm perseidsproject/morpheus-perseids sh -c \"echo '{text}' | MORPHLIB=stemlib bin/morpheus -L\""
         result = subprocess.run(command, shell=True, check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
@@ -54,7 +53,6 @@ def analyze_text(_text):
 
 
 def parse_morpheus_output(output, output_format="list"):
-    print(output)
     root = ET.fromstring(output)
     parsed_data = {}
 
@@ -84,6 +82,7 @@ def parse_morpheus_output(output, output_format="list"):
                     interpretation_parts = [f"<b>{lemma} ({shorten_name(pos)})</b>:"]
 
                     for type in ['tense', 'mood', 'voice', 'pers', 'case', 'gend', 'num', 'comp', 'deg', 'morth']:
+                        print(type)
                         if infl.find(type) is not None:
                             interpretation_parts.append(shorten_name(infl.find(type).text))
 

@@ -71,7 +71,7 @@ const metadataFields = computed(() => {
 </script>
 
 <template>
-  <div class="tw-mt-20 tw-mb-6 p-6 tw-border-l-2 tw-border-green-500">
+  <div class="tw-mb-6 p-6 tw-border-r-2 tw-border-l-2 tw-border-green-500">
     <div class="q-pa-md" style="max-width: 500px">
       <q-list v-if="metadataFields.length">
         <q-item v-for="(field, index) in metadataFields" :key="index" v-ripple>

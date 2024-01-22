@@ -6,7 +6,9 @@
       <div class="tw-container tw-px-4 tw-mx-auto">
         <div class="md:tw-max-w-2xl tw-mx-auto tw-mb-12 tw-text-center">
           <div class="tw-flex tw-items-center tw-justify-center">
-            <p class="tw-inline-block tw-text-green-500 tw-font-medium">University of Lund</p>
+            <p class="tw-inline-block tw-text-green-500 tw-font-medium"
+              >University of Lund, University of Uppsala</p
+            >
           </div>
           <h2
             class="no-space tw-mb-4 tw-text-3xl md:tw-text-5xl tw-leading-tight tw-text-darkCoolGray-900 tw-font-bold tw-tracking-tighter">

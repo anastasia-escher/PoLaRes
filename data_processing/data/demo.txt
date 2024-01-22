@@ -1,5 +1,5 @@
-lind
-lind_1
+Erik Lindschöld
+Lindschöld_1
 In transitum regis Caroli Gustavi per mare Balticum glacie constrictum anno 1658
 Marte satos Sveones prisci sensere Gothosque,
 Traditur et Boreae Mars habitasse lares.
@@ -39,15 +39,15 @@ Illinc seu gemini, sublimia flumina, muri
 Erecta, et sicco sunt vada tacta pede.
 Pensilis hinc fornix et pons christallinus undas
 Induit insuetum his imposuitque jugum;
-Neutris fluxa fldes elementis, consita neutris
+Neutris fluxa fides elementis, consita neutris
 Neptuni movit turbine bilis aquas.
 Utraque gens victis illustrior hostibus egit,
 Utraque gens terris ditibus aucta fuit.
 Quaeris, cur similes referant miracula casus?
 Utraque gens nixa est, utraque causa, Deo.
 
-columb
-columb_1
+Johannes Columbus
+Columbus_1
 In nuptias dn. Urbani Hiärnes et Mariae Swaans (1676)
 Suaviloquens Urbane, pater cui certus Apollo
 Et chelyn et medicae munera donat opis,
@@ -70,8 +70,8 @@ Quid lapsas vires restituisse queat;
 Sic neque, quod doleat, conjux neque amicus habebit,
 Laudabitque fidem laetus uterque tuam.
 
-lager
-lager_1
+Petrus Lagerlöf
+Lagerlöf_1
 In Obitum Johannis Iser, Praepositi et Pastoris in Fryksdahlen Vermelandiae (1689)
 Ergo tuum sine me ducetur funus ISERI?
 Officiumque pium sors mihi saeva negat?
@@ -121,4 +121,3 @@ Et placidi mores, et dignus marmore candor,
 Et mixtus miti cum gravitate lepos.
 Tu vero aethereis dignissima sedibus hospes
 Salve, anima, aeternis nunc satianda bonis.
-
