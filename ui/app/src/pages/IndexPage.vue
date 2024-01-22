@@ -7,8 +7,8 @@
         <div class="md:tw-max-w-2xl tw-mx-auto tw-mb-12 tw-text-center">
           <div class="tw-flex tw-items-center tw-justify-center">
             <p class="tw-inline-block tw-text-green-500 tw-font-medium"
-              >University of Lund, University of Uppsala</p
-            >
+              >Lund University, Uppsala University
+            </p>
           </div>
           <h2
             class="no-space tw-mb-4 tw-text-3xl md:tw-text-5xl tw-leading-tight tw-text-darkCoolGray-900 tw-font-bold tw-tracking-tighter">
@@ -18,7 +18,7 @@
           <p class="tw-mb-6 tw-text-lg md:tw-text-xl tw-font-medium tw-text-coolGray-500">New Latin Corpus</p>
           <div
             class="tw-inline-block tw-py-1 tw-px-3 tw-text-xs tw-leading-5 tw-text-green-500 tw-font-medium tw-bg-green-100 tw-rounded-full tw-shadow-sm">
-            PoLaRes
+            PoLaReS
           </div>
         </div>
 
