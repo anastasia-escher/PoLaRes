@@ -35,7 +35,7 @@ const findTexts = (author_id: string) => {
 
 const handlePoemClick = (poem_id: string, author_id: string) => {
   console.log(poem_id)
-  router.push(`/poems/${author_id}/${poem_id}`)
+  router.push(`library/poems/${author_id}/${poem_id}`)
 }
 </script>
 

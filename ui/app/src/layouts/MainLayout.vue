@@ -28,7 +28,6 @@ const toggleRightDrawer = () => {
         <q-route-tab to="/" label="Home" />
         <!--        <q-route-tab to="/search" label="Search" />-->
         <q-route-tab to="/library" label="Library" />
-        <q-route-tab to="/useful_links" label="Useful links" />
         <q-route-tab to="/about" label="About" />
       </q-tabs>
     </q-header>
