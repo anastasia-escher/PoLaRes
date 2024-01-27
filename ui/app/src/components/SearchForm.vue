@@ -91,7 +91,6 @@ const searchInData = (query: string, type: 'full' | 'lemma') => {
 }
 
 const handleSubmit = (type: 'lemma' | 'full') => {
-  alert(type)
   searchInData(query.value, type)
 }
 
