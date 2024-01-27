@@ -5,8 +5,8 @@ import {useCoreStore} from 'stores/core-store'
 import {onMounted, ref} from 'vue'
 import {Poem, PoemByLines, TextItem} from '../models'
 import MetadataComponent from 'components/MetadataComponent.vue'
-import TooltipComponent from 'components/TooltipComponent.vue'
 import TokenDialog from 'components/TokenDialog.vue'
+import {storeToRefs} from 'pinia'
 
 const coreStore = useCoreStore()
 const route = useRoute()
@@ -15,6 +15,8 @@ const poem_id = ref<string | null>(null)
 const author_id = ref<string | null>(null)
 const tokenDialogOpen = ref<boolean>(false)
 const selectedToken = ref<TextItem | null>(null)
+
+const {data} = storeToRefs(coreStore)
 
 onMounted(() => {
   const _author_id = route.params.author_id.toString()

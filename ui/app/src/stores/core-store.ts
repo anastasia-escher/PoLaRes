@@ -5,6 +5,7 @@ import text_data from 'src/data/text_data.json'
 import meta from 'src/data/metadata.json'
 import forms from 'src/data/forms.json'
 import {authors} from '../data/corpus_data'
+import {TextItem} from '../models'
 
 export const useCoreStore = defineStore('core', () => {
   const data = ref<Root>(text_data as Root)

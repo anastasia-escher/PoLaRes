@@ -14,6 +14,7 @@ export type TextItem = {
   pos: string
   morphosyntactic_features: string
   line_number: string
+  highlight?: boolean
 }
 
 export type Poem = {

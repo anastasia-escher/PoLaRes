@@ -1,11 +1,12 @@
 <script setup lang="ts">
-
+import CenteredContainer from 'layouts/CenteredContainer.vue'
+import SearchForm from 'components/SearchForm.vue'
 </script>
 
 <template>
-<div>To be done</div>
+  <CenteredContainer title="Corpus Search" max-width="1500px">
+    <SearchForm />
+  </CenteredContainer>
 </template>
 
-<style scoped lang="scss">
-
-</style>
+<style scoped lang="scss"></style>
