@@ -13,7 +13,7 @@ const projectParticipants = [
   {
     name: 'Arsenii Vetushko-Kalevich',
     affiliation: 'Lund University',
-    href: 'https://www.lunduniversity.lu.se/lucat/user/431826ffb8fd06c6f745f3165b971934',
+    href: 'https://www.sol.lu.se/en/person/ArsenijVetushkoKalevich/',
     description:
       'Arsenii Vetushko-Kalevich is a researcher in Latin at Lund University. ' +
       'In the PoLaReS project, his particular area of responsibility is the contents of the database.',
@@ -46,19 +46,6 @@ const projectParticipants = [
           </li>
         </ul>
       </div>
-      <!--      <q-list class="tw-text-base md:tw-text-lg tw-text-coolGray-500">-->
-      <!--        <q-item v-for="participant in projectParticipants" :key="participant.name">-->
-      <!--          <q-item-section>-->
-      <!--            <q-item-label-->
-      <!--              ><a target="_blank" class="cursor-pointer text-blue-8" :href="participant.href">{{-->
-      <!--                participant.name-->
-      <!--              }}</a></q-item-label-->
-      <!--            >-->
-      <!--            <q-item-label caption>{{ participant.affiliation }}</q-item-label>-->
-      <!--            <q-item-label>{{ participant.description }}</q-item-label>-->
-      <!--          </q-item-section>-->
-      <!--        </q-item>-->
-      <!--      </q-list>-->
 
       <p class="tw-mb-4 tw-mt-4 tw-text-xl tw-font-semibold tw-text-coolGray-800"> Useful Links </p>
 
