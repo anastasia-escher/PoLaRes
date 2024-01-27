@@ -3,6 +3,9 @@ import {ref} from 'vue'
 import {useCoreStore} from 'stores/core-store'
 import {storeToRefs} from 'pinia'
 import {TextItem} from '../models'
+import {useQuasar} from 'quasar'
+
+const $q = useQuasar()
 
 import ResultsTable from 'components/ResultsTable.vue'
 const coreStore = useCoreStore()
@@ -12,6 +15,8 @@ const query = ref<string>('')
 const lemmaQuery = ref<string>('')
 
 const searchResults = ref<any>([])
+
+const searchHasGivenNoResults = ref<boolean>(false)
 
 const getContextIfMatch = (textArray: TextItem[], query: string, type: 'full' | 'lemma') => {
   let queryTokens = query.split(' ').map(token => token.toLowerCase())
@@ -88,6 +93,14 @@ const searchInData = (query: string, type: 'full' | 'lemma') => {
   }
 
   searchResults.value = _results
+  if (_results.length === 0) {
+    $q.notify({
+      message: 'No results found',
+      color: 'warning',
+      position: 'center',
+      icon: 'report_problem',
+    })
+  }
 }
 
 const handleSubmit = (type: 'lemma' | 'full') => {
